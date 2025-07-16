@@ -182,7 +182,7 @@ export function heapSort<T>(
   }
 
   // For descending order, reverse the array if needed
-  if (compareFn(2, 1) < 0) {
+  if (arr.length >= 2 && compareFn(arr[1], arr[0]) < 0) {
     arr.reverse();
   }
 
