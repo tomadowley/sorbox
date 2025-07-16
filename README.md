@@ -51,3 +51,19 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 > Why do programmers prefer dark mode?<br>
 > Because light attracts bugs!
+
+---
+
+## 🎵 Song of the Day
+
+> **"Code On!"**<br>
+> (To the tune of any upbeat pop song)<br><br>
+> 💻 Type away, let the logic flow,<br>
+> Bugs can't stay, when your code's in control.<br>
+> Push and play, watch your project grow,<br>
+> Code on, code on, let your brilliance show!<br>
+> <br>
+> Test your dreams, and compile your fate,<br>
+> Ship your schemes, don't you ever wait.<br>
+> Merge upstreams, celebrate!<br>
+> Code on, code on—you're doing great!<br>
