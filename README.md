@@ -83,3 +83,19 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 > Semicolons make it right.<br>
 > Deploy and cheer, the coast is clear,<br>
 > Debugging blues turn into flight!<br>
+
+---
+
+## 🎤 The Merge Request Anthem
+
+> **"The Merge Request Anthem"**<br>
+> (For late-night coders everywhere)<br><br>
+> 🚀 Branching out with hopeful code,<br>
+> PR up, review in load.<br>
+> Comments come, but that's just fair,<br>
+> Ship it clean with utmost care.<br>
+> <br>
+> Approve, resolve, and hit the green,<br>
+> Teamwork strong, our repo's clean.<br>
+> Merge complete, the build is blessed,<br>
+> Celebrate your code—you're the best!<br>
