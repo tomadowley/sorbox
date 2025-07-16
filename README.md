@@ -99,3 +99,20 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 > Teamwork strong, our repo's clean.<br>
 > Merge complete, the build is blessed,<br>
 > Celebrate your code—you're the best!<br>
+
+---
+
+## 💤 The Infinite Loop Lullaby
+
+> **"The Infinite Loop Lullaby"**<br>
+> (A bedtime song for developers)<br><br>
+> 🔁 While (awake) {<br>
+>    Dream of code and coffee beans.<br>
+>    Semis blink, and monitors glow,<br>
+>    Into the stack, your thoughts will flow.<br>
+> }<br>
+> <br>
+> Infinite loops, but rest assured,<br>
+> Tomorrow's bugs will be endured.<br>
+> Sleep your way to brilliant hacks,<br>
+> And meet your dreams in curly brackets!<br>
