@@ -113,3 +113,25 @@ export function mergeSort<T>(
   const right = mergeSort(arr.slice(mid), compareFn);
   return merge(left, right);
 }
+
+/**
+ * Quick Sort implementation in TypeScript.
+ * Returns a new sorted array using the Quick Sort algorithm.
+ *
+ * @param arr - The array to be sorted.
+ * @param compareFn - Optional comparison function.
+ * @returns A new sorted array.
+ */
+export function quickSort<T>(
+  arr: T[],
+  compareFn: (a: T, b: T) => number = (a, b) =>
+    a < b ? -1 : a > b ? 1 : 0
+): T[] {
+  if (arr.length <= 1) return arr.slice();
+
+  const [pivot, ...rest] = arr;
+  const left = rest.filter(item => compareFn(item, pivot) < 0);
+  const right = rest.filter(item => compareFn(item, pivot) >= 0);
+
+  return [...quickSort(left, compareFn), pivot, ...quickSort(right, compareFn)];
+}
