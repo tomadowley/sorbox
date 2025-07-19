@@ -1,12 +1,13 @@
-import React, { useRef, useEffect, useState } from "react";
+import React, { useRef, useEffect, useState, useCallback } from "react";
 
-type Status = "playing" | "won" | "lost";
+type Status = "playing" | "won";
 
 const CANVAS_WIDTH = 800;
 const CANVAS_HEIGHT = 533;
 const OVERSAMPLE = 2;
 const INITIAL_SCALE = 3;
-const MAX_ZOOMS = 12;
+const MOVE_STEP = 0.4; // Multiplier for panning per arrow key
+const BEST_SCORE_KEY = "fractal_best_score";
 
 function randomInRange(a: number, b: number) {
   return a + Math.random() * (b - a);
@@ -23,22 +24,26 @@ export default function FractalGame() {
   const [centreX, setCentreX] = useState(-0.5);
   const [centreY, setCentreY] = useState(0);
   const [scale, setScale] = useState(INITIAL_SCALE);
-  const [zoomCount, setZoomCount] = useState(0);
+  const [moveCount, setMoveCount] = useState(0);
   const [status, setStatus] = useState<Status>("playing");
   const [target, setTarget] = useState<{ x: number; y: number }>({ x: 0, y: 0 });
   const [resetKey, setResetKey] = useState(0);
+  const [bestScore, setBestScore] = useState<number | null>(null);
 
   // Pick target on mount/reset
   useEffect(() => {
     setCentreX(-0.5);
     setCentreY(0);
     setScale(INITIAL_SCALE);
-    setZoomCount(0);
+    setMoveCount(0);
     setStatus("playing");
     setTarget({
       x: randomInRange(-2, 1),
       y: randomInRange(-1.2, 1.2),
     });
+    // Get bestScore from localStorage
+    const stored = localStorage.getItem(BEST_SCORE_KEY);
+    setBestScore(stored ? Number(stored) : null);
     // eslint-disable-next-line
   }, [resetKey]);
 
@@ -155,9 +160,19 @@ export default function FractalGame() {
     ctx.putImageData(imgData, 0, 0);
   }, [centreX, centreY, scale, resetKey]);
 
-  // Handle click to zoom
+  // Handle zoom in/out and increment moves
   function handleCanvasClick(e: React.MouseEvent) {
     if (status !== "playing") return;
+
+    // Detect right-click or ctrl/cmd/shift-click for zoom out
+    const isZoomOut =
+      e.type === "contextmenu" ||
+      e.button === 2 ||
+      e.ctrlKey ||
+      e.metaKey ||
+      e.shiftKey;
+
+    e.preventDefault?.();
 
     const rect = (e.target as HTMLCanvasElement).getBoundingClientRect();
     const clickX = e.clientX - rect.left;
@@ -171,29 +186,36 @@ export default function FractalGame() {
       centreY +
       (scale * (clickY - CANVAS_HEIGHT / 2)) / CANVAS_HEIGHT;
 
-    // Zoom in
-    const newScale = scale * 0.5;
-    const newZoom = zoomCount + 1;
+    let newScale = scale;
+    if (isZoomOut) {
+      newScale = Math.min(INITIAL_SCALE, scale * 2);
+    } else {
+      newScale = scale * 0.5;
+    }
 
-    // Win condition
+    // Don't allow zooming out past INITIAL_SCALE
+    if (newScale > INITIAL_SCALE) newScale = INITIAL_SCALE;
+
+    // Win condition: only check if zooming in (tighter box)
     const d = distance(newX, newY, target.x, target.y);
     const tolerance = newScale * 0.05;
 
-    if (d < tolerance) {
+    if (!isZoomOut && d < tolerance) {
       setCentreX(newX);
       setCentreY(newY);
       setScale(newScale);
-      setZoomCount(newZoom);
+      setMoveCount((mc) => {
+        const nextMove = mc + 1;
+        // Update bestScore if needed
+        if (status === "playing") {
+          if (bestScore == null || nextMove < bestScore) {
+            localStorage.setItem(BEST_SCORE_KEY, String(nextMove));
+            setBestScore(nextMove);
+          }
+        }
+        return nextMove;
+      });
       setStatus("won");
-      return;
-    }
-
-    if (newZoom === MAX_ZOOMS) {
-      setCentreX(newX);
-      setCentreY(newY);
-      setScale(newScale);
-      setZoomCount(newZoom);
-      setStatus("lost");
       return;
     }
 
@@ -201,12 +223,36 @@ export default function FractalGame() {
     setCentreX(newX);
     setCentreY(newY);
     setScale(newScale);
-    setZoomCount(newZoom);
+    setMoveCount((mc) => mc + 1);
   }
 
   function handleRestart() {
     setResetKey((k) => k + 1);
   }
+
+  // --- Panning logic (arrow keys) ---
+  const onKey = useCallback(
+    (e: KeyboardEvent) => {
+      if (status !== "playing") return;
+      let dx = 0, dy = 0;
+      if (e.key === "ArrowLeft") dx = -MOVE_STEP;
+      else if (e.key === "ArrowRight") dx = MOVE_STEP;
+      else if (e.key === "ArrowUp") dy = -MOVE_STEP;
+      else if (e.key === "ArrowDown") dy = MOVE_STEP;
+      if (dx !== 0 || dy !== 0) {
+        e.preventDefault();
+        setCentreX((x) => x + dx * scale);
+        setCentreY((y) => y + dy * scale);
+        setMoveCount((mc) => mc + 1);
+      }
+    },
+    [scale, status]
+  );
+
+  useEffect(() => {
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [onKey]);
 
   // Overlay styles
   const overlayStyle: React.CSSProperties = {
@@ -231,13 +277,13 @@ export default function FractalGame() {
     borderRadius: "6px",
     padding: "12px 18px",
     margin: "22px auto 0 auto",
-    maxWidth: 440,
+    maxWidth: 480,
     fontSize: 18,
     pointerEvents: "auto",
     textAlign: "center",
   };
 
-  const zoomStyle: React.CSSProperties = {
+  const movesStyle: React.CSSProperties = {
     alignSelf: "flex-end",
     background: "rgba(24,24,32,0.7)",
     borderRadius: "0 0 0 8px",
@@ -246,6 +292,10 @@ export default function FractalGame() {
     fontSize: 17,
     pointerEvents: "auto",
     marginTop: "auto",
+    display: "flex",
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 14,
   };
 
   const buttonStyle: React.CSSProperties = {
@@ -267,8 +317,6 @@ export default function FractalGame() {
   const statusMessage =
     status === "won"
       ? "🎉 Congrats, Crispin! You found the fractal treasure!"
-      : status === "lost"
-      ? "Game over, Crispin. Try again!"
       : "";
 
   // --- Directional clue logic ---
@@ -292,6 +340,27 @@ export default function FractalGame() {
   }
   // --- End directional clue logic ---
 
+  // --- Attach contextmenu for right-click (zoom out) ---
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    function onCtx(e: MouseEvent) {
+      if (status !== "playing") return;
+      // Only handle right-click if over the canvas
+      handleCanvasClick(
+        {
+          ...e,
+          preventDefault: () => e.preventDefault(),
+          button: 2,
+          type: "contextmenu",
+          nativeEvent: e,
+        } as any
+      );
+    }
+    canvas.addEventListener("contextmenu", onCtx);
+    return () => canvas.removeEventListener("contextmenu", onCtx);
+  }, [centreX, centreY, scale, status, handleCanvasClick]);
+
   return (
     <div style={{ position: "relative", width: CANVAS_WIDTH, height: CANVAS_HEIGHT, margin: "0 auto", paddingBottom: 120 }}>
       <canvas
@@ -299,6 +368,12 @@ export default function FractalGame() {
         width={CANVAS_WIDTH}
         height={CANVAS_HEIGHT}
         onClick={handleCanvasClick}
+        onAuxClick={e => {
+          // Support zoom out on middle-click too
+          if (e.button === 1) {
+            handleCanvasClick({ ...e, button: 2, type: "contextmenu" } as any);
+          }
+        }}
         style={{
           borderRadius: 6,
           width: CANVAS_WIDTH,
@@ -337,30 +412,40 @@ export default function FractalGame() {
           </div>
         )}
 
-        <div style={instructionsStyle}>
-          {status === "playing" && zoomCount === 0 && (
-            <>
-              <span>
-                <b>Crispin</b>, can you find the hidden fractal treasure?
-                <br />
-                Click anywhere to zoom in. Each zoom halves your view and recenters on your click.
-                <br />
-                You have <b>{MAX_ZOOMS}</b> zooms. Good luck!
-              </span>
-            </>
-          )}
-          {status !== "playing" && (
-            <>
-              <span style={{ fontSize: 22, fontWeight: 700 }}>{statusMessage}</span>
+        {/* Instructions Overlay */}
+        {status === "playing" && moveCount === 0 && (
+          <div style={instructionsStyle}>
+            <span>
+              <b>Crispin</b>, can you find the hidden fractal treasure?
               <br />
-              <button style={buttonStyle} onClick={handleRestart}>
-                Restart
-              </button>
-            </>
+              <b>Zoom in</b>: Left click the fractal to recenter and zoom in.<br />
+              <b>Zoom out</b>: Right click, or Ctrl/Cmd/Shift+click, to recenter and zoom out (cannot zoom out beyond start).<br />
+              <b>Pan</b>: Use arrow keys to move your view.<br />
+              Each action counts as a move. Find the treasure in as few moves as possible!
+            </span>
+          </div>
+        )}
+        {/* Status + Restart */}
+        {status === "won" && (
+          <div style={instructionsStyle}>
+            <span style={{ fontSize: 22, fontWeight: 700 }}>{statusMessage}</span>
+            <br />
+            <button style={buttonStyle} onClick={handleRestart}>
+              Restart
+            </button>
+          </div>
+        )}
+
+        {/* Moves and Best Score HUD */}
+        <div style={movesStyle}>
+          <span>
+            Moves: <b>{moveCount}</b>
+          </span>
+          {bestScore !== null && (
+            <span style={{ marginLeft: 12, opacity: 0.83 }}>
+              Best: <b>{bestScore}</b>
+            </span>
           )}
-        </div>
-        <div style={zoomStyle}>
-          Zooms left: <b>{MAX_ZOOMS - zoomCount}</b> / {MAX_ZOOMS}
         </div>
       </div>
     </div>
