@@ -13,6 +13,27 @@ function randomInRange(a: number, b: number) {
   return a + Math.random() * (b - a);
 }
 
+// Helper: find a random "interesting" boundary point in the Mandelbrot set
+function randomInterestingPoint(): { x: number; y: number } {
+  const maxProbeIter = 40;
+  for (let i = 0; i < 500; ++i) {
+    const x0 = randomInRange(-2, 1);
+    const y0 = randomInRange(-1.2, 1.2);
+    let x = 0, y = 0, iter = 0;
+    while (x * x + y * y <= 4 && iter < maxProbeIter) {
+      const xtemp = x * x - y * y + x0;
+      y = 2 * x * y + y0;
+      x = xtemp;
+      iter++;
+    }
+    if (iter > 6 && iter < 35) {
+      return { x: x0, y: y0 };
+    }
+  }
+  // Fallback: the classic "seahorse valley"
+  return { x: -0.75, y: 0.1 };
+}
+
 function distance(x1: number, y1: number, x2: number, y2: number) {
   return Math.sqrt((x1 - x2) ** 2 + (y1 - y2) ** 2);
 }
@@ -37,10 +58,7 @@ export default function FractalGame() {
     setScale(INITIAL_SCALE);
     setMoveCount(0);
     setStatus("playing");
-    setTarget({
-      x: randomInRange(-2, 1),
-      y: randomInRange(-1.2, 1.2),
-    });
+    setTarget(randomInterestingPoint());
     // Get bestScore from localStorage
     const stored = localStorage.getItem(BEST_SCORE_KEY);
     setBestScore(stored ? Number(stored) : null);
@@ -375,14 +393,14 @@ export default function FractalGame() {
   // Only inject once per page load
   React.useEffect(() => {
     if (typeof document === "undefined") return;
-    if (!document.getElementById("fractal-treasure-pulsate")) {
+    if (!document.getElementById("fractal-treasure-fade")) {
       const style = document.createElement("style");
-      style.id = "fractal-treasure-pulsate";
+      style.id = "fractal-treasure-fade";
       style.innerHTML = `
-      @keyframes fractal-treasure-pulsate {
-        0% { box-shadow: 0 0 8px 3px rgba(255,215,0,0.8); transform: scale(1); }
-        50% { box-shadow: 0 0 24px 10px rgba(255,215,0,1); transform: scale(1.22);}
-        100% { box-shadow: 0 0 8px 3px rgba(255,215,0,0.8); transform: scale(1); }
+      @keyframes fractal-treasure-fade {
+        0% { opacity: .35; }
+        50% { opacity: 1; }
+        100% { opacity: .35; }
       }`;
       document.head.appendChild(style);
     }
@@ -416,16 +434,16 @@ export default function FractalGame() {
         <div
           style={{
             position: "absolute",
-            left: px - 6,
-            top: py - 6,
-            width: 12,
-            height: 12,
+            left: px - 4,
+            top: py - 4,
+            width: 8,
+            height: 8,
             borderRadius: "50%",
-            background: "#ffd700",
-            boxShadow: "0 0 8px 3px rgba(255,215,0,0.8)",
+            background: "#ffe472",
+            boxShadow: "0 0 6px 2px rgba(255,214,0,0.45)",
             pointerEvents: "none",
             zIndex: 4,
-            animation: "fractal-treasure-pulsate 1.4s ease-in-out infinite"
+            animation: "fractal-treasure-fade 1.4s ease-in-out infinite"
           }}
         />
       )}
