@@ -271,8 +271,29 @@ export default function FractalGame() {
       ? "Game over, Crispin. Try again!"
       : "";
 
+  // --- Directional clue logic ---
+  let clue: string | null = null;
+  if (status === "playing") {
+    const dx = target.x - centreX;
+    const dy = target.y - centreY;
+    const threshold = scale * 0.15;
+    if (Math.abs(dx) < threshold && Math.abs(dy) < threshold) {
+      clue = "Very close!";
+    } else {
+      let horiz = "";
+      let vert = "";
+      if (dx > threshold) horiz = "right";
+      else if (dx < -threshold) horiz = "left";
+      if (dy > threshold) vert = "down";
+      else if (dy < -threshold) vert = "up";
+      if (horiz && vert) clue = vert + "-" + horiz;
+      else clue = vert || horiz || null;
+    }
+  }
+  // --- End directional clue logic ---
+
   return (
-    <div style={{ position: "relative", width: CANVAS_WIDTH, height: CANVAS_HEIGHT, margin: "0 auto" }}>
+    <div style={{ position: "relative", width: CANVAS_WIDTH, height: CANVAS_HEIGHT, margin: "0 auto", paddingBottom: 120 }}>
       <canvas
         ref={canvasRef}
         width={CANVAS_WIDTH}
@@ -289,8 +310,35 @@ export default function FractalGame() {
         }}
       />
       <div style={overlayStyle}>
+        {/* Directional Clue Overlay */}
+        {status === "playing" && clue && (
+          <div
+            style={{
+              fontSize: 20,
+              marginTop: 6,
+              color: "#ffda79",
+              textShadow: "0 0 7px #ffda79, 0 2px 8px #222,0 1px 0 #111",
+              textAlign: "center",
+              alignSelf: "center",
+              pointerEvents: "none",
+              letterSpacing: 0.3,
+              fontFamily: "inherit",
+              fontWeight: 700,
+              zIndex: 3,
+              background: "rgba(32,21,0,0.38)",
+              padding: "3px 20px",
+              borderRadius: 7,
+              minWidth: 110,
+              maxWidth: 320,
+              boxShadow: "0 0 8px #ffda7955",
+            }}
+          >
+            {clue}
+          </div>
+        )}
+
         <div style={instructionsStyle}>
-          {status === "playing" && (
+          {status === "playing" && zoomCount === 0 && (
             <>
               <span>
                 <b>Crispin</b>, can you find the hidden fractal treasure?
