@@ -45,16 +45,15 @@ export default function FractalGame() {
   // HSV→RGB helper
   function hsvToRgb(h: number, s: number, v: number): [number, number, number] {
     h = h % 360;
+    if (h < 0) h += 360;
     s = Math.max(0, Math.min(100, s));
     v = Math.max(0, Math.min(100, v));
     s /= 100;
     v /= 100;
-    let c = v * s;
-    let x = c * (1 - Math.abs(((h / 60) % 2) - 1));
-    let m = v - c;
-    let r = 0,
-      g = 0,
-      b = 0;
+    const c = v * s;
+    const x = c * (1 - Math.abs(((h / 60) % 2) - 1));
+    const m = v - c;
+    let r = 0, g = 0, b = 0;
     if (h < 60) [r, g, b] = [c, x, 0];
     else if (h < 120) [r, g, b] = [x, c, 0];
     else if (h < 180) [r, g, b] = [0, c, x];
@@ -88,9 +87,7 @@ export default function FractalGame() {
 
     for (let px = 0; px < CANVAS_WIDTH; px++) {
       for (let py = 0; py < CANVAS_HEIGHT; py++) {
-        let rSum = 0,
-          gSum = 0,
-          bSum = 0;
+        let rSum = 0, gSum = 0, bSum = 0;
 
         for (let subX = 0; subX < OVERSAMPLE; subX++) {
           for (let subY = 0; subY < OVERSAMPLE; subY++) {
@@ -110,8 +107,7 @@ export default function FractalGame() {
                   CANVAS_HEIGHT / 2)) /
                 CANVAS_HEIGHT;
 
-            let x = 0,
-              y = 0;
+            let x = 0, y = 0;
             let iter = 0;
             while (x * x + y * y <= 4 && iter < maxIter) {
               const xtemp = x * x - y * y + x0;
