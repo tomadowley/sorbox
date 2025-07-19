@@ -149,6 +149,7 @@ export default function FractalGame() {
             bSum += color[2];
           }
         }
+
         const samples = OVERSAMPLE * OVERSAMPLE;
         const idx = 4 * (py * CANVAS_WIDTH + px);
         data[idx + 0] = Math.round(rSum / samples);
