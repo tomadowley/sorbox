@@ -361,6 +361,33 @@ export default function FractalGame() {
     return () => canvas.removeEventListener("contextmenu", onCtx);
   }, [centreX, centreY, scale, status, handleCanvasClick]);
 
+  // --- Treasure marker pixel position and on-screen logic ---
+  const px =
+    CANVAS_WIDTH / 2 +
+    ((target.x - centreX) * CANVAS_HEIGHT) / scale;
+  const py =
+    CANVAS_HEIGHT / 2 +
+    ((target.y - centreY) * CANVAS_HEIGHT) / scale;
+  const onScreen =
+    px >= 0 && px <= CANVAS_WIDTH && py >= 0 && py <= CANVAS_HEIGHT;
+
+  // --- Animation keyframes injection (if not already present) ---
+  // Only inject once per page load
+  React.useEffect(() => {
+    if (typeof document === "undefined") return;
+    if (!document.getElementById("fractal-treasure-pulsate")) {
+      const style = document.createElement("style");
+      style.id = "fractal-treasure-pulsate";
+      style.innerHTML = `
+      @keyframes fractal-treasure-pulsate {
+        0% { box-shadow: 0 0 8px 3px rgba(255,215,0,0.8); transform: scale(1); }
+        50% { box-shadow: 0 0 24px 10px rgba(255,215,0,1); transform: scale(1.22);}
+        100% { box-shadow: 0 0 8px 3px rgba(255,215,0,0.8); transform: scale(1); }
+      }`;
+      document.head.appendChild(style);
+    }
+  }, []);
+
   return (
     <div style={{ position: "relative", width: CANVAS_WIDTH, height: CANVAS_HEIGHT, margin: "0 auto", paddingBottom: 120 }}>
       <canvas
@@ -384,6 +411,24 @@ export default function FractalGame() {
           display: "block",
         }}
       />
+      {/* Treasure marker overlay */}
+      {status === "playing" && onScreen && (
+        <div
+          style={{
+            position: "absolute",
+            left: px - 6,
+            top: py - 6,
+            width: 12,
+            height: 12,
+            borderRadius: "50%",
+            background: "#ffd700",
+            boxShadow: "0 0 8px 3px rgba(255,215,0,0.8)",
+            pointerEvents: "none",
+            zIndex: 4,
+            animation: "fractal-treasure-pulsate 1.4s ease-in-out infinite"
+          }}
+        />
+      )}
       <div style={overlayStyle}>
         {/* Directional Clue Overlay */}
         {status === "playing" && clue && (
