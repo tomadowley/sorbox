@@ -2,8 +2,9 @@ import React, { useRef, useEffect, useState } from "react";
 
 type Status = "playing" | "won" | "lost";
 
-const CANVAS_WIDTH = 600;
-const CANVAS_HEIGHT = 400;
+const CANVAS_WIDTH = 800;
+const CANVAS_HEIGHT = 533;
+const OVERSAMPLE = 2;
 const INITIAL_SCALE = 3;
 const MAX_ZOOMS = 12;
 
@@ -41,60 +42,111 @@ export default function FractalGame() {
     // eslint-disable-next-line
   }, [resetKey]);
 
-  // Draw Mandelbrot fractal
+  // HSV→RGB helper
+  function hsvToRgb(h: number, s: number, v: number): [number, number, number] {
+    h = h % 360;
+    s = Math.max(0, Math.min(100, s));
+    v = Math.max(0, Math.min(100, v));
+    s /= 100;
+    v /= 100;
+    let c = v * s;
+    let x = c * (1 - Math.abs(((h / 60) % 2) - 1));
+    let m = v - c;
+    let r = 0,
+      g = 0,
+      b = 0;
+    if (h < 60) [r, g, b] = [c, x, 0];
+    else if (h < 120) [r, g, b] = [x, c, 0];
+    else if (h < 180) [r, g, b] = [0, c, x];
+    else if (h < 240) [r, g, b] = [0, x, c];
+    else if (h < 300) [r, g, b] = [x, 0, c];
+    else [r, g, b] = [c, 0, x];
+    return [
+      Math.round((r + m) * 255),
+      Math.round((g + m) * 255),
+      Math.round((b + m) * 255),
+    ];
+  }
+
+  // Draw Mandelbrot fractal with oversampling and detailed color
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
     const ctx = canvas.getContext("2d");
     if (!ctx) return;
 
-    // Clear
     ctx.clearRect(0, 0, CANVAS_WIDTH, CANVAS_HEIGHT);
 
-    // Fractal params
-    const maxIter = 60;
+    // Dynamic maxIter: more iterations for deeper zooms
+    const maxIter = Math.min(
+      1000,
+      Math.round(80 + 20 * Math.log2(INITIAL_SCALE / scale))
+    );
 
     const imgData = ctx.createImageData(CANVAS_WIDTH, CANVAS_HEIGHT);
     const data = imgData.data;
 
-    for (let px = 0; px &lt; CANVAS_WIDTH; px++) {
-      for (let py = 0; py &lt; CANVAS_HEIGHT; py++) {
-        // Map to complex plane
-        const x0 =
-          centreX + (scale * (px - CANVAS_WIDTH / 2)) / CANVAS_HEIGHT;
-        const y0 =
-          centreY + (scale * (py - CANVAS_HEIGHT / 2)) / CANVAS_HEIGHT;
+    for (let px = 0; px < CANVAS_WIDTH; px++) {
+      for (let py = 0; py < CANVAS_HEIGHT; py++) {
+        let rSum = 0,
+          gSum = 0,
+          bSum = 0;
 
-        let x = 0,
-          y = 0;
-        let iter = 0;
-        while (x * x + y * y &lt;= 4 && iter &lt; maxIter) {
-          const xtemp = x * x - y * y + x0;
-          y = 2 * x * y + y0;
-          x = xtemp;
-          iter++;
+        for (let subX = 0; subX < OVERSAMPLE; subX++) {
+          for (let subY = 0; subY < OVERSAMPLE; subY++) {
+            // Subpixel sample, map to complex plane
+            const x0 =
+              centreX +
+              (scale *
+                (px +
+                  (subX + 0.5) / OVERSAMPLE -
+                  CANVAS_WIDTH / 2)) /
+                CANVAS_HEIGHT;
+            const y0 =
+              centreY +
+              (scale *
+                (py +
+                  (subY + 0.5) / OVERSAMPLE -
+                  CANVAS_HEIGHT / 2)) /
+                CANVAS_HEIGHT;
+
+            let x = 0,
+              y = 0;
+            let iter = 0;
+            while (x * x + y * y <= 4 && iter < maxIter) {
+              const xtemp = x * x - y * y + x0;
+              y = 2 * x * y + y0;
+              x = xtemp;
+              iter++;
+            }
+            // Smooth coloring
+            let norm = iter;
+            if (iter < maxIter) {
+              const log_zn = Math.log(x * x + y * y) / 2;
+              const nu = Math.log(log_zn / Math.log(2)) / Math.log(2);
+              norm = iter + 1 - nu;
+            }
+            // Rich cyclic palette
+            let color: [number, number, number];
+            if (iter === maxIter) {
+              color = [10, 10, 16]; // near-black interior
+            } else {
+              const t = norm / maxIter;
+              const hue = 720 * t; // cycles twice around wheel
+              const sat = 100;
+              const val = 80;
+              color = hsvToRgb(hue, sat, val);
+            }
+            rSum += color[0];
+            gSum += color[1];
+            bSum += color[2];
+          }
         }
-        // Smooth coloring
-        let norm = iter;
-        if (iter &lt; maxIter) {
-          // log(log) smoothing
-          const log_zn = Math.log(x * x + y * y) / 2;
-          const nu = Math.log(log_zn / Math.log(2)) / Math.log(2);
-          norm = iter + 1 - nu;
-        }
-        // Color mapping: purple-blue-gold
-        const color =
-          iter === maxIter
-            ? [32, 5, 48]
-            : [
-                50 + Math.floor(120 * Math.sin(0.15 * norm)),
-                70 + Math.floor(120 * Math.sin(0.08 * norm + 2)),
-                120 + Math.floor(80 * Math.sin(0.1 * norm + 4)),
-              ];
+        const samples = OVERSAMPLE * OVERSAMPLE;
         const idx = 4 * (py * CANVAS_WIDTH + px);
-        data[idx + 0] = color[0];
-        data[idx + 1] = color[1];
-        data[idx + 2] = color[2];
+        data[idx + 0] = Math.round(rSum / samples);
+        data[idx + 1] = Math.round(gSum / samples);
+        data[idx + 2] = Math.round(bSum / samples);
         data[idx + 3] = 255;
       }
     }
