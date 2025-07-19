@@ -71,12 +71,6 @@ export default function FractalGame() {
       Math.round((b + m) * 255),
     ];
   }
-    return [
-      Math.round((r + m) * 255),
-      Math.round((g + m) * 255),
-      Math.round((b + m) * 255),
-    ];
-  }
 
   // Draw Mandelbrot fractal with oversampling and detailed color
   useEffect(() => {
@@ -185,7 +179,7 @@ export default function FractalGame() {
     const d = distance(newX, newY, target.x, target.y);
     const tolerance = newScale * 0.05;
 
-    if (d &lt; tolerance) {
+    if (d < tolerance) {
       setCentreX(newX);
       setCentreY(newY);
       setScale(newScale);
