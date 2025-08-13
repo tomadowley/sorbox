@@ -12,6 +12,9 @@
 > How many programmers does it take to change a light bulb?<br>
 > None. That's a hardware problem. 💡
 
+> A SQL query walks into a bar, walks up to two tables and asks:<br>
+> "Can I join you?" 🍹
+
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
   If you were looking for documentation, you might want to sit down—and maybe write some yourself.
