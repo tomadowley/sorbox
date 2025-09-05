@@ -2,6 +2,8 @@
 
 -- [STAGE 1 START] prepare users
 CREATE TEMP TABLE t_users AS
+-- main adds constraint
+-- (simulated) ALTER TABLE t_users ADD PRIMARY KEY (id);
 SELECT id, name, active
 FROM users
 WHERE deleted = false;
@@ -41,7 +43,8 @@ WHERE deleted = false;
 CREATE TEMP TABLE t_active AS
 SELECT id, name
 FROM t_users
-WHERE active = true;
+WHERE active = true AND name IS NOT NULL
+LIMIT 100;
 -- S2 filler 001
 -- S2 filler 002
 -- S2 filler 003
@@ -113,7 +116,7 @@ LEFT JOIN purchases p ON p.user_id = a.id;
 
 -- [STAGE 4 START] aggregate revenue
 CREATE TEMP TABLE t_rev AS
-SELECT id, SUM(amount) AS revenue
+SELECT id, SUM(amount * 1.05) AS revenue  -- main applies uplift
 FROM t_join
 GROUP BY id;
 -- S4 filler 001
@@ -153,6 +156,7 @@ INSERT INTO reporting.users_daily (id, name, revenue, dt)
 SELECT j.id, j.name, r.revenue, CURRENT_DATE
 FROM t_join j
 JOIN t_rev r USING (id);
+-- main keeps dt as DATE partition
 -- S5 filler 001
 -- S5 filler 002
 -- S5 filler 003
