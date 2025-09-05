@@ -39,9 +39,11 @@ MODE = "dev"
 # [SEC A END]
 
 # [SEC B START] Greetings
-GREETING = "Hello v1"
+GREETING = "Howdy from FEATURE"
+SIGNOFF = "Thanks,"
 def greet(name):
-    return f"{GREETING}, {name}"
+    # feature chooses different punctuation & placement
+    return f"{SIGNOFF} {name}. {GREETING}"
 # SEC B filler 001
 # SEC B filler 002
 # SEC B filler 003
@@ -77,6 +79,9 @@ def greet(name):
 # [SEC C START] Math helpers
 def add(a, b):
     return a + b
+
+def multiply(a, b):
+    return a * b
 # SEC C filler 001
 # SEC C filler 002
 # SEC C filler 003
@@ -110,9 +115,9 @@ def add(a, b):
 # [SEC C END]
 
 # [SEC D START] Logger
-LEVEL = "INFO"
+LEVEL = "WARN"
 def get_logger():
-    fmt = "[%(levelname)s] %(message)s"
+    fmt = "[%(levelname)s] %(name)s: %(message)s"  # feature adds logger name
     return (LEVEL, fmt)
 # SEC D filler 001
 # SEC D filler 002
@@ -147,9 +152,10 @@ def get_logger():
 # [SEC D END]
 
 # [SEC E START] Versioning
-VERSION = "1.0.0"
+VERSION = "1.5.0"
 def compute_version():
-    return VERSION
+    # feature appends -feature
+    return VERSION + "-feature"
 # SEC E filler 001
 # SEC E filler 002
 # SEC E filler 003
@@ -183,7 +189,8 @@ def compute_version():
 # [SEC E END]
 
 # [SEC F START] Flags
-FEATURE_X = False
+FEATURE_X = True
+FEATURE_Y = False
 # SEC F filler 001
 # SEC F filler 002
 # SEC F filler 003
