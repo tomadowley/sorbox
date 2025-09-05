@@ -41,7 +41,8 @@ WHERE deleted = false;
 CREATE TEMP TABLE t_active AS
 SELECT id, name
 FROM t_users
-WHERE active = true;
+WHERE active = true AND name &lt;&gt; ''
+ORDER BY name;
 -- S2 filler 001
 -- S2 filler 002
 -- S2 filler 003
@@ -113,9 +114,10 @@ LEFT JOIN purchases p ON p.user_id = a.id;
 
 -- [STAGE 4 START] aggregate revenue
 CREATE TEMP TABLE t_rev AS
-SELECT id, SUM(amount) AS revenue
+SELECT id, SUM(amount) AS revenue           -- feature keeps raw sum
 FROM t_join
-GROUP BY id;
+GROUP BY id
+HAVING SUM(amount) &gt; 0;                     -- feature adds HAVING
 -- S4 filler 001
 -- S4 filler 002
 -- S4 filler 003
@@ -149,8 +151,8 @@ GROUP BY id;
 -- [STAGE 4 END]
 
 -- [STAGE 5 START] write outputs
-INSERT INTO reporting.users_daily (id, name, revenue, dt)
-SELECT j.id, j.name, r.revenue, CURRENT_DATE
+INSERT INTO reporting.users_daily (id, name, revenue, yyyymm)
+SELECT j.id, j.name, r.revenue, TO_CHAR(CURRENT_DATE, 'YYYYMM')
 FROM t_join j
 JOIN t_rev r USING (id);
 -- S5 filler 001
@@ -186,7 +188,7 @@ JOIN t_rev r USING (id);
 -- [STAGE 5 END]
 
 -- [STAGE 6 START] finalize
-VACUUM ANALYZE;
+ANALYZE VERBOSE;  -- feature alternative finalization
 -- S6 filler 001
 -- S6 filler 002
 -- S6 filler 003

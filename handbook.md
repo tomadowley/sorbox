@@ -39,9 +39,9 @@ version: 1
 <!-- Ch1 filler 030 -->
 
 # Chapter 2: Coding Standards
-- Use black/ruff
+- Use black/ruff (lenient)
 - 100-col limit
-- Docstrings required
+- Docstrings preferred, type hints optional
 <!-- Ch2 filler 001 -->
 <!-- Ch2 filler 002 -->
 <!-- Ch2 filler 003 -->
@@ -77,6 +77,8 @@ version: 1
 - main is protected
 - feature branches from main
 - rebase before merge
+- PRs must reference a ticket
+- Merge via squash
 <!-- Ch3 filler 001 -->
 <!-- Ch3 filler 002 -->
 <!-- Ch3 filler 003 -->
@@ -144,9 +146,10 @@ version: 1
 <!-- Ch4 filler 030 -->
 
 # Chapter 5: Release Process
-- bump version
-- tag release
+- version bump via tool
+- tag &amp; sign release
 - publish artifacts
+- canary 10% for 1h
 <!-- Ch5 filler 001 -->
 <!-- Ch5 filler 002 -->
 <!-- Ch5 filler 003 -->
@@ -180,8 +183,8 @@ version: 1
 
 # Chapter 6: Incident Response
 - SEV1 page immediately
-- RCA within 72h
-- Postmortem doc
+- RCA start within 48h
+- Postmortem by end of week
 <!-- Ch6 filler 001 -->
 <!-- Ch6 filler 002 -->
 <!-- Ch6 filler 003 -->
