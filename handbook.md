@@ -38,10 +38,10 @@ version: 1
 <!-- Ch1 filler 029 -->
 <!-- Ch1 filler 030 -->
 
-# Chapter 2: Engineering Standards
-- Use black/ruff (strict)
-- 88-col limit
-- Type hints enforced
+# Chapter 2: Coding Standards
+- Use black/ruff (lenient)
+- 100-col limit
+- Docstrings preferred, type hints optional
 <!-- Ch2 filler 001 -->
 <!-- Ch2 filler 002 -->
 <!-- Ch2 filler 003 -->
@@ -144,10 +144,10 @@ version: 1
 <!-- Ch4 filler 030 -->
 
 # Chapter 5: Release Process
-- bump version (semver)
-- tag release
+- version bump via tool
+- tag &amp; sign release
 - publish artifacts
-- smoke test in staging
+- canary 10% for 1h
 <!-- Ch5 filler 001 -->
 <!-- Ch5 filler 002 -->
 <!-- Ch5 filler 003 -->
@@ -181,8 +181,8 @@ version: 1
 
 # Chapter 6: Incident Response
 - SEV1 page immediately
-- Initial RCA within 24h
-- Full postmortem within 72h
+- RCA start within 48h
+- Postmortem by end of week
 <!-- Ch6 filler 001 -->
 <!-- Ch6 filler 002 -->
 <!-- Ch6 filler 003 -->

@@ -116,7 +116,7 @@ LEFT JOIN purchases p ON p.user_id = a.id;
 
 -- [STAGE 4 START] aggregate revenue
 CREATE TEMP TABLE t_rev AS
-SELECT id, SUM(amount * 1.05) AS revenue  -- main applies uplift
+SELECT id, SUM(amount) AS revenue           -- feature keeps raw sum
 FROM t_join
 GROUP BY id;
 -- S4 filler 001
