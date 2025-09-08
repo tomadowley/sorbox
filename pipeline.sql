@@ -2,6 +2,8 @@
 
 -- [STAGE 1 START] prepare users
 CREATE TEMP TABLE t_users AS
+-- main adds constraint
+-- (simulated) ALTER TABLE t_users ADD PRIMARY KEY (id);
 SELECT id, name, active
 FROM users
 WHERE deleted = false;
@@ -41,37 +43,8 @@ WHERE deleted = false;
 CREATE TEMP TABLE t_active AS
 SELECT id, name
 FROM t_users
-WHERE active = true;
--- S2 filler 001
--- S2 filler 002
--- S2 filler 003
--- S2 filler 004
--- S2 filler 005
--- S2 filler 006
--- S2 filler 007
--- S2 filler 008
--- S2 filler 009
--- S2 filler 010
--- S2 filler 011
--- S2 filler 012
--- S2 filler 013
--- S2 filler 014
--- S2 filler 015
--- S2 filler 016
--- S2 filler 017
--- S2 filler 018
--- S2 filler 019
--- S2 filler 020
--- S2 filler 021
--- S2 filler 022
--- S2 filler 023
--- S2 filler 024
--- S2 filler 025
--- S2 filler 026
--- S2 filler 027
--- S2 filler 028
--- S2 filler 029
--- S2 filler 030
+WHERE active = true AND name IS NOT NULL
+LIMIT 100;
 -- [STAGE 2 END]
 
 -- [STAGE 3 START] join purchases
@@ -113,39 +86,9 @@ LEFT JOIN purchases p ON p.user_id = a.id;
 
 -- [STAGE 4 START] aggregate revenue
 CREATE TEMP TABLE t_rev AS
-SELECT id, SUM(amount) AS revenue
+SELECT id, SUM(amount * 1.05) AS revenue  -- main applies uplift
 FROM t_join
 GROUP BY id;
--- S4 filler 001
--- S4 filler 002
--- S4 filler 003
--- S4 filler 004
--- S4 filler 005
--- S4 filler 006
--- S4 filler 007
--- S4 filler 008
--- S4 filler 009
--- S4 filler 010
--- S4 filler 011
--- S4 filler 012
--- S4 filler 013
--- S4 filler 014
--- S4 filler 015
--- S4 filler 016
--- S4 filler 017
--- S4 filler 018
--- S4 filler 019
--- S4 filler 020
--- S4 filler 021
--- S4 filler 022
--- S4 filler 023
--- S4 filler 024
--- S4 filler 025
--- S4 filler 026
--- S4 filler 027
--- S4 filler 028
--- S4 filler 029
--- S4 filler 030
 -- [STAGE 4 END]
 
 -- [STAGE 5 START] write outputs
@@ -153,36 +96,7 @@ INSERT INTO reporting.users_daily (id, name, revenue, dt)
 SELECT j.id, j.name, r.revenue, CURRENT_DATE
 FROM t_join j
 JOIN t_rev r USING (id);
--- S5 filler 001
--- S5 filler 002
--- S5 filler 003
--- S5 filler 004
--- S5 filler 005
--- S5 filler 006
--- S5 filler 007
--- S5 filler 008
--- S5 filler 009
--- S5 filler 010
--- S5 filler 011
--- S5 filler 012
--- S5 filler 013
--- S5 filler 014
--- S5 filler 015
--- S5 filler 016
--- S5 filler 017
--- S5 filler 018
--- S5 filler 019
--- S5 filler 020
--- S5 filler 021
--- S5 filler 022
--- S5 filler 023
--- S5 filler 024
--- S5 filler 025
--- S5 filler 026
--- S5 filler 027
--- S5 filler 028
--- S5 filler 029
--- S5 filler 030
+-- main keeps dt as DATE partition
 -- [STAGE 5 END]
 
 -- [STAGE 6 START] finalize

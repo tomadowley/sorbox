@@ -38,10 +38,10 @@ version: 1
 <!-- Ch1 filler 029 -->
 <!-- Ch1 filler 030 -->
 
-# Chapter 2: Coding Standards
-- Use black/ruff
-- 100-col limit
-- Docstrings required
+# Chapter 2: Engineering Standards
+- Use black/ruff (strict)
+- 88-col limit
+- Type hints enforced
 <!-- Ch2 filler 001 -->
 <!-- Ch2 filler 002 -->
 <!-- Ch2 filler 003 -->
@@ -144,9 +144,10 @@ version: 1
 <!-- Ch4 filler 030 -->
 
 # Chapter 5: Release Process
-- bump version
+- bump version (semver)
 - tag release
 - publish artifacts
+- smoke test in staging
 <!-- Ch5 filler 001 -->
 <!-- Ch5 filler 002 -->
 <!-- Ch5 filler 003 -->
@@ -180,8 +181,8 @@ version: 1
 
 # Chapter 6: Incident Response
 - SEV1 page immediately
-- RCA within 72h
-- Postmortem doc
+- Initial RCA within 24h
+- Full postmortem within 72h
 <!-- Ch6 filler 001 -->
 <!-- Ch6 filler 002 -->
 <!-- Ch6 filler 003 -->
@@ -250,6 +251,7 @@ version: 1
 # Chapter 8: FAQ
 - Q: Who owns releases? A: Dev Infra
 - Q: What’s the SLA? A: 99.9%
+- Q: Do we support LTS? A: 12 months
 <!-- Ch8 filler 001 -->
 <!-- Ch8 filler 002 -->
 <!-- Ch8 filler 003 -->
