@@ -24,4 +24,19 @@
   Don't worry, your code is safe... for now. 
 -->
 
+## A Short (True‑ish) Tale From The Repo 📖
+
+There was once a dev who wanted to be extra safe before a hotfix. So they renamed the production table `customers` to `customers_old`... in prod. Instantly, dashboards flatlined, alerts howled, and the app started speaking in 500s.
+
+The senior engineer asked, "Who touched prod?" Silence. Then the motion‑sensor duck on the desk lit up as CI kicked off a frantic rollback. Within minutes:
+- They restored from last backup (bless past‑you).
+- Shipped a proper migration with a feature flag.
+- Added a read‑only replica to stop future facepalms.
+- Wrote a post‑mortem titled: "Backups Before Bravery."
+
+Moral of the story:
+- If it's not in code, it's folklore.
+- If it's not tested, it's a rumor.
+- And if a rubber duck is your incident commander, you're probably going to be okay. 🦆
+
 <!-- Add project description, setup instructions, and usage information here. -->
