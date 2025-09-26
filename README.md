@@ -18,6 +18,39 @@
 > I would tell you a UDP joke, but…<br>
 > you might not get it. 📡
 
+> Why did the developer go broke?<br>
+> Because he used up all his cache. 💸
+
+> Why do programmers hate nature?<br>
+> It has too many bugs. 🪲
+
+> How do you comfort a JavaScript bug?<br>
+> You console it. 🖥️
+
+> Where do programmers hang out?<br>
+> The Foo Bar. 🍻
+
+> I changed my password to "incorrect".<br>
+> Now the computer reminds me: "Your password is incorrect." 🔐
+
+> There are two hard things in computer science:<br>
+> cache invalidation, naming things, and off-by-one errors. ➕1
+
+> Git commit: "Quick fix".<br>
+> Future me: "Quick regret." ⏪
+
+> Why did the CSS file break up with the HTML?<br>
+> It found someone more specific. 🎯
+
+> Why was the database so polite?<br>
+> It had excellent table manners. 🍽️
+
+> What did the DevOps engineer say to the server?<br>
+> Keep calm and autoscale. 📈
+
+> 127.0.0.1<br>
+> There’s no place like home. 🏠
+
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
   If you were looking for documentation, you might want to sit down—and maybe write some yourself.
