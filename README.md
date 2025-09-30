@@ -21,6 +21,9 @@
 > There are two hard things in computer science:<br>
 > cache invalidation, naming things, and off‑by‑one errors. 🔢
 
+> Why do functional programmers avoid jokes?<br>
+> Because they don't like side effects. 🧪
+
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
   If you were looking for documentation, you might want to sit down—and maybe write some yourself.
