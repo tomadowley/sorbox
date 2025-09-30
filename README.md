@@ -15,8 +15,10 @@
 > A SQL query walks into a bar, walks up to two tables and asks:<br>
 > "Can I join you?" 🍹
 
-> I would tell you a UDP joke, but…<br>
+> I would tell you a UDP joke, but…
 > you might not get it. 📡
+>
+> Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️
 
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
