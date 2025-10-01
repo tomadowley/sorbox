@@ -15,8 +15,11 @@
 > A SQL query walks into a bar, walks up to two tables and asks:<br>
 > "Can I join you?" 🍹
 
-> I would tell you a UDP joke, but…<br>
+> I would tell you a UDP joke, but…
 > you might not get it. 📡
+>
+> There are 2 hard things in computer science:<br>
+> cache invalidation, naming things, and off-by-one errors. ➗
 
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
