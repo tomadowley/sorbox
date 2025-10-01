@@ -18,6 +18,9 @@
 > I would tell you a UDP joke, but…<br>
 > you might not get it. 📡
 
+> There are two hard problems in computer science:<br>
+> cache invalidation, naming things, and off-by-one errors. 🧮
+
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
   If you were looking for documentation, you might want to sit down—and maybe write some yourself.
