@@ -1,5 +1,35 @@
 # Project README
 
+```
+Animals (ASCII):
+  Cat
+    /\_/\  
+   ( o.o ) 
+    > ^ <
+
+  Dog
+    /^ ^\ 
+   / 0 0 \
+   V\ Y /V
+    / - \
+    |    \
+    || (__V
+
+  Duck
+     _
+  <(o )___
+   ( ._> /
+    `---'
+
+  Whale
+          __         __
+     ___ (  ) .-"""-(  ) ___
+    (___)/ /  o     \ \(___)
+        /_/|  .-.  | \_\
+           |  | |  |
+           '--' '--'
+```
+
 > Why do programmers prefer dark mode?<br>
 > Because light attracts bugs! 🐛
 
