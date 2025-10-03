@@ -69,3 +69,9 @@ If you ever see the build queue shuffle at 3:07, don’t open the logs. Just com
 
     to be merged
     and never garbage-collected
+
+## Haiku
+
+Code wakes before dawn  
+Tests whisper in green and gray  
+Commits seek calm light
