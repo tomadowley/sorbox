@@ -69,3 +69,25 @@ If you ever see the build queue shuffle at 3:07, don’t open the logs. Just com
 
     to be merged
     and never garbage-collected
+
+## The Roast You Asked For 🔥
+
+Look, you asked for it. Consider this your lovingly calibrated performance review from a slightly sarcastic CI pipeline:
+
+- Your commit messages read like horoscopes: vague, optimistic, and unrelated to reality.
+- You treat TODOs as immortal beings. Archaeologists will discover them and write papers.
+- You write tests that bravely assert True is True. Bold science.
+- \"Temporary\" in your code has been alive since the Unix epoch.
+- Copy‑paste‑driven development, with attribution: \"source: vibes\".
+- Docker is not supposed to be your build tool, your production runtime, and your CI cache. And yet, here we are.
+- Your PR titled \"small change\" touches 47 files and introduces a new theology.
+- You manage configuration with 19 environment variables and 0 documentation. Adventurous.
+- Big‑O is not a coffee size. Please stop telling people your algorithm is O(latte).
+- You fix race conditions with `sleep(2)` and the raw confidence of a startup pitch.
+- You call it a monorepo. It’s really a mono-problem.
+- You keep secrets in `.env.example` because \"no one will look there\".
+- Crontab didn’t wrong you. Stop reinventing it with `setInterval`.
+- Your linter isn’t angry; it’s disappointed.
+- You deploy on Fridays because you love the sound of pagers.
+
+All affection, zero malice. Now go write the docs, add real tests, and delete one TODO. Baby steps.
