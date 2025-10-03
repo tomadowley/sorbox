@@ -69,3 +69,37 @@ If you ever see the build queue shuffle at 3:07, don’t open the logs. Just com
 
     to be merged
     and never garbage-collected
+
+## Playful Performance Review (Affectionate Roast)
+
+This section is here to nudge us toward better habits with a smile. It's constructive, gentle, and focused on making the work easier for future‑us.
+
+What we can improve—together:
+- Commit messages: “feat: stuff” is cute but forgets future context. Let’s write messages that explain intent and impact.
+- TODOs that live forever: If it matters, it deserves an issue and a small plan. Convert TODOs into tickets with owners and dates.
+- Flaky tests: Quarantine, reproduce, fix. Let’s stop pretending “re‑run CI” is a strategy.
+- Docs drift: Keep truth close to code. Prefer README sections, ADRs, or inline docs over scattered Notion pages.
+- PR size: Fewer files, clearer intent. Small PRs help reviewers be kind and thorough.
+- Branch names: Use meaningful names that map to tickets. “final‑final‑ok‑really‑final” is a vibe, not a workflow.
+- Docker as a lifestyle: Great when it standardizes dev setup; odd when prod and dev are indistinguishable. Compose for local, images for prod.
+- Secrets: `.env` is for local; use a secrets manager for everything else. Rotate keys when you rotate coffee.
+- Migrations: Practice makes prod safer. Rehearse migrations, back up data, and write rollback steps.
+- Logging: INFO is not a personality. Right‑size log levels and avoid PII in logs.
+- Comments: Avoid apologetic comments (“sorry future me”). Explain why, reference decisions, and keep code self‑evident.
+- Performance: Avoid premature optimization—measure first, then change.
+- Lint and format: Consistency > preference. If the tool says format, we format.
+
+What we’re doing well—keep it up:
+- Backups exist and have saved us more than once.
+- CI is fast enough to encourage frequent commits.
+- Feature flags help us ship safely.
+- Post‑mortems focus on learning, not blame.
+- We write code others can read, not puzzles.
+
+Tiny habits that pay off:
+- Add a one‑line “Why now?” in each PR description.
+- Link issues and PRs so decisions are traceable.
+- Run the test suite before “just tweaking one thing.”
+- Leave a breadcrumb for future‑you: notes, ADRs, or a small doc next to the code.
+
+All of this is offered with affection. We’re already good; this helps us be kinder to our future selves and the folks who join next.
