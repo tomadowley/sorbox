@@ -18,6 +18,46 @@
 > I would tell you a UDP joke, but…<br>
 > you might not get it. 📡
 
+```
+Animals (ASCII):
+  Cat
+    /\_/\  
+   ( o.o ) 
+    > ^ <
+
+  Dog
+    /^ ^\ 
+   / 0 0 \
+   V\ Y /V
+    / - \
+    |    \
+    || (__V
+
+  Elephant
+      /\  ___  /\
+     (  o   o  )
+      \  >#<  /
+      /        \
+     /          \
+    |            |
+    \  ||  ||  /
+     \_oo__oo_/#######o
+
+  Duck
+     _
+  <(o )___
+   ( ._> /
+    `---'
+
+  Whale
+          __         __
+     ___ (  ) .-"""-(  ) ___
+    (___)/ /  o     \ \(___)
+        /_/|  .-.  | \_\
+           |  | |  |
+           '--' '--'
+```
+
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
   If you were looking for documentation, you might want to sit down—and maybe write some yourself.
