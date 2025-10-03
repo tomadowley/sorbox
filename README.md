@@ -20,6 +20,9 @@
 
 > There are two hard problems in computer science:<br>
 > cache invalidation, naming things, and off-by-one errors. 🧮
+>
+> In order to understand recursion,<br>
+> you must first understand recursion. 🔁
 
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
