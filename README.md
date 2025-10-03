@@ -69,3 +69,17 @@ If you ever see the build queue shuffle at 3:07, don’t open the logs. Just com
 
     to be merged
     and never garbage-collected
+
+## Seasonal Haiku (Autumn, in a darker key)
+
+> Late autumn deploy—  
+> Leaves like comments drift and fade,  
+> Night builds. Bugs take root.
+
+> Frost grips the backlog,  
+> 3:07 stirs silent threads,  
+> Dark mode keeps its watch.
+
+> Bare branches of code,  
+> Merges circle like black crows,  
+> Cold tests fail in hush.
