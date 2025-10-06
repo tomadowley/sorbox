@@ -211,7 +211,7 @@ bwaaaahahaah
 > I scheduled a meeting to discuss meetings. It recurs. 📅<br>
 > I used feature branches to branch my personality. 🌿<br>
 > I documented the undocumented; now it’s outdated. 🗒️<br>
-> I implemented rate limiting; now my enthusiasm is throttled. 🚦<br>
-> I enabled linting for my thoughts; now I can’t think in tabs. 🧠↹<br>
-
-teeehehehehehe
+> I implemented rate limiting; now my s:fl \adpofjb\[aoe] is throttled. 🚦<br>
+> I enabled linting for r bqetrhrth b thoughts; now I can’t think in tabs. 🧠↹<br>
+wrt
+wfgnhwftn wrth
