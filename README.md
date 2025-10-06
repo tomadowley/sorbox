@@ -212,5 +212,6 @@ bwaaaahahaah
 > I used feature branches to branch my personality. 🌿<br>
 > I documented the undocumented; now it’s outdated. 🗒️<br>
 > I implemented rate limiting; now my enthusiasm is throttled. 🚦<br>
+> I enabled linting for my thoughts; now I can’t think in tabs. 🧠↹<br>
 
 teeehehehehehe
