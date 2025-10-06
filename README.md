@@ -342,341 +342,405 @@ qå
 > I built an adapter for peace; not compatible. 🔌<br>
 > I enabled feature discovery for happiness; feature not found. 🔎<br>
 
-## 200 More Songs for Coding
+## Another 200 Songs for Coding
 
-> Eye of the Tiger — Survivor<br>
-> Take Care — Drake feat. Rihanna<br>
-> Hotline Bling — Drake<br>
-> God’s Plan — Drake<br>
-> The Less I Know The Better — Tame Impala<br>
-> Let It Happen — Tame Impala<br>
-> New Person, Same Old Mistakes — Tame Impala<br>
-> Feel It Still — Portugal. The Man<br>
-> Redbone — Childish Gambino<br>
-> Awake My Soul — Mumford & Sons<br>
-> Little Lion Man — Mumford & Sons<br>
-> Pumped Up Kicks — Foster the People<br>
-> Sit Next to Me — Foster the People<br>
-> Riptide — Vance Joy<br>
-> Budapest — George Ezra<br>
-> Shotgun — George Ezra<br>
-> Take Me to Church — Hozier<br>
-> Someone New — Hozier<br>
-> Work — Rihanna feat. Drake<br>
-> Umbrella — Rihanna feat. Jay-Z<br>
-> Diamonds — Rihanna<br>
-> Rolling in the Deep — Adele<br>
-> Someone Like You — Adele<br>
-> Skyfall — Adele<br>
-> Set Fire to the Rain — Adele<br>
-> Bad Romance — Lady Gaga<br>
-> Poker Face — Lady Gaga<br>
-> Shallow — Lady Gaga & Bradley Cooper<br>
-> Born This Way — Lady Gaga<br>
-> Applause — Lady Gaga<br>
-> Happy — Pharrell Williams<br>
-> Freedom — Pharrell Williams<br>
-> Get Lucky — Daft Punk feat. Pharrell Williams<br>
-> Digital Love — Daft Punk<br>
-> Around the World — Daft Punk<br>
-> One More Time — Daft Punk<br>
-> Blue (Da Ba Dee) — Eiffel 65<br>
-> Sandstorm — Darude<br>
-> The Middle — Zedd, Maren Morris, Grey<br>
-> Clarity — Zedd feat. Foxes<br>
-> Strobe — deadmau5<br>
-> Ghosts ’n’ Stuff — deadmau5<br>
-> Raise Your Weapon — deadmau5<br>
-> Scary Monsters and Nice Sprites — Skrillex<br>
-> Bangarang — Skrillex<br>
-> Where Are Ü Now — Jack Ü feat. Justin Bieber<br>
-> Lean On — Major Lazer & DJ Snake feat. MØ<br>
-> Light It Up — Major Lazer feat. Nyla & Fuse ODG<br>
-> Sunflower — Post Malone & Swae Lee<br>
-> Circles — Post Malone<br>
-> Rockstar — Post Malone feat. 21 Savage<br>
-> Congratulations — Post Malone<br>
-> The Hills — The Weeknd<br>
-> Starboy — The Weeknd feat. Daft Punk<br>
-> I Feel It Coming — The Weeknd feat. Daft Punk<br>
-> Can’t Feel My Face — The Weeknd<br>
-> Save Your Tears — The Weeknd<br>
-> Call Me Maybe — Carly Rae Jepsen<br>
-> Run Away With Me — Carly Rae Jepsen<br>
-> I Really Like You — Carly Rae Jepsen<br>
-> Teenage Dream — Katy Perry<br>
-> Firework — Katy Perry<br>
-> Dark Horse — Katy Perry feat. Juicy J<br>
-> Roar — Katy Perry<br>
-> Shake It Off — Taylor Swift<br>
-> Blank Space — Taylor Swift<br>
-> Style — Taylor Swift<br>
-> Cruel Summer — Taylor Swift<br>
-> Anti-Hero — Taylor Swift<br>
-> Bad Blood — Taylor Swift feat. Kendrick Lamar<br>
-> Delicate — Taylor Swift<br>
-> All Too Well — Taylor Swift<br>
-> We Found Love — Rihanna feat. Calvin Harris<br>
-> Summer — Calvin Harris<br>
-> Feel So Close — Calvin Harris<br>
-> Slide — Calvin Harris feat. Frank Ocean & Migos<br>
-> This Is What You Came For — Calvin Harris & Rihanna<br>
-> Blurred Lines — Robin Thicke feat. T.I. & Pharrell<br>
-> Suit & Tie — Justin Timberlake feat. Jay-Z<br>
-> SexyBack — Justin Timberlake<br>
-> Mirrors — Justin Timberlake<br>
-> Rock Your Body — Justin Timberlake<br>
-> Numb/Encore — Jay-Z & Linkin Park<br>
-> 99 Problems — Jay-Z<br>
-> Empire State of Mind — Jay-Z feat. Alicia Keys<br>
-> No One — Alicia Keys<br>
-> If I Ain’t Got You — Alicia Keys<br>
-> Girl on Fire — Alicia Keys<br>
-> Valerie — Mark Ronson feat. Amy Winehouse<br>
-> Back to Black — Amy Winehouse<br>
-> Rehab — Amy Winehouse<br>
-> Tears Dry on Their Own — Amy Winehouse<br>
-> Stronger Than Me — Amy Winehouse<br>
-> Hometown Glory — Adele<br>
-> Don’t Look Back in Anger — Oasis<br>
-> Champagne Supernova — Oasis<br>
-> Live Forever — Oasis<br>
-> Bittersweet Symphony — The Verve<br>
-> Lucky Man — The Verve<br>
-> Love Is Noise — The Verve<br>
-> Everlong (Acoustic) — Foo Fighters<br>
-> Best of You — Foo Fighters<br>
-> The Pretender — Foo Fighters<br>
-> My Hero — Foo Fighters<br>
-> Times Like These — Foo Fighters<br>
-> Black — Pearl Jam<br>
-> Alive — Pearl Jam<br>
-> Jeremy — Pearl Jam<br>
-> Even Flow — Pearl Jam<br>
-> Yellow Ledbetter — Pearl Jam<br>
-> Under the Bridge — Red Hot Chili Peppers<br>
-> Californication — Red Hot Chili Peppers<br>
-> Scar Tissue — Red Hot Chili Peppers<br>
-> Dani California — Red Hot Chili Peppers<br>
-> Otherside — Red Hot Chili Peppers<br>
-> By the Way — Red Hot Chili Peppers<br>
-> Snow (Hey Oh) — Red Hot Chili Peppers<br>
-> Dreams — The Cranberries<br>
-> Zombie — The Cranberries<br>
-> Linger — The Cranberries<br>
-> Just Like Heaven — The Cure<br>
-> Friday I’m in Love — The Cure<br>
-> Lovesong — The Cure<br>
-> Boys Don’t Cry — The Cure<br>
-> Close to Me — The Cure<br>
-> Don’t You Want Me — The Human League<br>
-> Tainted Love — Soft Cell<br>
+> Dreams — Beck<br>
+> Gamma Ray — Beck<br>
+> Devils Haircut — Beck<br>
+> Dreaming — Blondie<br>
+> Heart of Glass — Blondie<br>
+> Atomic — Blondie<br>
+> Once in a Lifetime — Talking Heads<br>
+> Psycho Killer — Talking Heads<br>
+> Burning Down the House — Talking Heads<br>
+> Road to Nowhere — Talking Heads<br>
+> Message in a Bottle — The Police<br>
+> Every Little Thing She Does Is Magic — The Police<br>
+> Every Breath You Take — The Police<br>
+> Roxanne — The Police<br>
+> Synchronicity II — The Police<br>
+> Fields of Gold — Sting<br>
+> Englishman in New York — Sting<br>
+> Desert Rose — Sting<br>
+> In the Air Tonight — Phil Collins<br>
+> Against All Odds — Phil Collins<br>
+> Sussudio — Phil Collins<br>
+> Easy Lover — Phil Collins & Philip Bailey<br>
+> Take Me Home — Phil Collins<br>
+> Land of Confusion — Genesis<br>
+> Invisible Touch — Genesis<br>
+> Follow You Follow Me — Genesis<br>
+> Solsbury Hill — Peter Gabriel<br>
+> Sledgehammer — Peter Gabriel<br>
+> In Your Eyes — Peter Gabriel<br>
+> Don’t Give Up — Peter Gabriel & Kate Bush<br>
+> Running Up That Hill — Kate Bush<br>
+> Hounds of Love — Kate Bush<br>
+> Cloudbusting — Kate Bush<br>
+> Wuthering Heights — Kate Bush<br>
+> Babooshka — Kate Bush<br>
+> Vienna — Ultravox<br>
+> Dancing With Tears in My Eyes — Ultravox<br>
+> True — Spandau Ballet<br>
+> Gold — Spandau Ballet<br>
+> Take on Me — a-ha<br>
+> The Sun Always Shines on T.V. — a-ha<br>
+> Hunting High and Low — a-ha<br>
+> Owner of a Lonely Heart — Yes<br>
+> Roundabout — Yes<br>
+> Love Shack — The B-52’s<br>
+> Rock Lobster — The B-52’s<br>
+> Tempted — Squeeze<br>
+> Black Coffee in Bed — Squeeze<br>
+> Cool for Cats — Squeeze<br>
+> Everybody Wants To Rule The World — Tears for Fears<br>
+> Pale Shelter — Tears for Fears<br>
+> Sowing the Seeds of Love — Tears for Fears<br>
+> Don’t You (Forget About Me) — Simple Minds<br>
+> Alive and Kicking — Simple Minds<br>
+> Belfast Child — Simple Minds<br>
+> The One I Love — R.E.M.<br>
+> Losing My Religion — R.E.M.<br>
+> Shiny Happy People — R.E.M.<br>
+> Nightswimming — R.E.M.<br>
+> Man on the Moon — R.E.M.<br>
+> Blue Monday — New Order<br>
+> Temptation — New Order<br>
+> The Perfect Kiss — New Order<br>
+> Love Will Tear Us Apart — Joy Division<br>
+> Atmosphere — Joy Division<br>
+> She’s Lost Control — Joy Division<br>
+> Heroes — David Bowie<br>
+> Modern Love — David Bowie<br>
+> Ashes to Ashes — David Bowie<br>
+> China Girl — David Bowie<br>
+> Under Pressure — Queen & David Bowie<br>
+> Another One Bites the Dust — Queen<br>
+> Don’t Stop Me Now — Queen<br>
+> Radio Ga Ga — Queen<br>
+> I Want to Break Free — Queen<br>
+> Tiny Dancer — Elton John<br>
+> Your Song — Elton John<br>
+> Rocket Man — Elton John<br>
+> Bennie and the Jets — Elton John<br>
+> I’m Still Standing — Elton John<br>
+> Piano Man — Billy Joel<br>
+> Uptown Girl — Billy Joel<br>
+> The Longest Time — Billy Joel<br>
+> We Didn’t Start the Fire — Billy Joel<br>
+> Vienna — Billy Joel<br>
+> Africa — Toto<br>
+> Rosanna — Toto<br>
+> Hold the Line — Toto<br>
+> Don’t Stop Believin’ — Journey<br>
+> Separate Ways — Journey<br>
+> Open Arms — Journey<br>
 > Sweet Dreams (Are Made of This) — Eurythmics<br>
+> Love Is a Stranger — Eurythmics<br>
 > Here Comes the Rain Again — Eurythmics<br>
 > Enjoy the Silence — Depeche Mode<br>
 > Personal Jesus — Depeche Mode<br>
 > Policy of Truth — Depeche Mode<br>
+> World in My Eyes — Depeche Mode<br>
 > Just Can’t Get Enough — Depeche Mode<br>
-> Bizarre Love Triangle — New Order<br>
-> Regret — New Order<br>
-> True Faith — New Order<br>
-> Ceremony — New Order<br>
-> Love Will Tear Us Apart — Joy Division<br>
-> Shadowplay — Joy Division<br>
-> Transmission — Joy Division<br>
-> Mr. Blue Sky — Electric Light Orchestra<br>
-> Don’t Bring Me Down — Electric Light Orchestra<br>
-> Livin’ on a Prayer — Bon Jovi<br>
-> You Give Love a Bad Name — Bon Jovi<br>
-> It’s My Life — Bon Jovi<br>
-> Wanted Dead or Alive — Bon Jovi<br>
-> Beat It — Michael Jackson<br>
-> Thriller — Michael Jackson<br>
-> Smooth Criminal — Michael Jackson<br>
-> Man in the Mirror — Michael Jackson<br>
-> Billie Jean — Michael Jackson<br>
-> Kiss — Prince<br>
-> Purple Rain — Prince<br>
-> When Doves Cry — Prince<br>
-> 1999 — Prince<br>
-> Raspberry Beret — Prince<br>
-> September — Earth, Wind & Fire<br>
-> Let’s Groove — Earth, Wind & Fire<br>
-> Fantasy — Earth, Wind & Fire<br>
-> Boogie Wonderland — Earth, Wind & Fire<br>
-> Superstition — Stevie Wonder<br>
-> I Wish — Stevie Wonder<br>
-> Isn’t She Lovely — Stevie Wonder<br>
-> Sir Duke — Stevie Wonder<br>
-> Higher Ground — Stevie Wonder<br>
-> What’s Going On — Marvin Gaye<br>
-> Sexual Healing — Marvin Gaye<br>
-> Ain’t No Sunshine — Bill Withers<br>
-> Lovely Day — Bill Withers<br>
-> Lean on Me — Bill Withers<br>
-> Stand by Me — Ben E. King<br>
-> Unchained Melody — The Righteous Brothers<br>
-> My Girl — The Temptations<br>
-> Just My Imagination — The Temptations<br>
-> Heard It Through the Grapevine — Gladys Knight & The Pips<br>
-> Respect — Aretha Franklin<br>
-> Chain of Fools — Aretha Franklin<br>
-> Natural Woman — Aretha Franklin<br>
-> Proud Mary — Creedence Clearwater Revival<br>
-> Fortunate Son — Creedence Clearwater Revival<br>
-> Have You Ever Seen the Rain — Creedence Clearwater Revival<br>
-> Bad Moon Rising — Creedence Clearwater Revival<br>
-> Free Fallin’ — Tom Petty<br>
-> American Girl — Tom Petty & The Heartbreakers<br>
-> I Won’t Back Down — Tom Petty<br>
-> Learning to Fly — Tom Petty<br>
-> Heroes — David Bowie<br>
-> Let’s Dance — David Bowie<br>
-> Life on Mars? — David Bowie<br>
-> Rebel Rebel — David Bowie<br>
-> Space Oddity — David Bowie<br>
-> Starman — David Bowie<br>
-> The Man Who Sold the World — David Bowie<br>
-> Dreams — Fleetwood Mac<br>
-> Go Your Own Way — Fleetwood Mac<br>
-> The Chain — Fleetwood Mac<br>
-> Rhiannon — Fleetwood Mac<br>
-> Landslide — Fleetwood Mac<br>
-> Everywhere — Fleetwood Mac<br>
-> Don’t Stop — Fleetwood Mac<br>
-> With or Without You — U2<br>
-> One — U2<br>
-> Beautiful Day — U2<br>
-> Sunday Bloody Sunday — U2<br>
-> Where the Streets Have No Name — U2<br>
-> Pride (In the Name of Love) — U2<br>
-> Bitter Sweet Symphony — The Verve<br>
+> Drive — The Cars<br>
+> Just What I Needed — The Cars<br>
+> You Might Think — The Cars<br>
+> The Killing Moon — Echo & The Bunnymen<br>
+> Lips Like Sugar — Echo & The Bunnymen<br>
+> Bring on the Dancing Horses — Echo & The Bunnymen<br>
+> Under the Milky Way — The Church<br>
+> Reptile — The Church<br>
+> If I Should Fall From Grace With God — The Pogues<br>
+> Fairytale of New York — The Pogues & Kirsty MacColl<br>
+> Common People — Pulp<br>
+> Disco 2000 — Pulp<br>
+> Babies — Pulp<br>
+> Parklife — Blur<br>
+> Song 2 — Blur<br>
+> Coffee & TV — Blur<br>
+> Tender — Blur<br>
+> Beetlebum — Blur<br>
+> Don’t Look Back in Anger — Oasis<br>
+> Morning Glory — Oasis<br>
+> Supersonic — Oasis<br>
+> Live Forever — Oasis<br>
+> Champagne Supernova — Oasis<br>
 > There Is a Light That Never Goes Out — The Smiths<br>
 > This Charming Man — The Smiths<br>
 > How Soon Is Now? — The Smiths<br>
-> Panic — The Smiths<br>
-> Reptilia — The Strokes<br>
-> Hard to Explain — The Strokes<br>
-> Someday — The Strokes<br>
-> Juicebox — The Strokes<br>
-> 12:51 — The Strokes<br>
-> Last Nite — The Strokes<br>
+> The Boy with the Thorn in His Side — The Smiths<br>
+> Girlfriend in a Coma — The Smiths<br>
+> Mr. Brightside — The Killers<br>
+> When You Were Young — The Killers<br>
+> All These Things That I’ve Done — The Killers<br>
+> Human — The Killers<br>
+> Read My Mind — The Killers<br>
+> Hysteria — Muse<br>
+> Starlight — Muse<br>
+> Time Is Running Out — Muse<br>
+> Supermassive Black Hole — Muse<br>
+> Knights of Cydonia — Muse<br>
+> Plug In Baby — Muse<br>
+> Float On — Modest Mouse<br>
+> Dashboard — Modest Mouse<br>
+> The World at Large — Modest Mouse<br>
 > Maps — Yeah Yeah Yeahs<br>
 > Heads Will Roll — Yeah Yeah Yeahs<br>
 > Zero — Yeah Yeah Yeahs<br>
-> Gold Lion — Yeah Yeah Yeahs<br>
-> Do I Wanna Know? — Arctic Monkeys<br>
-> R U Mine? — Arctic Monkeys<br>
-> I Bet You Look Good on the Dancefloor — Arctic Monkeys<br>
-> Fluorescent Adolescent — Arctic Monkeys<br>
-> 505 — Arctic Monkeys<br>
-> No One Knows — Queens of the Stone Age<br>
-> Go with the Flow — Queens of the Stone Age<br>
-> Little Sister — Queens of the Stone Age<br>
-> Make It Wit Chu — Queens of the Stone Age<br>
-> The Sky Is a Neighborhood — Foo Fighters<br>
-> Holocene — Bon Iver<br>
-> Skinny Love — Bon Iver<br>
-> Perth — Bon Iver<br>
-> Retrograde — James Blake<br>
-> The Wilhelm Scream — James Blake<br>
-> Limit to Your Love — James Blake<br>
-> Breathe Me — Sia<br>
-> Elastic Heart — Sia<br>
-> Unstoppable — Sia<br>
-> Cheap Thrills — Sia<br>
-> Titanium — David Guetta feat. Sia<br>
-> Mi Gente — J Balvin & Willy William<br>
-> Despacito — Luis Fonsi feat. Daddy Yankee<br>
-> Shape of You — Ed Sheeran<br>
-> Thinking Out Loud — Ed Sheeran<br>
-> Photograph — Ed Sheeran<br>
-> Castle on the Hill — Ed Sheeran<br>
-> Galway Girl — Ed Sheeran<br>
-> Bad Habits — Ed Sheeran<br>
-> Counting Stars — OneRepublic<br>
-> Apologize — OneRepublic<br>
-> Secrets — OneRepublic<br>
-> Stop and Stare — OneRepublic<br>
-> If I Lose Myself — OneRepublic<br>
-> Bleeding Love — Leona Lewis<br>
-> Better in Time — Leona Lewis<br>
-> Use Somebody — Kings of Leon<br>
-> Sex on Fire — Kings of Leon<br>
-> Closer — The Chainsmokers feat. Halsey<br>
-> Don’t Let Me Down — The Chainsmokers feat. Daya<br>
-> Paris — The Chainsmokers<br>
-> Roses — The Chainsmokers<br>
-> Habits (Stay High) — Tove Lo<br>
-> Talking Body — Tove Lo<br>
-> Stay — Zedd & Alessia Cara<br>
-> The Nights — Avicii<br>
-> Hey Brother — Avicii<br>
-> Waiting for Love — Avicii<br>
-> Levels — Avicii<br>
-> Wake Me Up — Avicii<br>
-> Firestone — Kygo feat. Conrad Sewell<br>
-> Stole the Show — Kygo feat. Parson James<br>
-> It Ain’t Me — Kygo & Selena Gomez<br>
-> Freedom — Kygo feat. Zak Abel<br>
-> Higher Love — Kygo & Whitney Houston<br>
-> Lean On — Major Lazer & DJ Snake feat. MØ<br>
-> Cold Water — Major Lazer feat. Justin Bieber & MØ<br>
-> Tadow — Masego & FKJ<br>
-> Lying Together — FKJ<br>
-> Vincent — Don McLean<br>
-> American Pie — Don McLean<br>
-> The Sound of Silence — Simon & Garfunkel<br>
-> Bridge Over Troubled Water — Simon & Garfunkel<br>
-> Mrs. Robinson — Simon & Garfunkel<br>
-> Scarborough Fair — Simon & Garfunkel<br>
-> Hallelujah — Leonard Cohen<br>
-> Suzanne — Leonard Cohen<br>
-> Everybody Wants to Rule the World — Tears for Fears<br>
-> Shout — Tears for Fears<br>
-> Head Over Heels — Tears for Fears<br>
-> Mad World — Tears for Fears<br>
-> Don’t You (Forget About Me) — Simple Minds<br>
-> Alive and Kicking — Simple Minds<br>
-> Drive — The Cars<br>
-> Just What I Needed — The Cars<br>
-> Good Times Roll — The Cars<br>
-> Heart of Glass — Blondie<br>
-> Call Me — Blondie<br>
-> Rapture — Blondie<br>
-> One Way or Another — Blondie<br>
-> Dreams — Beck<br>
-> Loser — Beck<br>
-> Where It’s At — Beck<br>
-> E-Pro — Beck<br>
-> Morning — Beck<br>
-> The Suburbs — Arcade Fire<br>
-> Wake Up — Arcade Fire<br>
-> Ready to Start — Arcade Fire<br>
-> Sprawl II (Mountains Beyond Mountains) — Arcade Fire<br>
-> Reflektor — Arcade Fire<br>
 > Electric Feel — MGMT<br>
 > Time to Pretend — MGMT<br>
-> Kids — MGMT<br>
-> Congratulations — MGMT<br>
 > Little Dark Age — MGMT<br>
+> 1901 — Phoenix<br>
+> Lisztomania — Phoenix<br>
+> If I Ever Feel Better — Phoenix<br>
+> Sleepyhead — Passion Pit<br>
+> Take a Walk — Passion Pit<br>
+> Carried Away — Passion Pit<br>
+> What You Know — Two Door Cinema Club<br>
+> Something Good Can Work — Two Door Cinema Club<br>
+> Undercover Martyn — Two Door Cinema Club<br>
 > Midnight City — M83<br>
 > Wait — M83<br>
 > Outro — M83<br>
-> Reunion — M83<br>
-> Solitude — M83<br>
-> Midnight — Coldplay<br>
-> Adventure of a Lifetime — Coldplay<br>
-> Paradise — Coldplay<br>
-> Every Teardrop Is a Waterfall — Coldplay<br>
-> A Sky Full of Stars — Coldplay<br>
-> Hymn for the Weekend — Coldplay<br>
-> Magic — Coldplay<br>
-odfj
+> The Suburbs — Arcade Fire<br>
+> Ready to Start — Arcade Fire<br>
+> Sprawl II — Arcade Fire<br>
+> Holocene — Bon Iver<br>
+> Skinny Love — Bon Iver<br>
+> Perth — Bon Iver<br>
+> Yellow — Coldplay<br>
+> The Scientist — Coldplay<br>
+> Speed of Sound — Coldplay<br>
+> Fix You — Coldplay<br>
+> Viva La Vida — Coldplay<br>
+> Clocks — Coldplay<br>
+> Lovers in Japan — Coldplay<br>
+> Chasing Cars — Snow Patrol<br>
+> Run — Snow Patrol<br>
+> Open Your Eyes — Snow Patrol<br>
+> Somewhere Only We Know — Keane<br>
+> Everybody’s Changing — Keane<br>
+> Is It Any Wonder? — Keane<br>
+> Take Me Out — Franz Ferdinand<br>
+> Do You Want To — Franz Ferdinand<br>
+> No You Girls — Franz Ferdinand<br>
+> Reptilia — The Strokes<br>
+> Hard to Explain — The Strokes<br>
+> Last Nite — The Strokes<br>
+> Someday — The Strokes<br>
+> Juicebox — The Strokes<br>
+> Graceland — Paul Simon<br>
+> You Can Call Me Al — Paul Simon<br>
+> Diamonds on the Soles of Her Shoes — Paul Simon<br>
+> Big Jet Plane — Angus & Julia Stone<br>
+> Paper Aeroplane — Angus & Julia Stone<br>
+> Chateau — Angus & Julia Stone<br>
+> Riptide — Vance Joy<br>
+> Mess Is Mine — Vance Joy<br>
+> Georgia — Vance Joy<br>
+> Sweet Disposition — The Temper Trap<br>
+> Fader — The Temper Trap<br>
+> Soldier On — The Temper Trap<br>
+> Dog Days Are Over — Florence + The Machine<br>
+> Shake It Out — Florence + The Machine<br>
+> Spectrum — Florence + The Machine<br>
+> The Less I Know The Better — Tame Impala<br>
+> Let It Happen — Tame Impala<br>
+> Elephant — Tame Impala<br>
+> New Person, Same Old Mistakes — Tame Impala<br>
+> Feels Like We Only Go Backwards — Tame Impala<br>
+> On Hold — The xx<br>
+> Intro — The xx<br>
+> Crystalised — The xx<br>
+> Angels — The xx<br>
+> Shelter — The xx<br>
+> You & Me — Disclosure<br>
+> Latch — Disclosure feat. Sam Smith<br>
+> Omen — Disclosure feat. Sam Smith<br>
+> White Noise — Disclosure<br>
+> Sunset Lover — Petit Biscuit<br>
+> Memories — Petit Biscuit<br>
+> Problems — Petit Biscuit<br>
+> Say My Name — ODESZA feat. Zyra<br>
+> A Moment Apart — ODESZA<br>
+> Line of Sight — ODESZA<br>
+> Bloom — ODESZA<br>
+> Higher Ground — ODESZA feat. Naomi Wild<br>
+> Innerbloom — RÜFÜS DU SOL<br>
+> No Place — RÜFÜS DU SOL<br>
+> Treat You Better — RÜFÜS DU SOL<br>
+> Desert Night — RÜFÜS DU SOL<br>
+> Something to Believe In — Young the Giant<br>
+> Cough Syrup — Young the Giant<br>
+> My Body — Young the Giant<br>
+> Tightrope — Walk the Moon<br>
+> Shut Up and Dance — Walk the Moon<br>
+> Anna Sun — Walk the Moon<br>
+> A-Punk — Vampire Weekend<br>
+> Oxford Comma — Vampire Weekend<br>
+> Cape Cod Kwassa Kwassa — Vampire Weekend<br>
+> Harmony Hall — Vampire Weekend<br>
+> Hold On — Alabama Shakes<br>
+> Don’t Wanna Fight — Alabama Shakes<br>
+> Sound & Color — Alabama Shakes<br>
+> The 1975 — The 1975<br>
+> Somebody Else — The 1975<br>
+> Love It If We Made It — The 1975<br>
+> It’s Not Living (If It’s Not With You) — The 1975<br>
+> Chocolate — The 1975<br>
+> Stolen Dance — Milky Chance<br>
+> Down by the River — Milky Chance<br>
+> Flashed Junk Mind — Milky Chance<br>
+> Heartbeats — José González<br>
+> Stay Alive — José González<br>
+> Crosses — José González<br>
+> Reckoner — Radiohead<br>
+> Nude — Radiohead<br>
+> There There — Radiohead<br>
+> Lucky — Radiohead<br>
+> High and Dry — Radiohead<br>
+> Fake Plastic Trees — Radiohead<br>
+> Weird Fishes/Arpeggi — Radiohead<br>
+> Everlong — Foo Fighters<br>
+> The Pretender — Foo Fighters<br>
+> Walk — Foo Fighters<br>
+> Learn to Fly — Foo Fighters<br>
+> Times Like These — Foo Fighters<br>
+> Drive — Incubus<br>
+> Wish You Were Here — Incubus<br>
+> Love Hurts — Incubus<br>
+> Pardon Me — Incubus<br>
+> Dig — Incubus<br>
+> 3AM — Matchbox Twenty<br>
+> Unwell — Matchbox Twenty<br>
+> Push — Matchbox Twenty<br>
+> How Far We’ve Come — Matchbox Twenty<br>
+> Drops of Jupiter — Train<br>
+> Meet Virginia — Train<br>
+> Hey Soul Sister — Train<br>
+> Use Somebody — Kings of Leon<br>
+> Sex on Fire — Kings of Leon<br>
+> Pyro — Kings of Leon<br>
+> Closer — The Chainsmokers feat. Halsey<br>
+> Don’t Let Me Down — The Chainsmokers feat. Daya<br>
+> Paris — The Chainsmokers<br>
+> Stolen Dance — Milky Chance<br>
+> Pumped Up Kicks — Foster the People<br>
+> Sit Next to Me — Foster the People<br>
+> Houdini — Foster the People<br>
+> On Top of the World — Imagine Dragons<br>
+> Radioactive — Imagine Dragons<br>
+> Believer — Imagine Dragons<br>
+> Demons — Imagine Dragons<br>
+> Whatever It Takes — Imagine Dragons<br>
+> Cool — Dua Lipa<br>
+> Levitating — Dua Lipa<br>
+> Physical — Dua Lipa<br>
+> Don’t Start Now — Dua Lipa<br>
+> New Rules — Dua Lipa<br>
+> You Know I’m No Good — Amy Winehouse<br>
+> Stronger Than Me — Amy Winehouse<br>
+> Back to Black — Amy Winehouse<br>
+> Valerie — Amy Winehouse<br>
+> Rehab — Amy Winehouse<br>
+> N.Y. State of Mind — Nas<br>
+> The World Is Yours — Nas<br>
+> If I Ruled the World — Nas feat. Lauryn Hill<br>
+> C.R.E.A.M. — Wu-Tang Clan<br>
+> Protect Ya Neck — Wu-Tang Clan<br>
+> Ms. Jackson — OutKast<br>
+> Hey Ya! — OutKast<br>
+> Roses — OutKast<br>
+> B.O.B — OutKast<br>
+> Lose Yourself — Eminem<br>
+> The Real Slim Shady — Eminem<br>
+> Stan — Eminem<br>
+> Humble — Kendrick Lamar<br>
+> DNA. — Kendrick Lamar<br>
+> Alright — Kendrick Lamar<br>
+> Money Trees — Kendrick Lamar<br>
+> Swimming Pools (Drank) — Kendrick Lamar<br>
+> Power — Kanye West<br>
+> Stronger — Kanye West<br>
+> Heartless — Kanye West<br>
+> Jesus Walks — Kanye West<br>
+> Runaway — Kanye West<br>
+> Sicko Mode — Travis Scott<br>
+> Goosebumps — Travis Scott<br>
+> Antidote — Travis Scott<br>
+> Highest in the Room — Travis Scott<br>
+> The Box — Roddy Ricch<br>
+> Rockstar — DaBaby feat. Roddy Ricch<br>
+> Bodak Yellow — Cardi B<br>
+> I Like It — Cardi B<br>
+> Super Bass — Nicki Minaj<br>
+> Starships — Nicki Minaj<br>
+> Work It — Missy Elliott<br>
+> Get Ur Freak On — Missy Elliott<br>
+> One Dance — Drake<br>
+> Passionfruit — Drake<br>
+> Controlla — Drake<br>
+> Nonstop — Drake<br>
+> God’s Plan — Drake<br>
+> Formation — Beyoncé<br>
+> Love on Top — Beyoncé<br>
+> Halo — Beyoncé<br>
+> Single Ladies — Beyoncé<br>
+> Crazy in Love — Beyoncé feat. Jay-Z<br>
+> Electric — Alina Baraz<br>
+> Fantasy — Alina Baraz<br>
+> Drift — Alina Baraz<br>
+> Shelter — Porter Robinson & Madeon<br>
+> Language — Porter Robinson<br>
+> Divinity — Porter Robinson<br>
+> Ghost Voices — Virtual Self<br>
+> The Island — Pendulum<br>
+> The Veldt — deadmau5 feat. Chris James<br>
+> Avaritia — deadmau5<br>
+> Raise Your Weapon — deadmau5<br>
+> Opus — Eric Prydz<br>
+> Pjanoo — Eric Prydz<br>
+> Call on Me — Eric Prydz<br>
+> Adagio for Strings — Tiësto<br>
+> The Business — Tiësto<br>
+> Red Lights — Tiësto<br>
+> Levels — Avicii<br>
+> The Nights — Avicii<br>
+> Waiting for Love — Avicii<br>
+> Sun & Moon — Above & Beyond<br>
+> Thing Called Love — Above & Beyond<br>
+> Blue Sky Action — Above & Beyond<br>
+> Disarm You — Kaskade feat. Ilsey<br>
+> I Remember — Kaskade & deadmau5<br>
+> 4 AM — Kaskade<br>
+> Shelter — Madeon & Porter Robinson<br>
+> Icarus — Madeon<br>
+> Finale — Madeon<br>
+> Strobe — deadmau5<br>
+> Ghosts ’n’ Stuff — deadmau5<br>
+> Not Exactly — deadmau5<br>
+> Say It — Flume feat. Tove Lo<br>
+> Never Be Like You — Flume feat. Kai<br>
+> Hyperreal — Flume<br>
+> Gold — Chet Faker<br>
+> 1998 — Chet Faker<br>
+> Talk Is Cheap — Chet Faker<br>
+> Shine — Years & Years<br>
+> King — Years & Years<br>
+> Desire — Years & Years<br>
+> Recover — CHVRCHES<br>
+> The Mother We Share — CHVRCHES<br>
+> Leave a Trace — CHVRCHES<br>
+> On Melancholy Hill — Gorillaz<br>
+> 19-2000 — Gorillaz<br>
+> Feel Good Inc. — Gorillaz<br>
+> Instant Crush — Daft Punk feat. Julian Casablancas<br>
+> Doin’ It Right — Daft Punk feat. Panda Bear<br>
+> Aerodynamic — Daft Punk<br>
 
 siofinsd
 sd
 
 Hello my name is jeff
-hsoidhg
-sdg
+hell omy name is tom
