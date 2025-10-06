@@ -197,3 +197,13 @@ If you ever see the build queue shuffle at 3:07, don’t open the logs. Just com
 > I wrote a wrapper. Now I’m wrapped in tech debt. 🎁<br>
 > I reduced latency. Now I’m impatient. ⏩<br>
 > I pushed to main. Main pushed back. 🔁<br>
+> I renamed the repo; now Git thinks we’re strangers. 🫤<br>
+> I wrote a regex to fix everything; now everything is a string. 🔤<br>
+> My kanban board is just a list of apologies. 🙇<br>
+> I added logging at level “existential.” 🌀<br>
+> I optimized startup time by never shutting down. ♾️<br>
+> I enabled auto-scaling; my stress scaled too. 📈<br>
+> I tried to be full-stack; now I’m fully stuck. 🧱<br>
+> I scheduled a meeting to discuss meetings. It recurs. 📅<br>
+> I used feature branches to branch my personality. 🌿<br>
+> I documented the undocumented; now it’s outdated. 🗒️<br>
