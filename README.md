@@ -4,6 +4,7 @@ hello
 Joke: Why do programmers prefer dark mode? Because light attracts bugs.
 Joke: There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.
 Joke: A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
+Joke: To understand recursion, you must first understand recursion.
 
 
 hello
