@@ -28,4 +28,8 @@ Hello, code; we’re good to go.
 
 Why do programmers prefer dark mode? Because light attracts bugs.
 
+### Another dev joke
+
+I told my computer I needed a break, and it said "No problem—I'll go to sleep."
+
 
