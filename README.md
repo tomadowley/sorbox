@@ -23,9 +23,13 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
-### Bonus: A dev jokedfb
+
+### Bonus: A dev joke
 
 Why do programmers prefer dark mode? Because light attracts bugs.
-afbad
 
-adfbadfb
+### Another dev joke
+
+There are 10 types of people in the world: those who understand binary and those who don't.
+
+
