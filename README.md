@@ -1,13 +1,9 @@
-
-hello
-
-Joke: Why do programmers prefer dark mode? Because light attracts bugs.
+fgnsfg Because light attracts bugs.
 Joke: There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.
 Joke: A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
-Joke: "It works on my machine" is the most popular unit test.
 
-
-hello
+hellos
+sfg
 
 ### Song: "Hello, Code"
 
@@ -25,6 +21,5 @@ We iterate, we learn, we grow.
 
 Bridge:
 In every diff, a tale we write,
-Small steps forward, clean and light;
-Review, refine, and then we show—
-Hello, code; we’re good to go.
+Small steps forward, clean and light;fg
+sfg s
