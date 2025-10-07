@@ -5,6 +5,7 @@ Joke: Why do programmers prefer dark mode? Because light attracts bugs.
 Joke: There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.
 Joke: A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
 Joke: How many programmers does it take to change a light bulb? None — it's a hardware problem.
+Joke: Debugging—being the detective in a crime movie where you are also the murderer.
 
 
 hello
