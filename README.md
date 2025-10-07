@@ -28,3 +28,4 @@ Review, refine, and then we show—
 Hello, code; we’re good to go.
 
 Roast: Your tests are so flaky they should be served with milk.
+Roast: Your variable names are so vague even Sherlock couldn’t infer their types.
