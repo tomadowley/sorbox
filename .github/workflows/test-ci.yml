@@ -32,6 +32,6 @@ jobs:
       - name: Run tests
         run: npm test -- --watchAll=false
 
-      # Step 5: Build the application sijdbv oiusbndrv
+      # Step 5: Build the application sijdbv oiusbndrvdfbdfdfg
       - name: Build
         run: npm run build
