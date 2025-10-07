@@ -36,4 +36,8 @@ There are 10 types of people in the world: those who understand binary and those
 
 I would tell you a UDP joke, but you might not get it.
 
+### Yet another dev joke
+
+Why do Java developers wear glasses? Because they don't C#.
+
 
