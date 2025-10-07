@@ -23,9 +23,9 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
-
-### Bonus: A dev joke
+### Bonus: A dev jokedfb
 
 Why do programmers prefer dark mode? Because light attracts bugs.
+afbad
 
-
+adfbadfb
