@@ -23,7 +23,6 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
-
 ### Bonus: A dev joke
 
 Why do programmers prefer dark mode? Because light attracts bugs.
@@ -35,9 +34,8 @@ There are 10 types of people in the world: those who understand binary and those
 ### Yet another dev joke
 
 I would tell you a UDP joke, but you might not get it.
+v
 
-### Yet another dev joke
+### Yet another dev jadfke
 
-Why do Java developers wear glasses? Because they don't C#.
-
-
+Why do Java developers wear adfvglasses? Because they don't C#.
