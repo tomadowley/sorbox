@@ -32,4 +32,8 @@ Why do programmers prefer dark mode? Because light attracts bugs.
 
 There are 10 types of people in the world: those who understand binary and those who don't.
 
+### One more dev joke
+
+To understand recursion, you must first understand recursion.
+
 
