@@ -23,19 +23,14 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
-
 ### Joke
 
 Why did the developer go broke? Because they used up all their cache.
 
 Why do programmers prefer dark mode? Because light attracts bugs.
 
-There are 10 types of people in the world: those who understand binary and those who don't.
+There are 10 types of people in the world: those who understand d
+There’s no place like 127.0.0.1.dsfbdafb
+adfb
 
-A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
-
-To understand recursion, you must first understand recursion.
-
-There’s no place like 127.0.0.1.
-
-
+fabadfb
