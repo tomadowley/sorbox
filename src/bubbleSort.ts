@@ -1,5 +1,5 @@
 /**
- * Bubble Sort implementation in TypeScript.
+ * Bubble Sort-like implementation in TypeScript.
  * Sorts an array in-place using the Bubble Sort algorithm.
  * 
  * @param arr - The array to be sorted.
