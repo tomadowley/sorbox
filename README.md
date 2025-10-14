@@ -315,3 +315,213 @@ Morning comes with systems stern—
 We end the on-call nocturne.
 
 
+### Song: "Static Typing Serenade"
+
+Verse 1:
+Types that guide our hands with care,
+Contracts clear in each declare;
+From compile to runtime’s lane,
+We sing away the hidden pain.
+
+Chorus:
+Generics glide in tidy streams,
+Union glow and narrow dreams;
+Errors fade when bounds are made—
+Play the static typing serenade.
+
+Bridge:
+Inference calm, explicit light,
+Refactor safe through every night;
+Signals strong, the bugs evade—
+Rest in static typing serenade.
+
+
+### Song: "API Gateway Gospel"
+
+Verse 1:
+Routes converge beneath one sky,
+Policies watch requests go by;
+Tokens bless the sacred way,
+Our gateway hums night and day.
+
+Chorus:
+Rate and auth in hymn refined,
+Backends map, the paths aligned;
+Stitch the seams where payloads play—
+Sing the API gateway gospel sway.
+
+Bridge:
+Headers tell the honest tale,
+Transforms guide through wind and hail;
+Service choir keeps drift at bay—
+Amen, gateway gospel way.
+
+
+### Song: "Regression Rhapsody"
+
+Verse 1:
+Old wounds wake in code we’ve changed,
+Edge-case halls are rearranged;
+We listen for that subtle fall,
+And catch the ghost before the call.
+
+Chorus:
+Tests reprise the past we knew,
+Signals warn when truths skew;
+Green returns in measured custody—
+Close the regression rhapsody.
+
+Bridge:
+Diffs explained, the lesson clear,
+Guard the path in future year;
+Harmony holds our custody—
+End the regression rhapsody.
+
+
+### Song: "Pair Programming Pasodoble"
+
+Verse 1:
+Driver hands and navigator eyes,
+Trade the roles, the craft replies;
+Two minds dance through thorn and flow,
+We pass the batons, on we go.
+
+Chorus:
+Step by step the rhythm sings,
+Bugs retreat as insight springs;
+Trust and talk where ideas grow—
+Spin the pair pasodoble glow.
+
+Bridge:
+Breaks in sync, respect the beat,
+Kindness makes the pairing sweet;
+Ship with joy, the tempo slow—
+Finish the pasodoble show.
+
+
+### Song: "Continuous Delivery Cantata"
+
+Verse 1:
+Every merge prepares the stage,
+Artifacts handed, page by page;
+Small and safe, we cross the sea,
+Release becomes a simple key.
+
+Chorus:
+Doors unlock when checks agree,
+Flags and flows in harmony;
+Value streams in measured data—
+Raise the CD cantata.
+
+Bridge:
+If delay should cloud the night,
+We trace the queue and set it right;
+Flow restored in calm sonata—
+Sing the CD cantata.
+
+
+### Song: "Kubernetes Chorus"
+
+Verse 1:
+Pods align and nodes accord,
+Services hum, a steady chord;
+Controllers keep the tempo fair,
+We roll through clusters everywhere.
+
+Chorus:
+Health and scale in tidy tune,
+Probes and limits hold the rune;
+From YAML roots to clouds that soar—
+Praise the Kubernetes chorus roar.
+
+Bridge:
+Etcd keeps the truth in stone,
+Schedulers place each stepping tone;
+Resilience grows from shore to shore—
+End the Kubernetes chorus core.
+
+
+### Song: "Logging Lantern Lilt"
+
+Verse 1:
+Lines of light through midnight rain,
+Context guides the signal train;
+Fields that speak, the truth we note,
+We find the cause and float the boat.
+
+Chorus:
+Structure first, the noise grows thin,
+Trace and log in gentle spin;
+From debug glow to warn’s bright tilt—
+Hum the logging lantern lilt.
+
+Bridge:
+Sampling right when storms explode,
+Redact the secrets in the code;
+Clarity shines, we never wilt—
+Keep the lantern lilt.
+
+
+### Song: "Performance Profiling Polka"
+
+Verse 1:
+Flamegraphs dance in crimson streams,
+Time and space reveal their schemes;
+Hot paths pulse beneath the fold,
+We trim the waste and keep the gold.
+
+Chorus:
+Cache the call, unroll the play,
+Batch the work to save the day;
+Throughput climbs—no stutters sulk—
+Spin the profiling polka.
+
+Bridge:
+Measure first, then change the tune,
+Micro wins and macro boon;
+Numbers talk, we do not balk—
+End the profiling polka walk.
+
+
+### Song: "Database Migration Madrigal"
+
+Verse 1:
+Schemas grow with gentle grace,
+Columns join their proper place;
+Keys and indices align,
+We carry data row by line.
+
+Chorus:
+Up and down with scripts that sing,
+Backups held like faithful ring;
+Safely change the storied cradle—
+Play the migration madrigal.
+
+Bridge:
+Dry-run first, we test the way,
+Locks and timeouts kept at bay;
+Rollback plans that hold the cable—
+Close the migration madrigal.
+
+
+### Song: "Accessibility Anthem"
+
+Verse 1:
+Voices heard in every page,
+Focus lines that set the stage;
+Contrast clear, the paths are bright,
+We welcome all to read the sight.
+
+Chorus:
+ARIA guides and labels true,
+Keyboard maps that carry through;
+Human-first in code we pen—
+Raise the accessibility amen.
+
+Bridge:
+Tests that see beyond the screen,
+Care in motion, calm between;
+Craft for all—again, again—
+Sing the accessibility anthem.
+
+
