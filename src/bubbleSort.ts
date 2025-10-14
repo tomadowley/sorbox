@@ -27,7 +27,7 @@ export function bubbleSort<T>(
 }
 
 /**
- * Selection Sort implementation in TypeScript.
+ * Selection Sort-like implementation in TypeScript.
  * Sorts an array in-place using the Selection Sort algorithm.
  * 
  * @param arr - The array to be sorted.
