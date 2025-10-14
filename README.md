@@ -38,4 +38,6 @@ To understand recursion, you must first understand recursion.
 
 There’s no place like 127.0.0.1.
 
+I would tell you a UDP joke, but you might not get it.
+
 
