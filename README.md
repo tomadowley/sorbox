@@ -36,4 +36,6 @@ A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
 
 To understand recursion, you must first understand recursion.
 
+There’s no place like 127.0.0.1.
+
 
