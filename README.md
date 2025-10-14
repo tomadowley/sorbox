@@ -24,3 +24,8 @@ Review, refine, and then we show—
 Hello, code; we’re good to go.
 
 
+### Joke
+
+Why did the developer go broke? Because they used up all their cache.
+
+
