@@ -42,4 +42,66 @@ I would tell you a UDP joke, but you might not get it.
 
 It works on my machine.
 
+### Song: "Bug Hunt Blues"
+
+Verse 1:
+Breakpoint set, the night grows late,
+Stack traces map a twisted fate;
+Logs whisper where the errors hide,
+I breathe in deep and step inside.
+
+Chorus:
+We chase the bugs through loops and lanes,
+Refactor paths and clear the stains;
+With steady hands and cleaner views,
+We ship at dawn—Bug Hunt Blues.
+
+Bridge:
+A failing test, then green at last,
+The lesson learned: commit the past;
+We move with care, we never lose—
+Play it again: Bug Hunt Blues.
+
+
+### Song: "Commit Symphony"
+
+Verse 1:
+Add the lines and stage the change,
+Name the note, arrange, exchange;
+Diffs in time, in harmony,
+We write a calm commit symphony.
+
+Chorus:
+Push upstream where reviews begin,
+Hear the chorus: “Looks good, in”;
+Measure by measure, clarity,
+We merge the branch—symmetry.
+
+Bridge:
+In every note, intent is clear,
+Fewer words, but music near;
+Rebase the motif carefully—
+Encore the commit symphony.
+
+
+### Song: "Deploy Tonight"
+
+Verse 1:
+Pipelines hum, the lights are low,
+Artifacts set, we’re good to go;
+Configs locked and secrets tight,
+We sail to prod—deploy tonight.
+
+Chorus:
+Roll the canary, watch the glow,
+Metrics climb and errors slow;
+Flip the flag when charts are right,
+We dance in logs—deploy tonight.
+
+Bridge:
+If we must roll back, we’ll glide,
+Safe and swift, we’ll turn the tide;
+Resilience built by day and night—
+Ship it again—deploy tonight.
+
 
