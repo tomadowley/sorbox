@@ -28,4 +28,6 @@ Hello, code; we’re good to go.
 
 Why did the developer go broke? Because they used up all their cache.
 
+Why do programmers prefer dark mode? Because light attracts bugs.
+
 
