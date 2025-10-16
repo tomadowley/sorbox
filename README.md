@@ -57,5 +57,15 @@ Hello, code; we’re good to go.
 29. I’d test my backups, but I’m not ready for that kind of commitment.
 30. The Scrum master said we need to go faster, so I increased the clock speed.
 31. My favorite design pattern is “Ctrl+Z”.
+32. My code doesn’t have bugs; it has undocumented features.
+33. I use tabs for indentation because I'm optimistic.
+34. Keep calm and clear the cache.
+35. The best part of null is it's nothing to worry about—until it is.
+36. I changed one line and compiled for three hours.
+37. Deployment is just copying files very carefully.
+38. IPv6: because we ran out of jokes for IPv4.
+39. The keyboard is mightier than the mouse; one is for code, the other is for hiding it.
+40. If code is poetry, mine is free verse with lots of exceptions.
+41. Unit tests: trust issues in code form.
 
 
