@@ -29,4 +29,14 @@ Why do programmers prefer dark mode? Because light attracts bugs.
 
 Why do Java developers wear glasses? Because they don't C#.
 
+I would tell you a UDP joke, but you might not get it.
+
+There are 10 types of people in the world: those who understand binary and those who don’t.
+
+Debugging: removing needles from a haystack.
+
+A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
+
+To understand recursion, you must first understand recursion.
+
 
