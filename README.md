@@ -23,4 +23,33 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
+### Joke
+
+Why do programmers prefer dark mode?  
+Because light attracts bugs.
+
+Why do Java developers wear glasses?  
+Because they don't C#.
+
+Why did the developer go broke?  
+Because they used up all their cache.
+
+I told my computer I needed a break.  
+It said: “No problem — I’ll go to sleep.”
+
+How many programmers does it take to change a light bulb?  
+None. That’s a hardware problem.
+
+I’d tell you a UDP joke…  
+…but you might not get it.
+
+Why did the function stop calling its friends?  
+Because it had too many arguments.
+
+There are 10 types of people in the world:  
+Those who understand binary and those who don’t.
+
+Debugging is like being the detective in a crime movie  
+where you are also the murderer.
+
 
