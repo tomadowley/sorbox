@@ -82,5 +82,10 @@ Hello, code; we’re good to go.
 54. I wrote a lambda so short it became a haiku.
 55. My sprint goal is to reduce meetings, starting with this one.
 56. If it compiles, ship it; if it doesn’t, blame the compiler.
+57. My favorite framework is “copy-paste.”
+58. The backlog is just a wish list with deadlines.
+59. I wrote unit tests; now my bugs have documentation.
+60. “It’s not a bug, it’s a feature” — the product manager’s lullaby.
+61. The CPU and I agree: we both need more cycles.
 
 
