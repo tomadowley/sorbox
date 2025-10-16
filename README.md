@@ -137,5 +137,10 @@ Hello, code; we’re good to go.
 109. Our API returns 200 OK and an apology.
 110. I optimized it — now it’s fast at doing the wrong thing.
 111. Documentation is code with feelings; mine is shy.
+112. My backlog has a backlog.
+113. We use feature flags to flag features we don't have.
+114. The architecture diagram is just a pretty drawing of our problems.
+115. I fixed a race condition; now the bug waits politely.
+116. Our distributed system is great at distributing blame.
 
 
