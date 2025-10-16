@@ -87,5 +87,10 @@ Hello, code; we’re good to go.
 59. I wrote unit tests; now my bugs have documentation.
 60. “It’s not a bug, it’s a feature” — the product manager’s lullaby.
 61. The CPU and I agree: we both need more cycles.
+62. Merge conflict: Git’s way of asking if you’ve talked to your team lately.
+63. I don’t always optimize, but when I do, it’s premature.
+64. My microservice is so small it fits in a tweet.
+65. We had a stand-up; my build did not.
+66. I renamed the variable; now the bug is harder to find.
 
 
