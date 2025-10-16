@@ -122,5 +122,20 @@ Hello, code; we’re good to go.
 94. Tabs vs spaces: I’m bipartisan — my editor decides.
 95. The code review said “nit:” and now I’m rewriting everything.
 96. I added caching; now the bugs are persistent.
+97. Our microservices communicate exclusively via passive-aggressive timeouts.
+98. My favorite data structure is “copy-paste array.”
+99. The feature is MVP: Mostly Various Placeholders.
+100. I wrote a linter rule to ignore my linter rules.
+101. Our roadmap has dependencies on hope and coffee.
+102. I benchmarked it; the bottleneck is meetings.
+103. We scaled horizontally; now our confusion is distributed.
+104. I added logging; now I can watch it fail in HD.
+105. The build is green because we disabled all tests.
+106. We do continuous delivery — eventually.
+107. My exception handler also handles my emotions.
+108. The roadmap is Kanban; the dates are fiction.
+109. Our API returns 200 OK and an apology.
+110. I optimized it — now it’s fast at doing the wrong thing.
+111. Documentation is code with feelings; mine is shy.
 
 
