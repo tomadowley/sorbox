@@ -46,4 +46,10 @@ I’d tell you a UDP joke…
 Why did the function stop calling its friends?  
 Because it had too many arguments.
 
+There are 10 types of people in the world:  
+Those who understand binary and those who don’t.
+
+Debugging is like being the detective in a crime movie  
+where you are also the murderer.
+
 
