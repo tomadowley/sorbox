@@ -112,5 +112,15 @@ Hello, code; we’re good to go.
 84. We estimate in story points because numbers hurt feelings.
 85. The API is RESTful; I am not.
 86. I didn't choose the stack; the stack chose me.
+87. My backlog reproduces faster than my bugs.
+88. The monolith is just a microservice with big dreams.
+89. I measured twice and cut once; now the build fails in three places.
+90. My feature toggle toggled my motivation.
+91. Latency is just time traveling in the worst direction.
+92. I renamed the repo; now all docs are historical fiction.
+93. Our staging is so realistic it has production outages.
+94. Tabs vs spaces: I’m bipartisan — my editor decides.
+95. The code review said “nit:” and now I’m rewriting everything.
+96. I added caching; now the bugs are persistent.
 
 
