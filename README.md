@@ -157,5 +157,10 @@ Hello, code; we’re good to go.
 129. I wrote a migration; now I live in fear.
 130. Our roadmap is agile; our deadlines are not.
 131. My error messages are motivational: "Try again!"
+132. We measure velocity in coffee cups per commit.
+133. My docker-compose is a mood board.
+134. The design doc is a novel; the implementation is a haiku.
+135. I set retries to infinity; now my failures are persistent.
+136. The roadmap is a map of roads we haven't built.
 
 
