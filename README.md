@@ -162,5 +162,6 @@ Hello, code; we’re good to go.
 134. The design doc is a novel; the implementation is a haiku.
 135. I set retries to infinity; now my failures are persistent.
 136. The roadmap is a map of roads we haven't built.
+137. My bug report says “sometimes” — the scariest frequency.
 
 
