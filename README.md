@@ -67,5 +67,10 @@ Hello, code; we’re good to go.
 39. The keyboard is mightier than the mouse; one is for code, the other is for hiding it.
 40. If code is poetry, mine is free verse with lots of exceptions.
 41. Unit tests: trust issues in code form.
+42. Docker: because sometimes you need to put your problems in a box.
+43. My stack trace is longer than my to-do list.
+44. I don’t always test my code, but when I do, I do it in production.
+45. “Temporary fix” — famous last words.
+46. The only thing faster than my code is my tech debt.
 
 
