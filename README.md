@@ -97,5 +97,10 @@ Hello, code; we’re good to go.
 69. The CI is red to match our company brand.
 70. I wrote documentation; now nobody reads it, including me.
 71. We use AI for code reviews; it says “LGTM” faster than humans.
+72. My TODOs are just future-me's problems.
+73. Our SLA is "eventually consistent."
+74. I turned it off and on again; now it's a distributed system restart.
+75. The sprint length is inversely proportional to estimate confidence.
+76. We don't have bugs, we have emergent behavior.
 
 
