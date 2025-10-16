@@ -102,5 +102,15 @@ Hello, code; we’re good to go.
 74. I turned it off and on again; now it's a distributed system restart.
 75. The sprint length is inversely proportional to estimate confidence.
 76. We don't have bugs, we have emergent behavior.
+77. My roadmap is a graph; it has cycles.
+78. The feature is behind a flag; the flag is behind a feature.
+79. I use print debugging; it's artisanal logging.
+80. Our uptime is 99.9%; the 0.1% is meetings.
+81. I containerized my feelings; now they’re isolated.
+82. The build passed locally, which is all that matters to me apparently.
+83. My regex matched everything, including my hopes and dreams.
+84. We estimate in story points because numbers hurt feelings.
+85. The API is RESTful; I am not.
+86. I didn't choose the stack; the stack chose me.
 
 
