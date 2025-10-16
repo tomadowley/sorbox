@@ -132,5 +132,10 @@ Hello, code; we’re good to go.
 104. I added logging; now I can watch it fail in HD.
 105. The build is green because we disabled all tests.
 106. We do continuous delivery — eventually.
+107. My exception handler also handles my emotions.
+108. The roadmap is Kanban; the dates are fiction.
+109. Our API returns 200 OK and an apology.
+110. I optimized it — now it’s fast at doing the wrong thing.
+111. Documentation is code with feelings; mine is shy.
 
 
