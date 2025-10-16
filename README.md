@@ -147,5 +147,10 @@ Hello, code; we’re good to go.
 119. Our tech stack is a Jenga tower with nice documentation.
 120. I minified the code; now the errors are compressed too.
 121. The sprint retrospective is just my error log with feelings.
+122. I added observability; now I can observe chaos.
+123. Our CI/CD is just “CD”: Copy and Deploy.
+124. The backlog grooming is just hope with labels.
+125. My local environment is a protected habitat for rare bugs.
+126. We scaled to zero; now our costs and users match.
 
 
