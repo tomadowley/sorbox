@@ -41,4 +41,14 @@ To understand recursion, you must first understand recursion.
 
 Programming is 10% writing code and 90% understanding why it doesn’t work.
 
+There are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.
+
+I had a problem, so I used regex—now I have two problems.
+
+It's not a bug; it's an undocumented feature.
+
+The cloud is just someone else’s computer.
+
+If at first you don’t succeed, call it version 1.0.
+
 
