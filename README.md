@@ -171,5 +171,10 @@ Hello, code; we’re good to go.
 143. My CLI has one flag: --hope.
 144. We achieved zero bugs by redefining “bug.”
 145. Our dev environment is like Vegas: what happens there shouldn’t go to prod.
+146. My feature flag is stuck on “maybe.”
+147. We scaled the team; now our merge conflicts are distributed.
+148. I added a health check; it says the service is “tired.”
+149. Our roadmap is a meme; it changes every week.
+150. My shell history is just “git status” with anxiety.
 
 
