@@ -170,5 +170,6 @@ Hello, code; we’re good to go.
 142. The feature request says “simple” — estimated infinity.
 143. My CLI has one flag: --hope.
 144. We achieved zero bugs by redefining “bug.”
+145. Our dev environment is like Vegas: what happens there shouldn’t go to prod.
 
 
