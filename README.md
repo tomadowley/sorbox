@@ -72,5 +72,10 @@ Hello, code; we’re good to go.
 44. I don’t always test my code, but when I do, I do it in production.
 45. “Temporary fix” — famous last words.
 46. The only thing faster than my code is my tech debt.
+47. Commit messages are just haikus without the syllable counting.
+48. My code runs perfectly between 2 a.m. and 3 a.m.
+49. I refactored for readability; now no one can read it.
+50. “Just one more dependency” — a microservice’s autobiography.
+51. I asked for requirements; they sent me vibes.
 
 
