@@ -26,7 +26,7 @@ export function bubbleSort<T>(
   return arr;
 }
 
-//Hmmmmmm
+//Hmmmmmm yes I do think so
 
 /**
  * Selection Sort implementation in TypeScript.
