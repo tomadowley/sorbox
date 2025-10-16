@@ -152,5 +152,10 @@ Hello, code; we’re good to go.
 124. The backlog grooming is just hope with labels.
 125. My local environment is a protected habitat for rare bugs.
 126. We scaled to zero; now our costs and users match.
+127. My feature branch is a choose-your-own-adventure.
+128. We have two environments: production and "about to be production."
+129. I wrote a migration; now I live in fear.
+130. Our roadmap is agile; our deadlines are not.
+131. My error messages are motivational: "Try again!"
 
 
