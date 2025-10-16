@@ -142,5 +142,10 @@ Hello, code; we’re good to go.
 114. The architecture diagram is just a pretty drawing of our problems.
 115. I fixed a race condition; now the bug waits politely.
 116. Our distributed system is great at distributing blame.
+117. I set up monitoring so I can watch my mistakes in real time.
+118. Feature freeze means we only ship bugs.
+119. Our tech stack is a Jenga tower with nice documentation.
+120. I minified the code; now the errors are compressed too.
+121. The sprint retrospective is just my error log with feelings.
 
 
