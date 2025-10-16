@@ -47,5 +47,15 @@ Hello, code; we’re good to go.
 19. 0 is false, 1 is true, 2 is also true.
 20. There are two kinds of people: those who can extrapolate from incomplete data.
 21. Commit early, commit often, regret eventually.
+22. If at first you don’t succeed; call it version 1.0.
+23. I would change the world, but they didn’t give me admin rights.
+24. Weeks of coding can save you hours of planning.
+25. You can’t spell “debugging” without “bug”.
+26. The code worked perfectly until users started using it.
+27. QA said my bug was “reproducible.” I said, “Great, I was aiming for deterministic.”
+28. 127.0.0.1 — there’s no place like home.
+29. I’d test my backups, but I’m not ready for that kind of commitment.
+30. The Scrum master said we need to go faster, so I increased the clock speed.
+31. My favorite design pattern is “Ctrl+Z”.
 
 
