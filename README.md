@@ -92,5 +92,10 @@ Hello, code; we’re good to go.
 64. My microservice is so small it fits in a tweet.
 65. We had a stand-up; my build did not.
 66. I renamed the variable; now the bug is harder to find.
+67. My favorite design principle is “Later is better.” It’s called procrastination-driven development.
+68. The feature works, but only if you don’t click anything.
+69. The CI is red to match our company brand.
+70. I wrote documentation; now nobody reads it, including me.
+71. We use AI for code reviews; it says “LGTM” faster than humans.
 
 
