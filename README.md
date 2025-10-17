@@ -46,4 +46,6 @@ And truly the last: I’d tell you a UDP joke, but you might not get it.
 
 Bonus: Debugging is like being the detective in a crime movie where you are also the murderer.
 
+Encore: Why do Python devs wear glasses? Because they can’t C.
+
 
