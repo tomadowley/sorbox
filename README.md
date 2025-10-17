@@ -87,3 +87,24 @@ Rollback ready, plans are set—
 Deployment duet, no regret.
 
 
+### Song: "Refactor Rhapsody"
+
+Verse 1:
+Smell the code, then trim the vine,
+Split the giant into lines;
+Name with care, make modules small,
+Let clarity outshine them all.
+
+Chorus:
+Shape the seams and cut the ties,
+Test the edges, simplify;
+Patterns guide, complexity falls—
+Refactor rhapsody, clean halls.
+
+Bridge:
+When legacy resists the change,
+We map the flow, reduce the range;
+Step by step, we make it fair—
+Rhapsody ends with code laid bare.
+
+
