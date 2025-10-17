@@ -33,4 +33,9 @@ Because light attracts bugs.
 A SQL query walks into a bar, walks up to two tables and asks:  
 "Can I join you?"
 
+### Yet another quick joke
+
+There are only 10 kinds of people in the world:  
+Those who understand binary, and those who don't.
+
 
