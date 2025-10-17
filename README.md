@@ -31,4 +31,6 @@ Another one: I told my computer I needed a break, and it said: “No problem—I
 
 And another: There are 10 types of people in the world—those who understand binary and those who don’t.
 
+One more: A SQL query walks into a bar, walks up to two tables and asks, “Can I join you?”
+
 
