@@ -29,4 +29,6 @@ Why do programmers prefer dark mode? Because light attracts bugs.
 
 Another one: I told my computer I needed a break, and it said: “No problem—I’ll go to sleep.”
 
+And another: There are 10 types of people in the world—those who understand binary and those who don’t.
+
 
