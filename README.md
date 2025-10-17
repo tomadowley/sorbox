@@ -37,5 +37,6 @@ Hello, code; we’re good to go.
 10. It works on my machine.
 11. Programming: 90% thinking, 10% typing, and the rest explaining why it was obvious all along.
 12. There are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.
+13. I told my computer I needed a break, and it said: \"Why not a full stack trace?\"
 
 
