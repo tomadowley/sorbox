@@ -30,5 +30,6 @@ Hello, code; we’re good to go.
 - Why do programmers prefer dark mode? Because light attracts bugs.
 - There are 10 types of people in the world: those who understand binary and those who don’t.
 - I would tell you a UDP joke, but you might not get it.
+- To understand recursion, you must first understand recursion.
 
 
