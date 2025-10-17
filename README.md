@@ -105,3 +105,30 @@ Docs updated, lessons saved—
 Blues resolved, the path is paved.
 
 
+### Song: "Scaling Sonata"
+
+Verse 1:
+Traffic climbs, shards align;
+Queues absorb—backpressure fine;
+Cache warmed and cold paths pruned,
+Latency falls—tight and tuned.
+
+Chorus:
+Scale it out, then scale it up;
+Measure first, then fill the cup;
+Budgets guide each change we do—
+Fast and safe, reliable too.
+
+Verse 2:
+Idempotent; retries fair,
+Consistency where we declare;
+CAP reminds what tradeoffs mean,
+User joy stays crisp and clean.
+
+Bridge:
+Watch percentiles—tails must fall;
+SLOs ring the warning call;
+Autoscale, but plan ahead—
+Cost and speed walk hand-in-hand.
+
+
