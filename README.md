@@ -38,4 +38,7 @@ There are only two hard things in computer science: cache invalidation, naming t
 Yet another:
 A SQL query walks into a bar, walks up to two tables and asks, “Can I join you?”
 
+And finally (for now):
+To understand recursion, you must first understand recursion.
+
 
