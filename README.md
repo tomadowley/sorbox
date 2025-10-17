@@ -50,4 +50,6 @@ Encore: Why do Python devs wear glasses? Because they can’t C.
 
 One for the road: My code doesn’t have bugs; it just develops random features.
 
+Couldn't resist: There are two kinds of people: those who can extrapolate from incomplete data
+
 
