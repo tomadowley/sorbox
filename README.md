@@ -29,4 +29,7 @@ Hello, code; we’re good to go.
 Developer joke:
 Why do programmers prefer dark mode? Because light attracts bugs.
 
+Another one:
+How many programmers does it take to change a light bulb? None—that’s a hardware problem.
+
 
