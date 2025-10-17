@@ -39,4 +39,6 @@ Last one (for now): It works on my machine.
 
 Okay, okay, one more: There’s no place like 127.0.0.1.
 
+And really the last one: I’d tell you a UDP joke, but you might not get it.
+
 
