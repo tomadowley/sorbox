@@ -44,4 +44,6 @@ Okay fine, one more: “It works on my machine” is the new “Check engine” 
 
 And truly the last: I’d tell you a UDP joke, but you might not get it.
 
+Bonus: Debugging is like being the detective in a crime movie where you are also the murderer.
+
 
