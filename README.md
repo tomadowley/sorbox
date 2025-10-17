@@ -44,4 +44,7 @@ To understand recursion, you must first understand recursion.
 Okay, one more:
 There are 10 types of people in the world: those who understand binary and those who don't.
 
+Last last one:
+Debugging is like being the detective in a crime movie where you are also the murderer.
+
 
