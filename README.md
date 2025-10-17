@@ -59,4 +59,7 @@ I would love to change the world, but they won’t give me the source code.
 Final encore (promise):
 My code doesn't have bugs; it just develops random features.
 
+Bonus track:
+There’s no cloud; it’s just someone else’s computer.
+
 
