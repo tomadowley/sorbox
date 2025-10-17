@@ -51,3 +51,36 @@ Next release will start ahead—
 Craft, deliver, ship it red-to-green instead.
 
 
+### Song: "On-Call Lullaby"
+
+Verse 1:
+Pager hums at 2 A.M.,
+Graphs spike high—here we go again;
+Trace the path from edge to core,
+Find the root and close the door.
+
+Chorus:
+Sleep can wait, users can't,
+Steady hands—no panic rant;
+Rollback clean or forward slow,
+Keep the lights a steady glow.
+
+Verse 2:
+SLOs and SLI,
+Golden signals never lie;
+Pair to fix and write it plain,
+Postmortems make us sane.
+
+Bridge:
+Feature flags and circuit breaks,
+Chaos tests for future quakes;
+Practice drills so when it's real,
+Calm and careful is the deal.
+
+Outro:
+Sunrise finds the dashboard green,
+Lessons logged, the codebase clean;
+Rotate off with quiet pride—
+On-call done, we kept the ride.
+
+
