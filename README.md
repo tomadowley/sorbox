@@ -78,3 +78,30 @@ Next sprint plans, we write anew—
 Ship with care and serve the crew.
 
 
+### Song: "Bugfix Blues"
+
+Verse 1:
+Stacktrace screams at break of dawn,
+Nulls parade across the lawn;
+Repro steps in careful rows,
+Git bisect points where it goes.
+
+Chorus:
+Sing the bugfix blues tonight,
+Trace the path and set it right;
+Red to green, the suite will show,
+We squash the flake and let it go.
+
+Verse 2:
+Logs reveal the hidden seam,
+Race conditions in the stream;
+Lock the state and make it pure,
+Deterministic, clean, secure.
+
+Bridge:
+Write the test that fails before,
+Patch the code and test some more;
+Docs updated, lessons saved—
+Blues resolved, the path is paved.
+
+
