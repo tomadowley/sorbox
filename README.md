@@ -66,3 +66,24 @@ Rebase gently, let history soar—
 Commit chorus, we explore.
 
 
+### Song: "Deployment Duet"
+
+Verse 1:
+Dock the image, tag it clean,
+Secrets safe and configs lean;
+Health checks hum and ports align,
+Rolling waves in steady time.
+
+Chorus:
+Shift the traffic, watch and see,
+Blue to green in harmony;
+Metrics whisper, logs confess—
+Scale with grace, avoid the stress.
+
+Bridge:
+When pages ping with rising load,
+We tune the cache and lighten code;
+Rollback ready, plans are set—
+Deployment duet, no regret.
+
+
