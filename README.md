@@ -30,4 +30,6 @@ Why do programmers prefer dark mode? Because light attracts bugs.
 
 Another one: There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
 
+And another: A SQL query walks into a bar, walks up to two tables and asks, “May I join you?”
+
 
