@@ -48,4 +48,6 @@ Bonus: Debugging is like being the detective in a crime movie where you are also
 
 Encore: Why do Python devs wear glasses? Because they can’t C.
 
+One for the road: My code doesn’t have bugs; it just develops random features.
+
 
