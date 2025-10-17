@@ -31,5 +31,6 @@ Hello, code; we’re good to go.
 - There are 10 types of people in the world: those who understand binary and those who don’t.
 - I would tell you a UDP joke, but you might not get it.
 - To understand recursion, you must first understand recursion.
+- A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
 
 
