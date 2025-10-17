@@ -32,4 +32,7 @@ Why do programmers prefer dark mode? Because light attracts bugs.
 Another one:
 How many programmers does it take to change a light bulb? None—that’s a hardware problem.
 
+One more:
+There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+
 
