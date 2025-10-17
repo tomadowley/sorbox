@@ -35,4 +35,6 @@ One more: A SQL query walks into a bar, walks up to two tables and asks, “Can 
 
 And just one more: To understand recursion, you must first understand recursion.
 
+Last one (for now): It works on my machine.
+
 
