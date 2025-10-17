@@ -24,3 +24,16 @@ Review, refine, and then we show—
 Hello, code; we’re good to go.
 
 
+---
+### Joke
+
+- Why do programmers prefer dark mode? Because light attracts bugs.
+- There are 10 types of people in the world: those who understand binary and those who don’t.
+- I would tell you a UDP joke, but you might not get it.
+- To understand recursion, you must first understand recursion.
+- A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
+- There are only two hard things in computer science: cache invalidation and naming things.
+- “It works on my machine.” — the developer’s national motto.
+- There’s no place like 127.0.0.1.
+
+
