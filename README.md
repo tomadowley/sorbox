@@ -51,3 +51,30 @@ Design reveals the way we go,
 Ship it clean and keep the flow.
 
 
+### Song: "Deploy Dance"
+
+Verse 1:
+Tickets closed and builds are green,
+Pipelines hum—a steady sheen;
+Config locked, the secrets set,
+We press the key with no regret.
+
+Chorus:
+Dance of deploy, roll out slow,
+Watch the metrics rise and glow;
+If a faultline starts to show,
+Flip the switch and safely go.
+
+Verse 2:
+Blue to green, we swap the lane,
+Traffic shifts without the pain;
+Canaries sing, we watch the skies,
+Health checks clear—no compromise.
+
+Bridge:
+Post-release, we learn and trace,
+Blameless notes in calm embrace;
+Next sprint plans, we write anew—
+Ship with care and serve the crew.
+
+
