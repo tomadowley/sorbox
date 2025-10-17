@@ -33,5 +33,6 @@ Hello, code; we’re good to go.
 - To understand recursion, you must first understand recursion.
 - A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
 - There are only two hard things in computer science: cache invalidation and naming things.
+- “It works on my machine.” — the developer’s national motto.
 
 
