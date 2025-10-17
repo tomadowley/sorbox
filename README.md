@@ -33,4 +33,6 @@ And another: There are 10 types of people in the world—those who understand bi
 
 One more: A SQL query walks into a bar, walks up to two tables and asks, “Can I join you?”
 
+And just one more: To understand recursion, you must first understand recursion.
+
 
