@@ -40,4 +40,6 @@ Yet another: There’s no place like 127.0.0.1.
 
 One last one (for now): Commit messages are like jokes—if you have to explain them, it’s not good.
 
+Okay fine, one more: “It works on my machine” is the new “Check engine” light.
+
 
