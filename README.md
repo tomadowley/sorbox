@@ -123,3 +123,42 @@ Refactor slow, refactor true—
 Craft the code to serve the crew.
 
 
+### Song: "Merge Conflicts Blues"
+
+Verse 1:
+Pulled too late from the mainline stream,
+Index sings a crimson theme;
+Head and theirs both claim the spot,
+Choose the truth and drop the rot.
+
+Chorus:
+Got those merge conflicts blues,
+Pick the lines we mean to use;
+Stage the fix with steady hand,
+Write the story code will stand.
+
+Verse 2:
+Markers stare with marks of strife,
+======= drawing double life;
+Ours or theirs or something new,
+Keep intent and cut it true.
+
+Bridge:
+Rebase slow, commit in sets,
+Fold the noise and pay the debts;
+Tests will judge what words can't prove,
+Green or red, we make the move.
+
+Verse 3:
+Pair and talk the change back through,
+Why it lives and what it do;
+Docs and messages align,
+History tells a path refined.
+
+Outro:
+Push the branch, the checks run clean,
+Main is calm and evergreen;
+Next time pull before you start—
+Sync the head and save your heart.
+
+
