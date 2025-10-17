@@ -36,5 +36,6 @@ Hello, code; we’re good to go.
 9. The best thing about a boolean is that even if you are wrong, you are only off by a bit.
 10. It works on my machine.
 11. Programming: 90% thinking, 10% typing, and the rest explaining why it was obvious all along.
+12. There are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.
 
 
