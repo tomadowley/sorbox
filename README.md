@@ -47,4 +47,7 @@ There are 10 types of people in the world: those who understand binary and those
 Last last one:
 Debugging is like being the detective in a crime movie where you are also the murderer.
 
+Okay absolutely the last one:
+It works on my machine.
+
 
