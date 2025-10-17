@@ -56,4 +56,6 @@ One tiny async one: I’ll tell you later.
 
 New one: Computers make very fast, very accurate mistakes.
 
+Extra: Hardware is the part of a computer you can kick.
+
 
