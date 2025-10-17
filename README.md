@@ -34,4 +34,6 @@ And another: A SQL query walks into a bar, walks up to two tables and asks, “M
 
 Finally: To understand recursion, you must first understand recursion.
 
+One more: There are 10 types of people in the world: those who understand binary and those who don’t.
+
 
