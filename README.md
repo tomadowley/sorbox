@@ -129,3 +129,24 @@ Property checks and fuzzing glow—
 Tango steps ensure we know.
 
 
+### Song: "Observability Ode"
+
+Verse 1:
+Traces thread through calls in flight,
+Metrics pulse with steady light;
+Logs unveil the hidden seams,
+Dashboards tell the stateful dreams.
+
+Chorus:
+Instrument, sample, tune the streams,
+Golden signals guide our themes;
+Alerts that whisper, never scream—
+SLOs hold the service beam.
+
+Bridge:
+When incidents disturb the flow,
+We learn with care, improve the show;
+Blameless notes and actions grow—
+Observability helps us know.
+
+
