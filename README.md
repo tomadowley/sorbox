@@ -33,4 +33,6 @@ And remember: There are 10 types of people in the world — those who understand
 
 A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
 
+There’s no place like 127.0.0.1.
+
 
