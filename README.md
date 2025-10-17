@@ -38,4 +38,8 @@ A SQL query walks into a bar, walks up to two tables and asks:
 There are only 10 kinds of people in the world:  
 Those who understand binary, and those who don't.
 
+### One more quick joke
+
+I would tell you a UDP joke, but you might not get it.
+
 
