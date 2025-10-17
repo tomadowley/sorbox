@@ -52,4 +52,6 @@ One for the road: My code doesn’t have bugs; it just develops random features.
 
 Couldn't resist: There are two kinds of people: those who can extrapolate from incomplete data
 
+One tiny async one: I’ll tell you later.
+
 
