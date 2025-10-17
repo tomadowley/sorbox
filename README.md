@@ -108,3 +108,24 @@ Step by step, we make it fair—
 Rhapsody ends with code laid bare.
 
 
+### Song: "Testing Tango"
+
+Verse 1:
+Arrange the world, set up the stage,
+Act the call, assert the page;
+Mocks in place and fixtures neat,
+Red then green—the dance complete.
+
+Chorus:
+Edge by edge we move in time,
+Flaky tests no longer climb;
+Coverage sings, the build's in sync—
+Testing tango: think, then link.
+
+Bridge:
+When bugs return in subtle guise,
+We trace the state behind the eyes;
+Property checks and fuzzing glow—
+Tango steps ensure we know.
+
+
