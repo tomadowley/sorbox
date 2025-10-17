@@ -38,4 +38,7 @@ A: Because they don't C#.
 Q: Why did the developer go broke?
 A: Because they used up all their cache.
 
+Q: Why do programmers confuse Christmas and Halloween?
+A: Because Oct 31 == Dec 25.
+
 
