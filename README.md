@@ -84,3 +84,42 @@ Rotate off with quiet pride—
 On-call done, we kept the ride.
 
 
+### Song: "Refactor Rhapsody"
+
+Verse 1:
+Dusty paths and nested calls,
+Side effects in tangled walls;
+Name it clear and make it small,
+Let intention lead it all.
+
+Chorus:
+Lift it out, make it pure,
+Short and sweet, the seams secure;
+Green the tests, then shape the clay—
+Readability leads the way.
+
+Verse 2:
+Duplication, triple rhyme,
+Dry it once and spare the time;
+Coupling loose and modules tight,
+Boundaries drawn to guide the light.
+
+Bridge:
+Measure twice before you cut,
+Keep behavior—change the gut;
+Commit in steps, review with care,
+Each small move leaves code more fair.
+
+Verse 3:
+Interfaces tell the tale,
+Mocks that help, not tip the scale;
+Docs reflect the story’s arc,
+From the dark to clearer mark.
+
+Outro:
+Future selves will thank today,
+When they read and smile, "Okay";
+Refactor slow, refactor true—
+Craft the code to serve the crew.
+
+
