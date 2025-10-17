@@ -23,4 +23,32 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
+### Quick joke
+
+Why do programmers prefer dark mode?  
+Because light attracts bugs.
+
+### Another quick joke
+
+A SQL query walks into a bar, walks up to two tables and asks:  
+"Can I join you?"
+
+### Yet another quick joke
+
+There are only 10 kinds of people in the world:  
+Those who understand binary, and those who don't.
+
+### One more quick joke
+
+I would tell you a UDP joke, but you might not get it.
+
+### Final quick joke
+
+To understand recursion, you must first understand recursion.
+
+### Bonus quick joke
+
+There are two hard things in computer science:  
+cache invalidation, naming things, and off-by-one errors.
+
 
