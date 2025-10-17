@@ -150,3 +150,24 @@ Blameless notes and actions grow—
 Observability helps us know.
 
 
+### Song: "Security Serenade"
+
+Verse 1:
+Least privilege, keys in vault,
+Threats considered, inputs halt;
+Patches timely, deps aligned,
+Trust but verify, well-defined.
+
+Chorus:
+Encrypt in flight and rest as well,
+Rotate secrets, never tell;
+Defense in depth, reviews that stand—
+Serenade guards the code and brand.
+
+Bridge:
+When audits knock and scans reveal,
+We fix with care, disclose with zeal;
+Principled practice, calm and clear—
+Security sings, remove the fear.
+
+
