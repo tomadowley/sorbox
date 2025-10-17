@@ -42,4 +42,6 @@ One last one (for now): Commit messages are like jokes—if you have to explain 
 
 Okay fine, one more: “It works on my machine” is the new “Check engine” light.
 
+And truly the last: I’d tell you a UDP joke, but you might not get it.
+
 
