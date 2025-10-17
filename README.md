@@ -54,4 +54,6 @@ Couldn't resist: There are two kinds of people: those who can extrapolate from i
 
 One tiny async one: I’ll tell you later.
 
+New one: Computers make very fast, very accurate mistakes.
+
 
