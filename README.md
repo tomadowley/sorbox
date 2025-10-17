@@ -46,4 +46,9 @@ I would tell you a UDP joke, but you might not get it.
 
 To understand recursion, you must first understand recursion.
 
+### Bonus quick joke
+
+There are two hard things in computer science:  
+cache invalidation, naming things, and off-by-one errors.
+
 
