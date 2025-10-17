@@ -29,4 +29,7 @@ Hello, code; we’re good to go.
 Q: Why do programmers prefer dark mode?
 A: Because light attracts bugs.
 
+Q: How many programmers does it take to change a light bulb?
+A: None. That's a hardware problem.
+
 
