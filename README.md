@@ -42,4 +42,8 @@ Those who understand binary, and those who don't.
 
 I would tell you a UDP joke, but you might not get it.
 
+### Final quick joke
+
+To understand recursion, you must first understand recursion.
+
 
