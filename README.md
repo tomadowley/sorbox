@@ -24,3 +24,30 @@ Review, refine, and then we show—
 Hello, code; we’re good to go.
 
 
+### Song: "Ship It Safe"
+
+Verse 1:
+Specs are clear, the plan is tight,
+Break the work, define the bite;
+Red to green, we make it right,
+Merge with care by end of night.
+
+Chorus:
+Ship it safe, ship it sound,
+Logs are clean and tests are bound;
+Feature flags to guard the way,
+Roll it forward, not delay.
+
+Verse 2:
+Docs in sync, the checks all pass,
+No stray states or hidden mass;
+Monitor, alert, observe—
+Own the change our users deserve.
+
+Outro:
+If we learn along the ride,
+Capture notes and codify;
+Next release will start ahead—
+Craft, deliver, ship it red-to-green instead.
+
+
