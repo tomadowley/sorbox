@@ -24,3 +24,9 @@ Review, refine, and then we show—
 Hello, code; we’re good to go.
 
 
+### Bonus: A quick dev joke
+
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs.
+
+
