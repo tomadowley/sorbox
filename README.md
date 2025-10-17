@@ -45,3 +45,24 @@ Refactor gently, measure slow—
 Binary ballad, onward go.
 
 
+### Song: "Commit Chorus"
+
+Verse 1:
+Stage the change, the diff is clear,
+Names that tell and lines sincere;
+Tests beside each refactor'd seam,
+Green lights pulse—continue dream.
+
+Chorus:
+Add, commit, and push the way,
+CI runs to keep us sane;
+Merge with care, review the lore—
+Ship the story, build once more.
+
+Bridge:
+When conflicts rise in tangled threads,
+We read with calm, align the heads;
+Rebase gently, let history soar—
+Commit chorus, we explore.
+
+
