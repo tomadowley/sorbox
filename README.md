@@ -40,5 +40,6 @@ Hello, code; we’re good to go.
 13. I told my computer I needed a break, and it said: \"Why not a full stack trace?\"
 14. Our code has no bugs—just undocumented features.
 15. If at first you don’t succeed; call it version 1.0.
+16. In theory, theory and practice are the same. In practice, they’re not.
 
 
