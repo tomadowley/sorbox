@@ -35,4 +35,7 @@ How many programmers does it take to change a light bulb? None—that’s a hard
 One more:
 There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
 
+Yet another:
+A SQL query walks into a bar, walks up to two tables and asks, “Can I join you?”
+
 
