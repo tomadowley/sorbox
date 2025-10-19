@@ -149,3 +149,35 @@ Arrange–Act–Assert on page;
 Mocks are sparse, the seams are true—
 Behavior first, the dance we do.
 
+### Song: "Architecture Aria"
+
+Verse 1:
+Draw the seams where data flows,
+Own the edges, keep them close;
+Stable cores and ports that guide,
+Adapters change with changing tides.
+
+Chorus:
+Shape the system, make it clear,
+Boundaries first, reduce the fear;
+Independent, small, and near—
+Sing it true, Architecture Aria.
+
+Verse 2:
+State is scarce and caches kind,
+Queues to smooth the burst you find;
+Idempotent paths to roll,
+Back and forward, steady soul.
+
+Bridge:
+Contracts tested, versions play,
+Migrate slowly, pave the way;
+Metrics hum, observability—
+Truth in prod is what we see.
+
+Outro:
+Scale by shards, not by might,
+Costs in view, the knobs in sight;
+Evolve the map, but keep the lore—
+Aria ends; refactor more.
+
