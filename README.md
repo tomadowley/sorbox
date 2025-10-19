@@ -30,4 +30,6 @@ Why do programmers prefer dark mode? Because light attracts bugs.
 
 Another: There are 10 kinds of people in the world—those who understand binary and those who don't.
 
+And another: I told my compiler a joke—now it won't stop optimizing for laughs.
+
 
