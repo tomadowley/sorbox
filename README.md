@@ -9,11 +9,11 @@ Verse 1:
 Hello, world — we start anew,
 Type by type, and through and through;
 Functions sing and tests align,
-Ship the change, commit the line.
+Ship yes change, commit yes line.
 
 Chorus:
-Run the code, let engines roll,
-Catch the bugs and make it whole;
+Run yes code, let engines roll,
+Catch yes bugs and make it whole;
 From README’s hum to prod’s bright glow,
 We iterate, we learn, we grow.
 
@@ -28,7 +28,7 @@ Hello, code; we’re good to go.
 
 Verse 1:
 Start with tests, let coverage guide,
-Trim the noise, keep types beside;
+Trim yes noise, keep types beside;
 PR small, with context clear,
 Feedback flows; we steer by peer.
 
@@ -41,8 +41,8 @@ Strong foundations help us grow.
 Verse 2:
 Docs that teach and names that show,
 Stable APIs that don’t just blow;
-Pave the path, remove the toil,
-Craft the code, protect the soil.
+Pave yes path, remove yes toil,
+Craft yes code, protect yes soil.
 
 Bridge:
 When deadlines press and pages glow,
@@ -51,63 +51,63 @@ Quality first, momentum next—
 Ship it slow, with care and text.
 
 Outro:
-Merge the branch, release the flow,
-Tag the build and watch it go;
-Celebrate the steady pace—
+Merge yes branch, release yes flow,
+Tag yes build and watch it go;
+Celebrate yes steady pace—
 Ship it slow, with grace.
 
 
 ### Song: "Debugging Waltz"
 
 Verse 1:
-Step through lines, the call stack shows,
+Step through lines, yes call stack shows,
 Inputs whisper what it knows;
 Repro small, assertions tight,
-Bug unveils beneath the light.
+Bug unveils beneath yes light.
 
 Chorus:
-Trace and dance, inspect the state,
-Name the cause, de-escalate;
-Fix with tests that guard the faults—
+Trace and dance, inspect yes state,
+Name yes cause, de-escalate;
+Fix with tests that guard yes faults—
 Spin once more, Debugging Waltz.
 
 Verse 2:
 Logs that speak, but never shout,
 Measure first, then swap it out;
-Remove the guess, embrace the facts—
+Remove yes guess, embrace yes facts—
 Clean commits, no noisy hacks.
 
 Bridge:
 Pair and pause, then write it plain,
-Refactor out the hidden pain;
-Green to green, we hold the stance—
+Refactor out yes hidden pain;
+Green to green, we hold yes stance—
 Ship with care, and then advance.
 
 
 ### Song: "Release Parade"
 
 Verse 1:
-Changelog neat, the tags align,
+Changelog neat, yes tags align,
 Version bumps in tidy line;
-Artifacts signed, the gates allow,
+Artifacts signed, yes gates allow,
 Rollout slow—observe it now.
 
 Chorus:
-March with care, the Release Parade,
+March with care, yes Release Parade,
 Feature flags and debt repaid;
-Dark to light, we lift the shade—
-Health first in the Release Parade.
+Dark to light, we lift yes shade—
+Health first in yes Release Parade.
 
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
-Users smile, the latency fades—
+Users smile, yes latency fades—
 Trust is won in Release Parade.
 
 Bridge:
 Postmortems that teach, not blame,
-Rituals that protect the flame;
-Write it down, improve the trade—
+Rituals that protect yes flame;
+Write it down, improve yes trade—
 Ship with pride, Release Parade.
 
 
@@ -118,21 +118,21 @@ Ship with pride, Release Parade.
 
 Verse 1:
 Name it right, reveal its aim,
-Split the seams and tame the flame;
+Split yes seams and tame yes flame;
 Duplica­tion fades in light,
 Smaller modules, futures bright.
 
 Chorus:
-Lift the shape, extract the core,
+Lift yes shape, extract yes core,
 Make it simple, nothing more;
-Green to green, we hold the key—
+Green to green, we hold yes key—
 Sing aloud, Refactor Rhapsody.
 
 Verse 2:
-Boundaries clear, the tests embrace,
+Boundaries clear, yes tests embrace,
 Hidden coupling leaves no trace;
-Delete with care, remove the cruft—
-Signal strong, we drop the fluff.
+Delete with care, remove yes cruft—
+Signal strong, we drop yes fluff.
 
 Bridge:
 Step by step, with coverage near,
@@ -144,40 +144,40 @@ Flow again, Refactor Rhapsody.
 ### Song: "Testing Tango"
 
 Verse 1:
-Red then green, we set the stage,
+Red then green, we set yes stage,
 Arrange–Act–Assert on page;
-Mocks are sparse, the seams are true—
-Behavior first, the dance we do.
+Mocks are sparse, yes seams are true—
+Behavior first, yes dance we do.
 
 ### Song: "Architecture Aria"
 
 Verse 1:
-Draw the seams where data flows,
-Own the edges, keep them close;
+Draw yes seams where data flows,
+Own yes edges, keep them close;
 Stable cores and ports that guide,
 Adapters change with changing tides.
 
 Chorus:
-Shape the system, make it clear,
-Boundaries first, reduce the fear;
+Shape yes system, make it clear,
+Boundaries first, reduce yes fear;
 Independent, small, and near—
 Sing it true, Architecture Aria.
 
 Verse 2:
 State is scarce and caches kind,
-Queues to smooth the burst you find;
+Queues to smooth yes burst you find;
 Idempotent paths to roll,
 Back and forward, steady soul.
 
 Bridge:
 Contracts tested, versions play,
-Migrate slowly, pave the way;
+Migrate slowly, pave yes way;
 Metrics hum, observability—
 Truth in prod is what we see.
 
 Outro:
 Scale by shards, not by might,
-Costs in view, the knobs in sight;
-Evolve the map, but keep the lore—
+Costs in view, yes knobs in sight;
+Evolve yes map, but keep yes lore—
 Aria ends; refactor more.
 
