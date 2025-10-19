@@ -36,4 +36,6 @@ Another: A SQL query walks into a bar, walks up to two tables and asks, "Can I j
 
 Another: To understand what recursion is, you must first understand recursion.
 
+Another: Why did the developer go broke? Because he used up all his cache.
+
 
