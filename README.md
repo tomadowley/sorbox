@@ -32,4 +32,6 @@ Another: There are 10 kinds of people in the world—those who understand binary
 
 And another: I told my compiler a joke—now it won't stop optimizing for laughs.
 
+One more: A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
+
 
