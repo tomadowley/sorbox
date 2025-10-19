@@ -23,4 +23,20 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
+### Quick joke
+
+Why did the developer go broke?
+Because they used up all their cache.
+
+### More jokes
+
+- Why do programmers prefer dark mode? Because light attracts bugs.
+- A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
+- There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.
+- To understand recursion, you must first understand recursion.
+- How many programmers does it take to change a light bulb? None — that's a hardware problem.
+- I would tell you a UDP joke, but you might not get it.
+- Why did the programmer quit his job? Because he didn't get arrays.
+- 99 little bugs in the code... take one down, patch it around, 127 little bugs in the code.
+
 
