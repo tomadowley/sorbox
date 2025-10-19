@@ -23,4 +23,9 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
+### Quick joke
+
+Why did the developer go broke?
+Because they used up all their cache.
+
 
