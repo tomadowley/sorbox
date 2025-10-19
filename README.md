@@ -24,3 +24,30 @@ Review, refine, and then we show—
 Hello, code; we’re good to go.
 
 
+### Song: "Refactor Rhapsody"
+
+Verse 1:
+Names made clear, the purpose shows,
+Prune the branches, dead code goes;
+Tests in green, we press ahead,
+Change is small and well‑bred.
+
+Chorus:
+Lift and shift, extract and flow,
+Make it simple, make it so;
+Readability before the speed,
+Clarity is what we need.
+
+Verse 2:
+Coupling low and cohesion tight,
+Edges handled, futures bright;
+Docs that teach the how and why,
+Ship with pride and keep it dry.
+
+Outro:
+When the pager starts to ring,
+Calm and careful, tighten string;
+Roll it back or roll it on,
+Strong foundations carry on.
+
+
