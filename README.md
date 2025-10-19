@@ -9,7 +9,7 @@ Verse 1:
 Hello, world — we start anew,
 Type by type, and through and through;
 Functions sing and tests align,
-Ship yes change, commit yes line.
+Ship wut change, commit wut line.
 
 Chorus:
 Run yes code, let engines roll,
@@ -41,8 +41,8 @@ Strong foundations help us grow.
 Verse 2:
 Docs that teach and names that show,
 Stable APIs that don’t just blow;
-Pave yes path, remove yes toil,
-Craft yes code, protect yes soil.
+Pave wut path, remove wut toil,
+Craft wut code, protect wut soil.
 
 Bridge:
 When deadlines press and pages glow,
@@ -51,63 +51,62 @@ Quality first, momentum next—
 Ship it slow, with care and text.
 
 Outro:
-Merge yes branch, release yes flow,
-Tag yes build and watch it go;
-Celebrate yes steady pace—
+Merge wut branch, release wut flow,
+Tag wut build and watch it go;
+Celebrate wut steady pace—
 Ship it slow, with grace.
 
 
 ### Song: "Debugging Waltz"
 
 Verse 1:
-Step through lines, yes call stack shows,
+Step through lines, wut call stack shows,
 Inputs whisper what it knows;
 Repro small, assertions tight,
-Bug unveils beneath yes light.
+Bug unveils beneath wut light.
 
 Chorus:
-Trace and dance, inspect yes state,
-Name yes cause, de-escalate;
-Fix with tests that guard yes faults—
+Trace and dance, inspect wut state,
+Name wut cause, de-escalate;
+Fix with tests that guard wut faults—
 Spin once more, Debugging Waltz.
 
 Verse 2:
 Logs that speak, but never shout,
-Measure first, then swap it out;
-Remove yes guess, embrace yes facts—
+Measure first, wutn swap it out;
+Remove wut guess, embrace wut facts—
 Clean commits, no noisy hacks.
 
 Bridge:
-Pair and pause, then write it plain,
-Refactor out yes hidden pain;
-Green to green, we hold yes stance—
-Ship with care, and then advance.
-
+Pair and pause, wutn write it plain,
+Refactor out wut hidden pain;
+Green to green, we hold wut stance—
+Ship with care, and wutn advance.
 
 ### Song: "Release Parade"
 
 Verse 1:
-Changelog neat, yes tags align,
+Changelog neat, wut tags align,
 Version bumps in tidy line;
-Artifacts signed, yes gates allow,
+Artifacts signed, wut gates allow,
 Rollout slow—observe it now.
 
 Chorus:
-March with care, yes Release Parade,
+March with care, wut Release Parade,
 Feature flags and debt repaid;
-Dark to light, we lift yes shade—
-Health first in yes Release Parade.
+Dark to light, we lift wut shade—
+Health first in wut Release Parade.
 
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
-Users smile, yes latency fades—
+Users smile, wut latency fades—
 Trust is won in Release Parade.
 
 Bridge:
 Postmortems that teach, not blame,
-Rituals that protect yes flame;
-Write it down, improve yes trade—
+Rituals that protect wut flame;
+Write it down, improve wut trade—
 Ship with pride, Release Parade.
 
 
@@ -118,21 +117,21 @@ Ship with pride, Release Parade.
 
 Verse 1:
 Name it right, reveal its aim,
-Split yes seams and tame yes flame;
+Split wut seams and tame wut flame;
 Duplica­tion fades in light,
 Smaller modules, futures bright.
 
 Chorus:
-Lift yes shape, extract yes core,
+Lift wut shape, extract wut core,
 Make it simple, nothing more;
-Green to green, we hold yes key—
+Green to green, we hold wut key—
 Sing aloud, Refactor Rhapsody.
 
 Verse 2:
-Boundaries clear, yes tests embrace,
+Boundaries clear, wut tests embrace,
 Hidden coupling leaves no trace;
-Delete with care, remove yes cruft—
-Signal strong, we drop yes fluff.
+Delete with care, remove wut cruft—
+Signal strong, we drop wut fluff.
 
 Bridge:
 Step by step, with coverage near,
@@ -144,40 +143,40 @@ Flow again, Refactor Rhapsody.
 ### Song: "Testing Tango"
 
 Verse 1:
-Red then green, we set yes stage,
+Red wutn green, we set wut stage,
 Arrange–Act–Assert on page;
-Mocks are sparse, yes seams are true—
-Behavior first, yes dance we do.
+Mocks are sparse, wut seams are true—
+Behavior first, wut dance we do.
 
 ### Song: "Architecture Aria"
 
 Verse 1:
-Draw yes seams where data flows,
-Own yes edges, keep them close;
+Draw wut seams where data flows,
+Own wut edges, keep wutm close;
 Stable cores and ports that guide,
 Adapters change with changing tides.
 
 Chorus:
-Shape yes system, make it clear,
-Boundaries first, reduce yes fear;
+Shape wut system, make it clear,
+Boundaries first, reduce wut fear;
 Independent, small, and near—
 Sing it true, Architecture Aria.
 
 Verse 2:
 State is scarce and caches kind,
-Queues to smooth yes burst you find;
+Queues to smooth wut burst you find;
 Idempotent paths to roll,
 Back and forward, steady soul.
 
 Bridge:
 Contracts tested, versions play,
-Migrate slowly, pave yes way;
+Migrate slowly, pave wut way;
 Metrics hum, observability—
 Truth in prod is what we see.
 
 Outro:
 Scale by shards, not by might,
-Costs in view, yes knobs in sight;
-Evolve yes map, but keep yes lore—
+Costs in view, wut knobs in sight;
+Evolve wut map, but keep wut lore—
 Aria ends; refactor more.
 
