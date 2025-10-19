@@ -52,4 +52,6 @@ If at first you don’t succeed; call it version 1.0.
 
 With great power comes great responsibility… and a lot of stack traces.
 
+I changed my password to "incorrect" so whenever I forget it, the computer says: "Your password is incorrect."
+
 
