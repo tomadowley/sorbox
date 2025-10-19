@@ -28,4 +28,6 @@ Hello, code; we’re good to go.
 
 Why do programmers prefer dark mode? Because light attracts bugs.
 
+Another one: Why do Java developers wear glasses? Because they don't C#.
+
 
