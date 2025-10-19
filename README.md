@@ -140,3 +140,30 @@ No big bang, no reckless gear;
 Design emerges, clean and free—
 Flow again, Refactor Rhapsody.
 
+
+### Song: "Testing Tango"
+
+Verse 1:
+Red then green, we set the stage,
+Arrange–Act–Assert on page;
+Mocks are sparse, the seams are true—
+Behavior first, the dance we do.
+
+Chorus:
+Step and turn, the Testing Tango,
+Fast and focused, never slow;
+Flake-free runs and signals clear—
+Guard the code we hold so dear.
+
+Verse 2:
+Isolate the unit’s role,
+State and side effects control;
+Name the case, intent revealed—
+Bugs retreat, the system healed.
+
+Bridge:
+From unit up to contract’s ring,
+E2E where users sing;
+Confidence grows with every flow—
+Ship with trust, and let it go.
+
