@@ -32,3 +32,5 @@ Another one: Why do Java developers wear glasses? Because they don't C#.
 
 One more: There are 10 types of people in the world—those who understand binary and those who don’t.
 
+Another: There’s no place like 127.0.0.1.
+
