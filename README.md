@@ -32,10 +32,3 @@ Another one: Why do Java developers wear glasses? Because they don't C#.
 
 One more: There are 10 types of people in the world—those who understand binary and those who don’t.
 
-Another: A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
-
-Another: To understand what recursion is, you must first understand recursion.
-
-Another: Why did the developer go broke? Because he used up all his cache.
-
-
