@@ -54,4 +54,24 @@ With great power comes great responsibility… and a lot of stack traces.
 
 I changed my password to "incorrect" so whenever I forget it, the computer says: "Your password is incorrect."
 
+Tabs vs spaces? I prefer whichever breaks production less.
+
+“git blame” is my favorite collaborative tool.
+
+Have you tried turning it off and on again? If yes, try turning it off and leaving it off.
+
+Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+
+The cloud is just someone else’s computer… with better marketing.
+
+My code works… I have no idea why. Don’t touch it.
+
+Java: write once, debug everywhere.
+
+IndentationError: unexpected success.
+
+It’s not a bug, it’s an undocumented feature.
+
+“It works on my container” is the new “It works on my machine.”
+
 
