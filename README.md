@@ -57,3 +57,30 @@ Celebrate the steady pace—
 Ship it slow, with grace.
 
 
+### Song: "Debugging Waltz"
+
+Verse 1:
+Step through lines, the call stack shows,
+Inputs whisper what it knows;
+Repro small, assertions tight,
+Bug unveils beneath the light.
+
+Chorus:
+Trace and dance, inspect the state,
+Name the cause, de-escalate;
+Fix with tests that guard the faults—
+Spin once more, Debugging Waltz.
+
+Verse 2:
+Logs that speak, but never shout,
+Measure first, then swap it out;
+Remove the guess, embrace the facts—
+Clean commits, no noisy hacks.
+
+Bridge:
+Pair and pause, then write it plain,
+Refactor out the hidden pain;
+Green to green, we hold the stance—
+Ship with care, and then advance.
+
+
