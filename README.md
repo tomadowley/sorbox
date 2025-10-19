@@ -113,3 +113,30 @@ Ship with pride, Release Parade.
 
 ### Song: "Continuous Delivery Blues"
 
+
+### Song: "Refactor Rhapsody"
+
+Verse 1:
+Name it right, reveal its aim,
+Split the seams and tame the flame;
+Duplica­tion fades in light,
+Smaller modules, futures bright.
+
+Chorus:
+Lift the shape, extract the core,
+Make it simple, nothing more;
+Green to green, we hold the key—
+Sing aloud, Refactor Rhapsody.
+
+Verse 2:
+Boundaries clear, the tests embrace,
+Hidden coupling leaves no trace;
+Delete with care, remove the cruft—
+Signal strong, we drop the fluff.
+
+Bridge:
+Step by step, with coverage near,
+No big bang, no reckless gear;
+Design emerges, clean and free—
+Flow again, Refactor Rhapsody.
+
