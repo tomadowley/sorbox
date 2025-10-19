@@ -51,3 +51,8 @@ Roll it back or roll it on,
 Strong foundations carry on.
 
 
+### Joke
+
+Why do programmers prefer dark mode? Because light attracts bugs.
+
+
