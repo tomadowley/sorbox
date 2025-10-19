@@ -111,3 +111,30 @@ Write it down, improve the trade—
 Ship with pride, Release Parade.
 
 
+### Song: "Continuous Delivery Blues"
+
+Verse 1:
+Pipelines hum, the stages flow,
+Green to blue, then steady grow;
+Artifacts cached, the runners choose—
+Sing along, Delivery Blues.
+
+Chorus:
+One small diff, a safer day,
+Ship in slices, pave the way;
+Flag it on, observe the cues—
+Ease the load, Delivery Blues.
+
+Verse 2:
+Infra as code, declare the plan,
+Rollback clean the moment ran;
+Secrets safe and audits true—
+Trust the path, Delivery Blues.
+
+Bridge:
+Nightly builds and weekday light,
+Reduce the batch, reduce the fright;
+Feedback near, no hero moves—
+Teams align, Delivery Blues.
+
+
