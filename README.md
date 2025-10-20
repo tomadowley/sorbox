@@ -160,3 +160,8 @@ Because light attracts bugs.
 I told my computer I needed a break.  
 It said: "No problem — I'll go to sleep."
 
+### Another joke
+
+There are 10 kinds of people:  
+those who understand binary and those who don't.
+
