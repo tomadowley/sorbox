@@ -185,3 +185,8 @@ Because he used up all his cache.
 A SQL query walks into a bar, walks up to two tables and asks:  
 "Can I join you?"
 
+### Another joke
+
+There are two hard things in computer science:  
+cache invalidation, naming things, and off-by-one errors.
+
