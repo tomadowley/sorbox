@@ -191,3 +191,7 @@ There’s no place like 127.0.0.1.
 
 If at first you don’t succeed, call it version 1.0.
 
+### Joke
+
+It’s not a bug, it’s an undocumented feature.
+
