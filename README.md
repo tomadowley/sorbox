@@ -180,3 +180,8 @@ None — that's a hardware problem.
 Why did the developer go broke?  
 Because he used up all his cache.
 
+### Another joke
+
+A SQL query walks into a bar, walks up to two tables and asks:  
+"Can I join you?"
+
