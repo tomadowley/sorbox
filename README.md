@@ -187,3 +187,7 @@ Some people, when confronted with a problem, think “I know, I’ll use regular
 
 There’s no place like 127.0.0.1.
 
+### Joke
+
+If at first you don’t succeed, call it version 1.0.
+
