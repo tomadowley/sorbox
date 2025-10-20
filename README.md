@@ -161,3 +161,7 @@ Because light attracts bugs.
 
 There are 10 types of people: those who understand binary and those who don't.
 
+### One More Quick Joke
+
+A SQL query walks into a bar, walks up to two tables and asks: "May I join you?"
+
