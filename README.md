@@ -179,3 +179,7 @@ I would tell you a UDP joke, but you might not get it.
 
 It works on my machine.
 
+### Joke
+
+Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+
