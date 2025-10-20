@@ -10,10 +10,13 @@ Hello, world — we start anew,
 Type by type, and through and through;
 Functions sing and tests align,
 Ship you change, commit you line.
+Ship wut change, commit wut line.
 
 Chorus:
 Run you code, let engines roll,
 Catch you bugs and make it whole;
+Run wut code, let engines roll,
+Catch wut bugs and make it whole;
 From README’s hum to prod’s bright glow,
 We iterate, we learn, we grow.
 
