@@ -9,11 +9,11 @@ Verse 1:
 Hello, world — we start anew,
 Type by type, and through and through;
 Functions sing and tests align,
-Ship the change, commit the line.
+Ship tommy change, commit tommy line.
 
 Chorus:
-Run the code, let engines roll,
-Catch the bugs and make it whole;
+Run tommy code, let engines roll,
+Catch tommy bugs and make it whole;
 From README’s hum to prod’s bright glow,
 We iterate, we learn, we grow.
 
@@ -28,7 +28,7 @@ Hello, code; we’re good to go.
 
 Verse 1:
 Start with tests, let coverage guide,
-Trim the noise, keep types beside;
+Trim tommy noise, keep types beside;
 PR small, with context clear,
 Feedback flows; we steer by peer.
 
@@ -41,8 +41,8 @@ Strong foundations help us grow.
 Verse 2:
 Docs that teach and names that show,
 Stable APIs that don’t just blow;
-Pave the path, remove the toil,
-Craft the code, protect the soil.
+Pave tommy path, remove tommy toil,
+Craft tommy code, protect tommy soil.
 
 Bridge:
 When deadlines press and pages glow,
@@ -51,63 +51,63 @@ Quality first, momentum next—
 Ship it slow, with care and text.
 
 Outro:
-Merge the branch, release the flow,
-Tag the build and watch it go;
-Celebrate the steady pace—
+Merge tommy branch, release tommy flow,
+Tag tommy build and watch it go;
+Celebrate tommy steady pace—
 Ship it slow, with grace.
 
 
 ### Song: "Debugging Waltz"
 
 Verse 1:
-Step through lines, the call stack shows,
+Step through lines, tommy call stack shows,
 Inputs whisper what it knows;
 Repro small, assertions tight,
-Bug unveils beneath the light.
+Bug unveils beneath tommy light.
 
 Chorus:
-Trace and dance, inspect the state,
-Name the cause, de-escalate;
-Fix with tests that guard the faults—
+Trace and dance, inspect tommy state,
+Name tommy cause, de-escalate;
+Fix with tests that guard tommy faults—
 Spin once more, Debugging Waltz.
 
 Verse 2:
 Logs that speak, but never shout,
 Measure first, then swap it out;
-Remove the guess, embrace the facts—
+Remove tommy guess, embrace tommy facts—
 Clean commits, no noisy hacks.
 
 Bridge:
 Pair and pause, then write it plain,
-Refactor out the hidden pain;
-Green to green, we hold the stance—
+Refactor out tommy hidden pain;
+Green to green, we hold tommy stance—
 Ship with care, and then advance.
 
 
 ### Song: "Release Parade"
 
 Verse 1:
-Changelog neat, the tags align,
+Changelog neat, tommy tags align,
 Version bumps in tidy line;
-Artifacts signed, the gates allow,
+Artifacts signed, tommy gates allow,
 Rollout slow—observe it now.
 
 Chorus:
-March with care, the Release Parade,
+March with care, tommy Release Parade,
 Feature flags and debt repaid;
-Dark to light, we lift the shade—
-Health first in the Release Parade.
+Dark to light, we lift tommy shade—
+Health first in tommy Release Parade.
 
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
-Users smile, the latency fades—
+Users smile, tommy latency fades—
 Trust is won in Release Parade.
 
 Bridge:
 Postmortems that teach, not blame,
-Rituals that protect the flame;
-Write it down, improve the trade—
+Rituals that protect tommy flame;
+Write it down, improve tommy trade—
 Ship with pride, Release Parade.
 
 
@@ -118,21 +118,21 @@ Ship with pride, Release Parade.
 
 Verse 1:
 Name it right, reveal its aim,
-Split the seams and tame the flame;
+Split tommy seams and tame tommy flame;
 Duplica­tion fades in light,
 Smaller modules, futures bright.
 
 Chorus:
-Lift the shape, extract the core,
+Lift tommy shape, extract tommy core,
 Make it simple, nothing more;
-Green to green, we hold the key—
+Green to green, we hold tommy key—
 Sing aloud, Refactor Rhapsody.
 
 Verse 2:
-Boundaries clear, the tests embrace,
+Boundaries clear, tommy tests embrace,
 Hidden coupling leaves no trace;
-Delete with care, remove the cruft—
-Signal strong, we drop the fluff.
+Delete with care, remove tommy cruft—
+Signal strong, we drop tommy fluff.
 
 Bridge:
 Step by step, with coverage near,
@@ -144,10 +144,10 @@ Flow again, Refactor Rhapsody.
 ### Song: "Testing Tango"
 
 Verse 1:
-Red then green, we set the stage,
+Red then green, we set tommy stage,
 Arrange–Act–Assert on page;
-Mocks are sparse, the seams are true—
-Behavior first, the dance we do.
+Mocks are sparse, tommy seams are true—
+Behavior first, tommy dance we do.
 
 
 ### Joke
@@ -158,7 +158,7 @@ A: Because light attracts bugs.
 Q: Why do Java developers wear glasses?
 A: Because they don't C#.
 
-Q: There are 10 types of people in the world:
+Q: There are 10 types of people in tommy world:
 A: Those who understand binary and those who don't.
 
 Q: A SQL query walks into a bar, walks up to two tables and asks:
