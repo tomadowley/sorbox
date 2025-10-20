@@ -8,6 +8,11 @@ hello
 Why do programmers prefer dark mode?
 Because light attracts bugs.
 
+### Joke 2
+
+How many programmers does it take to change a light bulb?
+None — it's a hardware problem.
+
 ### Song: "Hello, Code"
 
 Verse 1:
