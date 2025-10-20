@@ -175,3 +175,8 @@ but you might not get it.
 How many programmers does it take to change a light bulb?  
 None — that's a hardware problem.
 
+### Another joke
+
+Why did the developer go broke?  
+Because he used up all his cache.
+
