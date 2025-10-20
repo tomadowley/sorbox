@@ -170,3 +170,8 @@ those who understand binary and those who don't.
 I would tell you a UDP joke,  
 but you might not get it.
 
+### Another joke
+
+How many programmers does it take to change a light bulb?  
+None — that's a hardware problem.
+
