@@ -161,3 +161,6 @@ A: Because they don't C#.
 Q: There are 10 types of people in the world:
 A: Those who understand binary and those who don't.
 
+Q: A SQL query walks into a bar, walks up to two tables and asks:
+A: "May I join you?"
+
