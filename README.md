@@ -190,3 +190,7 @@ A SQL query walks into a bar, walks up to two tables and asks:
 There are two hard things in computer science:  
 cache invalidation, naming things, and off-by-one errors.
 
+### Another joke
+
+To understand recursion, you must first understand recursion.
+
