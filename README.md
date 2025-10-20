@@ -158,3 +158,6 @@ A: Because light attracts bugs.
 Q: Why do Java developers wear glasses?
 A: Because they don't C#.
 
+Q: There are 10 types of people in the world:
+A: Those who understand binary and those who don't.
+
