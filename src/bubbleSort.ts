@@ -7,6 +7,7 @@
  *                    If not provided, sorts numbers in ascending order.
  * @returns The sorted array (for chaining).
  */
+// Programmer joke: Why did the developer go broke? Because he used up all his cache.
 export function bubbleSort<T>(
   arr: T[],
   compareFn: (a: T, b: T) => number = (a, b) =>
