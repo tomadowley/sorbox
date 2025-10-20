@@ -199,3 +199,7 @@ It’s not a bug, it’s an undocumented feature.
 
 Why do Java developers wear glasses? Because they don't C#.
 
+### Joke
+
+There’s no cloud—it's just someone else’s computer.
+
