@@ -195,3 +195,7 @@ If at first you don’t succeed, call it version 1.0.
 
 It’s not a bug, it’s an undocumented feature.
 
+### Joke
+
+Why do Java developers wear glasses? Because they don't C#.
+
