@@ -165,3 +165,8 @@ It said: "No problem — I'll go to sleep."
 There are 10 kinds of people:  
 those who understand binary and those who don't.
 
+### Another joke
+
+I would tell you a UDP joke,  
+but you might not get it.
+
