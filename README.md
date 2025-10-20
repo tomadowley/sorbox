@@ -194,3 +194,8 @@ cache invalidation, naming things, and off-by-one errors.
 
 To understand recursion, you must first understand recursion.
 
+### Another joke
+
+Why do Java developers wear glasses?  
+Because they don't C#.
+
