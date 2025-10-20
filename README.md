@@ -164,3 +164,6 @@ A: Those who understand binary and those who don't.
 Q: A SQL query walks into a bar, walks up to two tables and asks:
 A: "May I join you?"
 
+Q: How many programmers does it take to change a light bulb?
+A: None. It's a hardware problem.
+
