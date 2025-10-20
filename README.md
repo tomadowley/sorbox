@@ -171,3 +171,7 @@ To understand recursion, you must first understand recursion.
 
 There are 10 types of people in the world: those who understand binary and those who don’t.
 
+### Joke
+
+I would tell you a UDP joke, but you might not get it.
+
