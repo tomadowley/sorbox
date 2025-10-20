@@ -203,3 +203,7 @@ Why do Java developers wear glasses? Because they don't C#.
 
 There’s no cloud—it's just someone else’s computer.
 
+### Joke
+
+My code doesn't work, I have no idea why. My code works, I have no idea why.
+
