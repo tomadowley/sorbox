@@ -155,3 +155,8 @@ Behavior first, the dance we do.
 Why do programmers prefer dark mode?  
 Because light attracts bugs.
 
+### Another joke
+
+I told my computer I needed a break.  
+It said: "No problem — I'll go to sleep."
+
