@@ -13,6 +13,10 @@ Because light attracts bugs.
 How many programmers does it take to change a light bulb?
 None — it's a hardware problem.
 
+### Joke 3
+
+There are 10 types of people in the world: those who understand binary and those who don't.
+
 ### Song: "Hello, Code"
 
 Verse 1:
