@@ -3,6 +3,20 @@ hello
 
 hello
 
+### Joke
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
+### Joke 2
+
+How many programmers does it take to change a light bulb?
+None — it's a hardware problem.
+
+### Joke 3
+
+There are 10 types of people in the world: those who understand binary and those who don't.
+
 ### Song: "Hello, Code"
 
 Verse 1:
