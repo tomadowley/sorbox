@@ -149,3 +149,8 @@ Arrange–Act–Assert on page;
 Mocks are sparse, the seams are true—
 Behavior first, the dance we do.
 
+
+### Roast: "It Works on My Machine"
+
+If your deploy guide is just "npm install && npm start" but your app needs Redis, Postgres, three feature flags, and a blood moon eclipse, it doesn't "just work"—it hostage-negotiates. Write the prerequisites. List the env vars. Automate the setup. Future-you will thank present-you for not being a chaos gremlin.
+
