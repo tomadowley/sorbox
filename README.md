@@ -161,3 +161,7 @@ Another one:
 Why did the developer go broke?
 They ran out of cache.
 
+One more:
+My code doesn’t work and I have no idea why.
+My code works and I have no idea why.
+
