@@ -161,3 +161,6 @@ Another one:
 Why did the developer go broke?
 They ran out of cache.
 
+Yet another:
+There are 10 types of people in the world: those who understand binary and those who don't.
+
