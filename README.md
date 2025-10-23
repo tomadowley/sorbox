@@ -111,7 +111,7 @@ Write it down, improve the trade—
 Ship with pride, Release Parade.
 
 
-### Song: "Continuous Delivery Blues"
+### Song: "Continuous Delivery Groove"
 
 
 ### Song: "Refactor Rhapsody"
@@ -148,4 +148,8 @@ Red then green, we set the stage,
 Arrange–Act–Assert on page;
 Mocks are sparse, the seams are true—
 Behavior first, the dance we do.
+
+### Quick Joke
+
+Why do programmers prefer dark mode? Because light attracts bugs.
 
