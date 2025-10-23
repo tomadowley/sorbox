@@ -168,3 +168,6 @@ My code works and I have no idea why.
 And another:
 To understand recursion, you must first understand recursion.
 
+Yet one more:
+I would tell you a UDP joke, but you might not get it.
+
