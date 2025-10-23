@@ -111,7 +111,7 @@ Write it down, improve the trade—
 Ship with pride, Release Parade.
 
 
-### Song: "Continuous Delivery Blues"
+### Song: "Continuous Delivery Groove"
 
 
 ### Song: "Refactor Rhapsody"
