@@ -149,3 +149,9 @@ Arrange–Act–Assert on page;
 Mocks are sparse, the seams are true—
 Behavior first, the dance we do.
 
+### Haiku: "Autumn Deploy"
+
+Leaves fall on codebase,
+Cool winds guide quiet rollouts,
+Harvest of green tests.
+
