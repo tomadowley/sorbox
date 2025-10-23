@@ -157,3 +157,7 @@ Because light attracts bugs.
 Bonus:
 I told my computer I needed a break… it said “no problem,” and froze.
 
+Another one:
+Why did the developer go broke?
+They ran out of cache.
+
