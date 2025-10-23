@@ -149,3 +149,8 @@ Arrange–Act–Assert on page;
 Mocks are sparse, the seams are true—
 Behavior first, the dance we do.
 
+### README Joke
+
+Another one:
+It's not a bug, it's an undocumented feature.
+
