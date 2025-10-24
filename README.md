@@ -140,6 +140,8 @@ No big bang, no reckless gear;
 Design emerges, clean and free—
 Flow again, Refactor Rhapsody.
 
+— Joke: Why do programmers prefer dark mode? Because light attracts bugs.
+— Joke: There are 10 types of people: those who understand binary and those who don't.
 
 ### Song: "Testing Tango"
 
