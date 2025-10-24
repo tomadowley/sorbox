@@ -12,8 +12,8 @@ Functions sing and tests align,
 Ship tom change, commit tom line.
 
 Chorus:
-Run tom code, let engines roll,
-Catch tom bugs and make it whole;
+Run john code, let engines roll,
+Catch john bugs and make it whole;
 From README’s hum to prod’s bright glow,
 We iterate, we learn, we grow.
 
@@ -43,6 +43,8 @@ Docs that teach and names that show,
 Stable APIs that don’t just blow;
 Pave tom path, remove tom toil,
 Craft tom code, protect tom soil.
+Pave john path, remove john toil,
+Craft john code, protect john soil.
 
 Bridge:
 When deadlines press and pages glow,
@@ -66,15 +68,15 @@ Repro small, assertions tight,
 Bug unveils beneath tom light.
 
 Chorus:
-Trace and dance, inspect tom state,
-Name tom cause, de-escalate;
-Fix with tests that guard tom faults—
+Trace and dance, inspect john state,
+Name john cause, de-escalate;
+Fix with tests that guard john faults—
 Spin once more, Debugging Waltz.
 
 Verse 2:
 Logs that speak, but never shout,
 Measure first, then swap it out;
-Remove tom guess, embrace tom facts—
+Remove john guess, embrace john facts—
 Clean commits, no noisy hacks.
 
 Bridge:
@@ -88,15 +90,18 @@ Ship with care, and then advance.
 
 Verse 1:
 Changelog neat, tom tags align,
+Changelog neat, john tags align,
 Version bumps in tidy line;
 Artifacts signed, tom gates allow,
+Artifacts signed, john gates allow,
 Rollout slow—observe it now.
 
 Chorus:
 March with care, tom Release Parade,
+March with care, john Release Parade,
 Feature flags and debt repaid;
-Dark to light, we lift tom shade—
-Health first in tom Release Parade.
+Dark to light, we lift john shade—
+Health first in john Release Parade.
 
 Verse 2:
 Metrics watch and alerts stay calm,
@@ -106,8 +111,8 @@ Trust is won in Release Parade.
 
 Bridge:
 Postmortems that teach, not blame,
-Rituals that protect tom flame;
-Write it down, improve tom trade—
+Rituals that protect john flame;
+Write it down, improve john trade—
 Ship with pride, Release Parade.
 
 
@@ -119,13 +124,14 @@ Ship with pride, Release Parade.
 Verse 1:
 Name it right, reveal its aim,
 Split tom seams and tame tom flame;
+Split john seams and tame john flame;
 Duplica­tion fades in light,
 Smaller modules, futures bright.
 
 Chorus:
 Lift tom shape, extract tom core,
 Make it simple, nothing more;
-Green to green, we hold tom key—
+Green to green, we hold john key—
 Sing aloud, Refactor Rhapsody.
 
 Verse 2:
