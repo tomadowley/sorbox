@@ -3,6 +3,17 @@ hello
 
 hello
 
+### Joke
+Why do programmers prefer dark mode? Because light attracts bugs.
+
+There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+
+To understand recursion, you must first understand recursion.
+
+I would tell you a UDP joke, but you might not get it.
+
+“Buy a loaf of bread, and if they have eggs, buy a dozen.” He comes home with 13 loaves of bread.
+
 ### Song: "Hello, Code"
 
 Verse 1:
