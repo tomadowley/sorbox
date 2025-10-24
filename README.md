@@ -3,6 +3,10 @@ hello
 
 hello
 
+### Developer Jokes
+- Why do programmers prefer dark mode? Because light attracts bugs.
+- There are 10 kinds of people: those who understand binary and those who don't.
+
 ### Song: "Hello, Code"
 
 Verse 1:
