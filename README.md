@@ -8,6 +8,8 @@ Why do programmers prefer dark mode? Because light attracts bugs.
 
 There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
 
+To understand recursion, you must first understand recursion.
+
 ### Song: "Hello, Code"
 
 Verse 1:
