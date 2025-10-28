@@ -172,3 +172,8 @@ But many steps both slow and deep;
 With notes that teach and code that’s clear,
 We ship our learning, year to year.
 
+We leave a trail for those who come,
+Breadcrumbs set in code and sum;
+Names that guide, intentions shown—
+So future hands aren't left alone.
+
