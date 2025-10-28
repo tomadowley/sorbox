@@ -149,3 +149,9 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+### Haiku: "Ship Small"
+
+Quiet keys at dawn,
+Tests whisper truth in the logs,
+Ship small, steady joy.
+
