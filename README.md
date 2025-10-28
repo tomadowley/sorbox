@@ -177,3 +177,15 @@ Breadcrumbs set in code and sum;
 Names that guide, intentions shown—
 So future hands aren't left alone.
 
+A tiny hi starts every thread,
+hi warms reviews where fears have spread;
+We greet the change, say hi to scope—
+hi opens doors to craft and hope.
+
+
+### Hakui
+
+Branches meet in light
+Small diffs, clear tests, calm release
+Code whispers, ship slow
+
