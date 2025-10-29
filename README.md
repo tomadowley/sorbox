@@ -153,3 +153,5 @@ Behavior first, john dance we do.
 
 Why did the README apply for a job? It wanted more context for its next commit.
 
+Why did the markdown file go to therapy? It had too many unresolved issues.
+
