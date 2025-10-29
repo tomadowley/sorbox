@@ -150,6 +150,13 @@ Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
 
+### Tiny README Haiku
+
+Silent compiler,
+Tests bloom green in dawn's commit,
+Bugs sleep—just for now.
+
+
 ### Tiny README Joke
 
 Q: Why do programmers prefer dark mode?
