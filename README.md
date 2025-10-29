@@ -149,3 +149,7 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+### Readme Joke
+
+Why did the README apply for a job? It wanted more context for its next commit.
+
