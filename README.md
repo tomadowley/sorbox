@@ -113,6 +113,42 @@ Ship with pride, Release Parade.
 
 ### Song: "Continuous Delivery Blues"
 
+Verse 1:
+Pipelines hum, john stages flow,
+Build then test, we watch it go;
+Artifacts sign and caches choose,
+Short loops heal john delivery blues.
+
+Chorus:
+Push john code, let feedback guide,
+Green goes through, red stays aside;
+Flags flip slow, we never lose—
+We iterate through delivery blues.
+
+Verse 2:
+Canary first, then broaden scope,
+Metrics sing of steady hope;
+Infra as code, no hand‑set screws,
+Repro kills john delivery blues.
+
+Verse 3:
+Queues stay small, john lead times shrink,
+Trunk stays clean, avoid the brink;
+Automate checks, no manual cues—
+Flow removes john delivery blues.
+
+Bridge:
+When lights go red, we pause, review,
+Roll back clean, restore what’s true;
+Root cause named, we share the news—
+Learning cures john delivery blues.
+
+Outro:
+From commit to prod we glide,
+Small steps clear, with craft and pride;
+Every day, with team we choose—
+Continuous, no more blues.
+ 
 
 ### Song: "Refactor Rhapsody"
 
