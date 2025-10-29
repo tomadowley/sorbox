@@ -9,6 +9,8 @@ Morning build runs clean,
 Small commits shape steady flow,
 We ship calm and sure.
 
+Joke: There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+
 ### Song: "Hello, Code"
 
 Verse 1:
