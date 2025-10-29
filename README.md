@@ -155,3 +155,6 @@ Behavior first, john dance we do.
 Why do programmers prefer dark mode?  
 Because light attracts bugs.
 
+Another one:  
+There are 10 types of people in the world—those who understand binary, and those who don't.
+
