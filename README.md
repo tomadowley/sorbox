@@ -161,3 +161,21 @@ Green lights softly bloom,
 Failing specs reveal the truth,
 Trust gathers in code.
 
+### Haiku: "Red-Green-Refactor"
+
+Red fails mark the path,
+Green confirms the smallest step,
+Refactor breathes calm.
+
+### Haiku: "Fixture Dawn"
+
+Data seeds awake,
+Fixtures set the scene with care,
+Bugs fade in first light.
+
+### Haiku: "Coverage River"
+
+Lines flow under watch,
+Coverage charts where risk sleeps,
+Confidence runs deep.
+
