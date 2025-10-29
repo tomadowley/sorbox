@@ -155,3 +155,9 @@ Silent tests await,
 Small commits ripple through time,
 Ship with mindful grace.
 
+### Haiku: "Testing Garden"
+
+Green lights softly bloom,
+Failing specs reveal the truth,
+Trust gathers in code.
+
