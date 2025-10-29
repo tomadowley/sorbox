@@ -149,3 +149,9 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+### Haiku: "README Haiku"
+
+Silent tests await,
+Small commits ripple through time,
+Ship with mindful grace.
+
