@@ -3,6 +3,8 @@ hello
 
 hello
 
+Joke: Why did Ben commit on Friday afternoon? Because he thought "merge conflicts build character." Poor Ben—turns out they build overtime.
+
 ### Song: "Hello, Code"
 
 Verse 1:
