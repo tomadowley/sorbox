@@ -3,6 +3,11 @@ hello
 
 hello
 
+### Haiku
+Code flows like water,
+Tests whisper truth in the night;
+Ship small; dawn is bright.
+
 ### Song: "Hello, Code"
 
 Verse 1:
