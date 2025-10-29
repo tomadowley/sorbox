@@ -152,6 +152,5 @@ Behavior first, john dance we do.
 
 ### Joke
 
-There are 10 types of people in the world:
-those who understand binary and those who don't.
+Why do programmers prefer dark mode?
 
