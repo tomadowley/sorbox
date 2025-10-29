@@ -152,6 +152,7 @@ Behavior first, john dance we do.
 
 ### Joke
 
-Why do programmers prefer dark mode?
-Because light attracts bugs.
+There are only two hard things in computer science:
+cache invalidation, naming things,
+and off-by-one errors.
 
