@@ -152,7 +152,6 @@ Behavior first, john dance we do.
 
 ### Joke
 
-There are only two hard things in computer science:
-cache invalidation, naming things,
-and off-by-one errors.
+There are 10 types of people in the world:
+those who understand binary and those who don't.
 
