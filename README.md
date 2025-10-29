@@ -158,3 +158,9 @@ Or, a classic:
 Why do programmers prefer dark mode?
 Because light attracts bugs.
 
+### Haiku
+
+Tests red, then green glow
+Small commits ship steady code
+Bugs fade into night
+
