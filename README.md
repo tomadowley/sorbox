@@ -155,3 +155,8 @@ Behavior first, john dance we do.
 Why do programmers prefer dark mode?
 Because light attracts bugs.
 
+### Joke
+
+Why do Java developers wear glasses?
+Because they don't C#.
+
