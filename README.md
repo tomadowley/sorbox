@@ -131,6 +131,12 @@ Metrics sing of steady hope;
 Infra as code, no hand‑set screws,
 Repro kills john delivery blues.
 
+Verse 3:
+Queues stay small, john lead times shrink,
+Trunk stays clean, avoid the brink;
+Automate checks, no manual cues—
+Flow removes john delivery blues.
+
 Bridge:
 When lights go red, we pause, review,
 Roll back clean, restore what’s true;
