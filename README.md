@@ -149,3 +149,12 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+### Quick README Joke
+
+Why did the function go to therapy?
+Because it had too many side effects.
+
+Or, a classic:
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
