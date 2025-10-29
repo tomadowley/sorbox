@@ -151,9 +151,9 @@ Behavior first, john dance we do.
 
 ### Haiku: "README Haiku"
 
-Silent tests await,
-Small commits ripple through time,
-Ship with mindful grace.
+Tests frame every step,
+Tiny changes, steady flow,
+Confidence accrues.
 
 ### Haiku: "Testing Garden"
 
@@ -166,6 +166,12 @@ Trust gathers in code.
 Red fails mark the path,
 Green confirms the smallest step,
 Refactor breathes calm.
+
+### Haiku: "Assertion Whisper"
+
+Assertions whisper,
+Edge cases find their voices,
+Quality stands firm.
 
 ### Haiku: "Fixture Dawn"
 
