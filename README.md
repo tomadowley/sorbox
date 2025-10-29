@@ -149,3 +149,10 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+
+### Joke: README-driven Development
+
+Q: Why did the developer keep updating the README?
+
+A: Because when the tests failed, at least the documentation still passed.
+
