@@ -164,3 +164,6 @@ Tests red, then green glow
 Small commits ship steady code
 Bugs fade into night
 
+Bonus joke:
+There are 10 kinds of people: those who understand binary and those who don't.
+
