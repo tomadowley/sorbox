@@ -3,6 +3,12 @@ hello
 
 hello
 
+### Haiku
+
+Morning build runs clean,
+Small commits shape steady flow,
+We ship calm and sure.
+
 ### Song: "Hello, Code"
 
 Verse 1:
