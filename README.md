@@ -157,3 +157,5 @@ Why did the markdown file go to therapy? It had too many unresolved issues.
 
 Why did the repo’s README get promoted? It excelled at onboarding.
 
+How does the README stay fit? It does regular updates.
+
