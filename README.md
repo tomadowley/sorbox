@@ -158,3 +158,6 @@ A: Because light attracts bugs.
 Q: How many off-by-one errors does it take to change a light bulb?
 A: Two—one to change it and one to index it.
 
+Q: Why did the developer go broke?
+A: Because he used up all his cache.
+
