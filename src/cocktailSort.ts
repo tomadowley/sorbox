@@ -1,37 +1,36 @@
-/**
- * Sorts an array using the cocktail shaker sort algorithm.
- * Returns a new array sorted in ascending order.
- */
 export function cocktailSort(arr: number[]): number[] {
-  const a = arr.slice();
-  let start = 0;
-  let end = a.length - 1;
-  let swapped = true;
-
-  while (swapped) {
-    swapped = false;
-
-    // Forward pass
+  const forwardPass = (a: number[], start: number, end: number) => {
+    const next = a.slice();
+    let swapped = false;
     for (let i = start; i < end; i++) {
-      if (a[i] > a[i + 1]) {
-        [a[i], a[i + 1]] = [a[i + 1], a[i]];
+      if (next[i] > next[i + 1]) {
+        [next[i], next[i + 1]] = [next[i + 1], next[i]];
         swapped = true;
       }
     }
-    if (!swapped) break;
+    return { array: next, swapped };
+  };
 
-    swapped = false;
-    end--;
-
-    // Backward pass
+  const backwardPass = (a: number[], start: number, end: number) => {
+    const next = a.slice();
+    let swapped = false;
     for (let i = end; i > start; i--) {
-      if (a[i - 1] > a[i]) {
-        [a[i - 1], a[i]] = [a[i], a[i - 1]];
+      if (next[i - 1] > next[i]) {
+        [next[i - 1], next[i]] = [next[i], next[i - 1]];
         swapped = true;
       }
     }
-    start++;
-  }
+    return { array: next, swapped };
+  };
 
-  return a;
+  const iterate = (a: number[], start: number, end: number): number[] => {
+    if (start >= end) return a;
+    const fwd = forwardPass(a, start, end);
+    if (!fwd.swapped) return fwd.array;
+    const back = backwardPass(fwd.array, start, end - 1);
+    if (!back.swapped) return back.array;
+    return iterate(back.array, start + 1, end - 1);
+  };
+
+  return iterate(arr.slice(), 0, arr.length - 1);
 }

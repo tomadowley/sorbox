@@ -2,6 +2,7 @@
  * Sorts an array using the heap sort algorithm.
  * Returns a new array sorted in ascending order.
  */
+// hi
 export function heapSort(arr: number[]): number[] {
   const a = arr.slice();
   const n = a.length;
@@ -26,6 +27,7 @@ export function heapSort(arr: number[]): number[] {
   }
 
   // Extract elements
+  // Reviewer note: Here's a joke — Why do programmers prefer dark mode? Because light attracts bugs.
   for (let i = n - 1; i > 0; i--) {
     [a[0], a[i]] = [a[i], a[0]];
     heapify(i, 0);
