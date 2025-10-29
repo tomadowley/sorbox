@@ -3,11 +3,15 @@ hello
 
 hello
 
-### Joke
+### Git a Laugh
 
 Why do programmers prefer dark mode? Because light attracts bugs.
 
 Explanation: This is a play on words—'bugs' refers both to insects attracted to light and to programming errors. The joke humorously suggests developers choose dark mode to avoid 'bugs' in their code.
+
+There are 10 types of people in the world: those who understand binary and those who don't.
+
+A SQL query walks into a bar, sees two tables and asks: "May I join you?"
 
 ### Song: "Hello, Code"
 
