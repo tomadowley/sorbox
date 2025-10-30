@@ -23,6 +23,9 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
+Joke:
+Why did the developer go broke?
+Because he used up all his cache.
 
 ### Song: "Ship It Slow"
 
