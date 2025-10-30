@@ -149,3 +149,9 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+
+### A Joke
+
+Why did the developer go broke?
+Because they used up all their cache.
+
