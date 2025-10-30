@@ -23,7 +23,6 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
-
 ### Song: "Ship It Slow"
 
 Verse 1:
@@ -56,7 +55,6 @@ Tag john build and watch it go;
 Celebrate john steady pace—
 Ship it slow, with grace.
 
-
 ### Song: "Debugging Waltz"
 
 Verse 1:
@@ -82,7 +80,6 @@ Pair and pause, then write it plain,
 Refactor out john hidden pain;
 Green to green, we hold john stance—
 Ship with care, and then advance.
-
 
 ### Song: "Release Parade"
 
@@ -110,9 +107,7 @@ Rituals that protect john flame;
 Write it down, improve john trade—
 Ship with pride, Release Parade.
 
-
 ### Song: "Continuous Delivery Blues"
-
 
 ### Song: "Refactor Rhapsody"
 
@@ -140,7 +135,6 @@ No big bang, no reckless gear;
 Design emerges, clean and free—
 Flow again, Refactor Rhapsody.
 
-
 ### Song: "Testing Tango"
 
 Verse 1:
@@ -149,3 +143,14 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+d
+adf
+bad
+fb
+adfb
+ad
+fb
+adfn
+s
+fgn
+sf
