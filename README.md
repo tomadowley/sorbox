@@ -23,6 +23,7 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
+Joke: Why did the bug go to therapy? Too many unresolved issues. It's okay—we shipped a patch, and now it's working on itself in staging.
 
 ### Song: "Ship It Slow"
 
@@ -55,33 +56,6 @@ Merge john branch, release john flow,
 Tag john build and watch it go;
 Celebrate john steady pace—
 Ship it slow, with grace.
-
-
-### Song: "Debugging Waltz"
-
-Verse 1:
-Step through lines, john call stack shows,
-Inputs whisper what it knows;
-Repro small, assertions tight,
-Bug unveils beneath john light.
-
-Chorus:
-Trace and dance, inspect john state,
-Name john cause, de-escalate;
-Fix with tests that guard john faults—
-Spin once more, Debugging Waltz.
-
-Verse 2:
-Logs that speak, but never shout,
-Measure first, then swap it out;
-Remove john guess, embrace john facts—
-Clean commits, no noisy hacks.
-
-Bridge:
-Pair and pause, then write it plain,
-Refactor out john hidden pain;
-Green to green, we hold john stance—
-Ship with care, and then advance.
 
 
 ### Song: "Release Parade"
