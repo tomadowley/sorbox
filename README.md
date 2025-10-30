@@ -150,8 +150,11 @@ Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
 
-### Joke
+### Jokes: try/catch a laugh
 
 Why do programmers prefer dark mode?
 Because light attracts bugs.
+
+Why do Java developers wear glasses?
+Because they don't C#.
 
