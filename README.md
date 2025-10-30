@@ -147,10 +147,7 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
-Haiku:
-Green tests leap like frogs,
-Silent ponds of passing code,
-Bugs ripple, then fade.
+
 
 
 
