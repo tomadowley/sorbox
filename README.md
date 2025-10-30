@@ -3,7 +3,7 @@ hello
 
 hello
 
-### Dev Joke
+### Dev Chuckle
 
 Why do programmers prefer dark mode?
 Because light attracts bugs.
