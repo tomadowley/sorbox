@@ -149,3 +149,8 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+### Haiku: "Shipping Light"
+Silent code at dawn,
+Small commits shape steady flow,
+Release breathes in light.
+
