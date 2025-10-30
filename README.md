@@ -150,6 +150,33 @@ Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
 
+### Song: "Merge Melody"
+
+Verse 1:
+Branches drift and stories grow,
+Rebase clean, keep history flow;
+Conflicts small, we name them right,
+Stage by stage, we bring in light.
+
+Chorus:
+Merge john change, review with care,
+Green lights gleam and checks all share;
+Main stays calm, our pace is fair—
+Trust the path, merge with care.
+
+Verse 2:
+Commit small steps, intent is shown,
+PRs teach how seeds have grown;
+Links to issues, context near,
+Signal loud and changes clear.
+
+Bridge:
+Flags control the blast radius,
+Rollout slow, observant, pious;
+If things tilt, we roll it back,
+Learning logged in postmortem track.
+
+
 ### Jokes: try/catch a laugh
 
 Why do programmers prefer dark mode?
