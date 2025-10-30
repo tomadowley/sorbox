@@ -3,7 +3,7 @@ hello
 
 hello
 
-### Haiku: "Code in Quiet"
+### Haiku
 
 Keys hum in soft dusk,
 Tests light paths through changing code,
