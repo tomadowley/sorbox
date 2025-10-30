@@ -165,10 +165,10 @@ Main stays calm, our pace is fair—
 Trust the path, merge with care.
 
 Verse 2:
-Commit small steps, intent is shown,
-PRs teach how seeds have grown;
-Links to issues, context near,
-Signal loud and changes clear.
+Commit snack-size, dodge bloaty dread,
+No mega-PR that melts your thread;
+LGTM’s cute, but tests must sing—
+Ship small bits; let canaries wing.
 
 Bridge:
 Flags control the blast radius,
