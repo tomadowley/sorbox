@@ -1,8 +1,6 @@
 
 hello
 
-hello
-
 ### Song: "Hello, Code"
 
 Verse 1:
@@ -148,4 +146,12 @@ Red then green, we set john stage,
 Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
+
+d
+adf
+bad
+hi
+fb
+adfb
+ad
 
