@@ -3,6 +3,35 @@ hello
 
 hello
 
+### Dev Joke
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
+```diff
+@@ -3,6 +3,11 @@ hello
+ 
+ hello
+ 
++### Dev Joke
++
++Why do programmers prefer dark mode?
++Because light attracts bugs.
+```
+
+@tomadowley I want to make code changes to address this comment.
+
+Reply "yes" to confirm I should continue on the existing task.
+Reply "fork" if I should branch off in a new task for it.
+
+```diff
+@@ -3,6 +3,22 @@ hello
+ 
+ hello
+ 
++### Dev Joke
+```
+
 ### Song: "Hello, Code"
 
 Verse 1:
