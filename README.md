@@ -149,3 +149,9 @@ Arrange–Act–Assert on page;
 Mocks are sparse, john seams are true—
 Behavior first, john dance we do.
 
+### Haiku: "Silent Merge"
+
+Silent tests pass green  
+Refactor whispers through code  
+Ship it slow, with grace
+
