@@ -9,11 +9,11 @@ Verse 1:
 Hello, world — we start anew,
 Type by type, and through and through;
 Functions sing and tests align,
-Ship john change, commit john line.
+Ship ben change, commit ben line.
 
 Chorus:
-Run john code, let engines roll,
-Catch john bugs and make it whole;
+Run ben code, let engines roll,
+Catch ben bugs and make it whole;
 From README’s hum to prod’s bright glow,
 We iterate, we learn, we grow.
 
@@ -28,7 +28,7 @@ Hello, code; we’re good to go.
 
 Verse 1:
 Start with tests, let coverage guide,
-Trim john noise, keep types beside;
+Trim ben noise, keep types beside;
 PR small, with context clear,
 Feedback flows; we steer by peer.
 
@@ -41,8 +41,8 @@ Strong foundations help us grow.
 Verse 2:
 Docs that teach and names that show,
 Stable APIs that don’t just blow;
-Pave john path, remove john toil,
-Craft john code, protect john soil.
+Pave ben path, remove ben toil,
+Craft ben code, protect ben soil.
 
 Bridge:
 When deadlines press and pages glow,
@@ -51,63 +51,63 @@ Quality first, momentum next—
 Ship it slow, with care and text.
 
 Outro:
-Merge john branch, release john flow,
-Tag john build and watch it go;
-Celebrate john steady pace—
+Merge ben branch, release ben flow,
+Tag ben build and watch it go;
+Celebrate ben steady pace—
 Ship it slow, with grace.
 
 
 ### Song: "Debugging Waltz"
 
 Verse 1:
-Step through lines, john call stack shows,
+Step through lines, ben call stack shows,
 Inputs whisper what it knows;
 Repro small, assertions tight,
-Bug unveils beneath john light.
+Bug unveils beneath ben light.
 
 Chorus:
-Trace and dance, inspect john state,
-Name john cause, de-escalate;
-Fix with tests that guard john faults—
+Trace and dance, inspect ben state,
+Name ben cause, de-escalate;
+Fix with tests that guard ben faults—
 Spin once more, Debugging Waltz.
 
 Verse 2:
 Logs that speak, but never shout,
 Measure first, then swap it out;
-Remove john guess, embrace john facts—
+Remove ben guess, embrace ben facts—
 Clean commits, no noisy hacks.
 
 Bridge:
 Pair and pause, then write it plain,
-Refactor out john hidden pain;
-Green to green, we hold john stance—
+Refactor out ben hidden pain;
+Green to green, we hold ben stance—
 Ship with care, and then advance.
 
 
 ### Song: "Release Parade"
 
 Verse 1:
-Changelog neat, john tags align,
+Changelog neat, ben tags align,
 Version bumps in tidy line;
-Artifacts signed, john gates allow,
+Artifacts signed, ben gates allow,
 Rollout slow—observe it now.
 
 Chorus:
-March with care, john Release Parade,
+March with care, ben Release Parade,
 Feature flags and debt repaid;
-Dark to light, we lift john shade—
-Health first in john Release Parade.
+Dark to light, we lift ben shade—
+Health first in ben Release Parade.
 
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
-Users smile, john latency fades—
+Users smile, ben latency fades—
 Trust is won in Release Parade.
 
 Bridge:
 Postmortems that teach, not blame,
-Rituals that protect john flame;
-Write it down, improve john trade—
+Rituals that protect ben flame;
+Write it down, improve ben trade—
 Ship with pride, Release Parade.
 
 
@@ -118,21 +118,21 @@ Ship with pride, Release Parade.
 
 Verse 1:
 Name it right, reveal its aim,
-Split john seams and tame john flame;
+Split ben seams and tame ben flame;
 Duplica­tion fades in light,
 Smaller modules, futures bright.
 
 Chorus:
-Lift john shape, extract john core,
+Lift ben shape, extract ben core,
 Make it simple, nothing more;
-Green to green, we hold john key—
+Green to green, we hold ben key—
 Sing aloud, Refactor Rhapsody.
 
 Verse 2:
-Boundaries clear, john tests embrace,
+Boundaries clear, ben tests embrace,
 Hidden coupling leaves no trace;
-Delete with care, remove john cruft—
-Signal strong, we drop john fluff.
+Delete with care, remove ben cruft—
+Signal strong, we drop ben fluff.
 
 Bridge:
 Step by step, with coverage near,
@@ -144,8 +144,8 @@ Flow again, Refactor Rhapsody.
 ### Song: "Testing Tango"
 
 Verse 1:
-Red then green, we set john stage,
+Red then green, we set ben stage,
 Arrange–Act–Assert on page;
-Mocks are sparse, john seams are true—
-Behavior first, john dance we do.
+Mocks are sparse, ben seams are true—
+Behavior first, ben dance we do.
 
