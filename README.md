@@ -149,7 +149,7 @@ Arrange–Act–Assert on page;
 Mocks are sparse, ben seams are true—
 Behavior first, ben dance we do.
 
-### Joke: "Null Pointer"
+### Joke: Null Pointer Exception
 
 Why did the developer bring a ladder to production?
 Because the stack trace said the issue was deep, but the pointer was null.
