@@ -149,8 +149,15 @@ Arrange–Act–Assert on page;
 Mocks are sparse, ben seams are true—
 Behavior first, ben dance we do.
 
-### Dev Joke
+### Stand-up While It Compiles
 
 Why do programmers prefer dark mode?
 Because light attracts bugs.
+
+Explanation:
+This is a pun. In the real world, insects (bugs) are attracted to light. In software, “bugs” are defects. So “light attracts bugs” jokingly suggests that using light mode attracts software bugs, hence programmers prefer dark mode.
+
+Another one:
+How many programmers does it take to change a light bulb?
+None. That’s a hardware problem.
 
