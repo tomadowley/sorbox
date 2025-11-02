@@ -150,8 +150,12 @@ Mocks are sparse, ben seams are true—
 Behavior first, ben dance we do.
 
 
-### Dev Joke
+### Bug-Attracting Humor (Dev Jokes)
 
-Why do programmers prefer dark mode?
-Because light attracts bugs.
+- Why do programmers prefer dark mode?  
+  Because light attracts bugs.  
+  Explanation: In software, a "bug" is an error; in the real world, light attracts insects—double meaning.
+
+- There are 10 types of people in the world: those who understand binary and those who don't.  
+  Explanation: In binary, "10" represents the number two.
 
