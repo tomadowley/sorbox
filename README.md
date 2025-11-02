@@ -149,3 +149,9 @@ Arrange–Act–Assert on page;
 Mocks are sparse, ben seams are true—
 Behavior first, ben dance we do.
 
+
+### Just for fun
+
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs.
+
