@@ -150,8 +150,15 @@ Mocks are sparse, ben seams are true—
 Behavior first, ben dance we do.
 
 
-### Just for fun
+### Just for Fun(ction): The Bug‑Free Comedy Club
 
-Q: Why do programmers prefer dark mode?
-A: Because light attracts bugs.
+- Joke 1:
+  Q: Why do programmers prefer dark mode?
+  A: Because light attracts bugs.
+  Explanation: In nature, insects are drawn to light; in software, "bugs" are defects. The punchline plays on the double meaning of "bugs."
+
+- Joke 2:
+  Q: A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
+  A: Only if the keys match.
+  Explanation: In SQL, a JOIN combines rows from two tables based on matching keys. The joke personifies the query and tables to pun on "join."
 
