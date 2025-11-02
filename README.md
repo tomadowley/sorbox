@@ -159,3 +159,7 @@ Behavior first, ben dance we do.
 - There are 10 types of people in the world: those who understand binary and those who don't.  
   Explanation: In binary, "10" represents the number two.
 
+- Why do Java developers wear glasses?  
+  Because they don't C#.  
+  Explanation: Wordplay — "C#" sounds like "see sharp"; Java developers “don’t C#.”
+
