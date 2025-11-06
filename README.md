@@ -8,6 +8,9 @@
 
 > Why did the developer go broke?<br>
 > Because he used up all his cache! 💸
+> 
+> How many programmers does it take to change a light bulb?<br>
+> None. It's a hardware problem.
 
 <!-- 
   🚨 Warning: You are now reading the README of a project so fresh, even the code is still googling "how to write Hello World."
