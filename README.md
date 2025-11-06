@@ -149,3 +149,8 @@ Arrange–Act–Assert on page;
 Mocks are sparse, ben seams are true—
 Behavior first, ben dance we do.
 
+### README Joke
+
+Why did the README cross the repo?
+To get to the other side of the docs.
+
