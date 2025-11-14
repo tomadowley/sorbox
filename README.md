@@ -149,3 +149,10 @@ Arrange–Act–Assert on page;
 Mocks are sparse, ben seams are true—
 Behavior first, ben dance we do.
 
+
+### Hakui
+
+Keys whisper at dawn
+Tests bloom green like spring fields wide
+Ship small, steady, sure
+
