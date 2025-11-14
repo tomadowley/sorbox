@@ -23,6 +23,24 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
+### Developer Joke
+
+Why do programmers prefer dark mode? Because light attracts bugs.
+
+Another one: I told my computer I needed a break, and it said: “No problem—I’ll go to sleep.”
+
+And another: There are 10 types of people in the world—those who understand binary and those who don’t.
+
+One more: A SQL query walks into a bar, walks up to two tables and asks, “Can I join you?”
+
+And just one more: To understand recursion, you must first understand recursion.
+
+Last one (for now): It works on my machine.
+
+Okay, okay, one more: There’s no place like 127.0.0.1.
+
+And really the last one: I’d tell you a UDP joke, but you might not get it.
+
 
 ### Song: "Ship It Slow"
 
