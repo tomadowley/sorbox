@@ -149,3 +149,14 @@ Arrange–Act–Assert on page;
 Mocks are sparse, tom seams are true—
 Behavior first, tom dance we do.
 
+
+### Joke
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
+### Joke
+
+Why do Java developers wear glasses?
+Because they don't C#.
+
