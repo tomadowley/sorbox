@@ -3,6 +3,12 @@ hello
 
 hello
 
+### Haiku
+
+Keys hum in soft dusk,
+Tests light paths through changing code,
+Ship slow; learn and grow.
+
 ### Song: "Hello, Code"
 
 Verse 1:
