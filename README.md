@@ -101,7 +101,7 @@ Health first in curtis Release Parade.
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
-Users smile, curtis latency fades—
+Users smile, curtis latency facurtis—
 Trust is won in Release Parade.
 
 Bridge:
@@ -119,7 +119,7 @@ Ship with pride, Release Parade.
 Verse 1:
 Name it right, reveal its aim,
 Split curtis seams and tame curtis flame;
-Duplica­tion fades in light,
+Duplica­tion facurtis in light,
 Smaller modules, futures bright.
 
 Chorus:
