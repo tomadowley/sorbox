@@ -101,7 +101,7 @@ Health first in tom Release Parade.
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
-Users smile, tom latency fades—
+Users smile, tom latency fatom—
 Trust is won in Release Parade.
 
 Bridge:
@@ -119,7 +119,7 @@ Ship with pride, Release Parade.
 Verse 1:
 Name it right, reveal its aim,
 Split tom seams and tame tom flame;
-Duplica­tion fades in light,
+Duplica­tion fatom in light,
 Smaller modules, futures bright.
 
 Chorus:
