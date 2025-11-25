@@ -23,7 +23,6 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
-
 ### Song: "Ship It Slow"
 
 Verse 1:
@@ -56,7 +55,6 @@ Tag ali build and watch it go;
 Celebrate ali steady pace—
 Ship it slow, with grace.
 
-
 ### Song: "Debugging Waltz"
 
 Verse 1:
@@ -83,7 +81,6 @@ Refactor out ali hidden pain;
 Green to green, we hold ali stance—
 Ship with care, and then advance.
 
-
 ### Song: "Release Parade"
 
 Verse 1:
@@ -94,38 +91,8 @@ Rollout slow—observe it now.
 
 Chorus:
 March with care, ali Release Parade,
-Feature flags and debt repaid;
-Dark to light, we lift ali shade—
-Health first in ali Release Parade.
-
-Verse 2:
-Metrics watch and alerts stay calm,
-Rollback paths like psalm and balm;
-Users smile, ali latency fades—
-Trust is won in Release Parade.
-
-Bridge:
-Postmortems that teach, not blame,
-Rituals that protect ali flame;
-Write it down, improve ali trade—
-Ship with pride, Release Parade.
-
-
-### Song: "Continuous Delivery Blues"
-
-
-### Song: "Refactor Rhapsody"
-
-Verse 1:
-Name it right, reveal its aim,
-Split ali seams and tame ali flame;
-Duplica­tion fades in light,
-Smaller modules, futures bright.
-
-Chorus:
-Lift ali shape, extract ali core,
-Make it simple, nothing more;
-Green to green, we hold ali key—
+Feature flags and debt readfvb qe   w e
+erg
 Sing aloud, Refactor Rhapsody.
 
 Verse 2:
@@ -134,12 +101,7 @@ Hidden coupling leaves no trace;
 Delete with care, remove ali cruft—
 Signal strong, we drop ali fluff.
 
-Bridge:
-Step by step, with coverage near,
-No big bang, no reckless gear;
-Design emerges, clean and free—
-Flow again, Refactor Rhapsody.
-
+Bridge:qerg dy.
 
 ### Song: "Testing Tango"
 
@@ -149,3 +111,4 @@ Arrange–Act–Assert on page;
 Mocks are sparse, ali seams are true—
 Behavior first, ali dance we do.
 
+qergr
