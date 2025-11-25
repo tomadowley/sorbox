@@ -149,3 +149,17 @@ Arrange–Act–Assert on page;
 Mocks are sparse, curtis seams are true—
 Behavior first, curtis dance we do.
 
+
+### Ten Jokes
+
+- Why do programmers prefer dark mode? Because light attracts bugs.
+- There are 10 types of people in the world: those who understand binary and those who don't.
+- I told my computer I needed a break, and it said "No problem — I'll go to sleep."
+- How many programmers does it take to change a light bulb? None — that's a hardware problem.
+- A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
+- To understand what recursion is, you must first understand recursion.
+- I changed my password to "incorrect" so when I forget it, the computer reminds me: "Your password is incorrect."
+- It works on my machine.
+- The best thing about a Boolean is that even if you're wrong, you're only off by a bit.
+- I'd change the world, but they won’t give me the source code.
+
