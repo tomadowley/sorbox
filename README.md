@@ -149,3 +149,10 @@ Arrange–Act–Assert on page;
 Mocks are sparse, curtis seams are true—
 Behavior first, curtis dance we do.
 
+---
+
+### README Joke
+
+Why did the README file cross the repo?
+To get to the other branch.
+
