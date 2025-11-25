@@ -150,8 +150,12 @@ Mocks are sparse, curtis seams are true—
 Behavior first, curtis dance we do.
 
 
-### Quick README Joke
+### Quick README Jokes
 
-Why do programmers prefer dark mode?
-Because light attracts bugs.
+- Why do programmers prefer dark mode? Because light attracts bugs.
+- I would tell you a UDP joke, but you might not get it.
+- A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
+- There are 10 types of people in the world: those who understand binary and those who don't.
+- Debugging: being the detective in a crime movie where you are also the murderer.
+- It works on my machine.
 
