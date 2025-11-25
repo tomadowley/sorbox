@@ -78,3 +78,17 @@ Clean commits, no noisy hacks.
 Bridge:
 Pair and pause, then write it plain,
 Refactor out curtis hidden pain;
+
+
+### More Jokes
+
+- Why did the developer go broke? Because he used up all his cache.
+- Commit messages are like haikus: hard to write, easy to forget, someone will judge.
+- Knock, knock. Race condition. Who’s there? ... still waiting.
+- My code never has bugs; it just develops random features.
+- Debugging: being the detective in a crime you committed.
+- If at first you don’t succeed; call it version 1.0.
+- With great power comes great responsibility—sudo rm -rf /
+- The cloud is just someone else’s computer.
+- Java is to JavaScript what car is to carpet.
+- There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
