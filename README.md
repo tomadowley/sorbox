@@ -23,7 +23,6 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
-
 ### Song: "Ship It Slow"
 
 Verse 1:
@@ -56,7 +55,6 @@ Tag curtis build and watch it go;
 Celebrate curtis steady pace—
 Ship it slow, with grace.
 
-
 ### Song: "Debugging Waltz"
 
 Verse 1:
@@ -83,7 +81,6 @@ Refactor out curtis hidden pain;
 Green to green, we hold curtis stance—
 Ship with care, and then advance.
 
-
 ### Song: "Release Parade"
 
 Verse 1:
@@ -109,50 +106,3 @@ Postmortems that teach, not blame,
 Rituals that protect curtis flame;
 Write it down, improve curtis trade—
 Ship with pride, Release Parade.
-
-
-### Song: "Continuous Delivery Blues"
-
-
-### Song: "Refactor Rhapsody"
-
-Verse 1:
-Name it right, reveal its aim,
-Split curtis seams and tame curtis flame;
-Duplica­tion facurtis in light,
-Smaller modules, futures bright.
-
-Chorus:
-Lift curtis shape, extract curtis core,
-Make it simple, nothing more;
-Green to green, we hold curtis key—
-Sing aloud, Refactor Rhapsody.
-
-Verse 2:
-Boundaries clear, curtis tests embrace,
-Hidden coupling leaves no trace;
-Delete with care, remove curtis cruft—
-Signal strong, we drop curtis fluff.
-
-Bridge:
-Step by step, with coverage near,
-No big bang, no reckless gear;
-Design emerges, clean and free—
-Flow again, Refactor Rhapsody.
-
-
-### Song: "Testing Tango"
-
-Verse 1:
-Red then green, we set curtis stage,
-Arrange–Act–Assert on page;
-Mocks are sparse, curtis seams are true—
-Behavior first, curtis dance we do.
-
----
-
-### README Joke
-
-Why did the README file cross the repo?
-To get to the other branch.
-
