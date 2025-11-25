@@ -9,11 +9,11 @@ Verse 1:
 Hello, world — we start anew,
 Type by type, and through and through;
 Functions sing and tests align,
-Ship sam change, commit sam line.
+Ship ali change, commit ali line.
 
 Chorus:
-Run sam code, let engines roll,
-Catch sam bugs and make it whole;
+Run ali code, let engines roll,
+Catch ali bugs and make it whole;
 From README’s hum to prod’s bright glow,
 We iterate, we learn, we grow.
 
@@ -28,7 +28,7 @@ Hello, code; we’re good to go.
 
 Verse 1:
 Start with tests, let coverage guide,
-Trim sam noise, keep types beside;
+Trim ali noise, keep types beside;
 PR small, with context clear,
 Feedback flows; we steer by peer.
 
@@ -41,8 +41,8 @@ Strong foundations help us grow.
 Verse 2:
 Docs that teach and names that show,
 Stable APIs that don’t just blow;
-Pave sam path, remove sam toil,
-Craft sam code, protect sam soil.
+Pave ali path, remove ali toil,
+Craft ali code, protect ali soil.
 
 Bridge:
 When deadlines press and pages glow,
@@ -51,63 +51,63 @@ Quality first, momentum next—
 Ship it slow, with care and text.
 
 Outro:
-Merge sam branch, release sam flow,
-Tag sam build and watch it go;
-Celebrate sam steady pace—
+Merge ali branch, release ali flow,
+Tag ali build and watch it go;
+Celebrate ali steady pace—
 Ship it slow, with grace.
 
 
 ### Song: "Debugging Waltz"
 
 Verse 1:
-Step through lines, sam call stack shows,
+Step through lines, ali call stack shows,
 Inputs whisper what it knows;
 Repro small, assertions tight,
-Bug unveils beneath sam light.
+Bug unveils beneath ali light.
 
 Chorus:
-Trace and dance, inspect sam state,
-Name sam cause, de-escalate;
-Fix with tests that guard sam faults—
+Trace and dance, inspect ali state,
+Name ali cause, de-escalate;
+Fix with tests that guard ali faults—
 Spin once more, Debugging Waltz.
 
 Verse 2:
 Logs that speak, but never shout,
 Measure first, then swap it out;
-Remove sam guess, embrace sam facts—
+Remove ali guess, embrace ali facts—
 Clean commits, no noisy hacks.
 
 Bridge:
 Pair and pause, then write it plain,
-Refactor out sam hidden pain;
-Green to green, we hold sam stance—
+Refactor out ali hidden pain;
+Green to green, we hold ali stance—
 Ship with care, and then advance.
 
 
 ### Song: "Release Parade"
 
 Verse 1:
-Changelog neat, sam tags align,
+Changelog neat, ali tags align,
 Version bumps in tidy line;
-Artifacts signed, sam gates allow,
+Artifacts signed, ali gates allow,
 Rollout slow—observe it now.
 
 Chorus:
-March with care, sam Release Parade,
+March with care, ali Release Parade,
 Feature flags and debt repaid;
-Dark to light, we lift sam shade—
-Health first in sam Release Parade.
+Dark to light, we lift ali shade—
+Health first in ali Release Parade.
 
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
-Users smile, sam latency fades—
+Users smile, ali latency fades—
 Trust is won in Release Parade.
 
 Bridge:
 Postmortems that teach, not blame,
-Rituals that protect sam flame;
-Write it down, improve sam trade—
+Rituals that protect ali flame;
+Write it down, improve ali trade—
 Ship with pride, Release Parade.
 
 
@@ -118,21 +118,21 @@ Ship with pride, Release Parade.
 
 Verse 1:
 Name it right, reveal its aim,
-Split sam seams and tame sam flame;
+Split ali seams and tame ali flame;
 Duplica­tion fades in light,
 Smaller modules, futures bright.
 
 Chorus:
-Lift sam shape, extract sam core,
+Lift ali shape, extract ali core,
 Make it simple, nothing more;
-Green to green, we hold sam key—
+Green to green, we hold ali key—
 Sing aloud, Refactor Rhapsody.
 
 Verse 2:
-Boundaries clear, sam tests embrace,
+Boundaries clear, ali tests embrace,
 Hidden coupling leaves no trace;
-Delete with care, remove sam cruft—
-Signal strong, we drop sam fluff.
+Delete with care, remove ali cruft—
+Signal strong, we drop ali fluff.
 
 Bridge:
 Step by step, with coverage near,
@@ -144,8 +144,8 @@ Flow again, Refactor Rhapsody.
 ### Song: "Testing Tango"
 
 Verse 1:
-Red then green, we set sam stage,
+Red then green, we set ali stage,
 Arrange–Act–Assert on page;
-Mocks are sparse, sam seams are true—
-Behavior first, sam dance we do.
+Mocks are sparse, ali seams are true—
+Behavior first, ali dance we do.
 
