@@ -9,11 +9,11 @@ Verse 1:
 Hello, world — we start anew,
 Type by type, and through and through;
 Functions sing and tests align,
-Ship tom change, commit tom line.
+Ship ben change, commit ben line.
 
 Chorus:
-Run tom code, let engines roll,
-Catch tom bugs and make it whole;
+Run ben code, let engines roll,
+Catch ben bugs and make it whole;
 From README’s hum to prod’s bright glow,
 We iterate, we learn, we grow.
 
@@ -28,7 +28,7 @@ Hello, code; we’re good to go.
 
 Verse 1:
 Start with tests, let coverage guide,
-Trim tom noise, keep types beside;
+Trim ben noise, keep types beside;
 PR small, with context clear,
 Feedback flows; we steer by peer.
 
@@ -41,8 +41,8 @@ Strong foundations help us grow.
 Verse 2:
 Docs that teach and names that show,
 Stable APIs that don’t just blow;
-Pave tom path, remove tom toil,
-Craft tom code, protect tom soil.
+Pave ben path, remove ben toil,
+Craft ben code, protect ben soil.
 
 Bridge:
 When deadlines press and pages glow,
@@ -51,63 +51,63 @@ Quality first, momentum next—
 Ship it slow, with care and text.
 
 Outro:
-Merge tom branch, release tom flow,
-Tag tom build and watch it go;
-Celebrate tom steady pace—
+Merge ben branch, release ben flow,
+Tag ben build and watch it go;
+Celebrate ben steady pace—
 Ship it slow, with grace.
 
 
 ### Song: "Debugging Waltz"
 
 Verse 1:
-Step through lines, tom call stack shows,
+Step through lines, ben call stack shows,
 Inputs whisper what it knows;
 Repro small, assertions tight,
-Bug unveils beneath tom light.
+Bug unveils beneath ben light.
 
 Chorus:
-Trace and dance, inspect tom state,
-Name tom cause, de-escalate;
-Fix with tests that guard tom faults—
+Trace and dance, inspect ben state,
+Name ben cause, de-escalate;
+Fix with tests that guard ben faults—
 Spin once more, Debugging Waltz.
 
 Verse 2:
 Logs that speak, but never shout,
 Measure first, then swap it out;
-Remove tom guess, embrace tom facts—
+Remove ben guess, embrace ben facts—
 Clean commits, no noisy hacks.
 
 Bridge:
 Pair and pause, then write it plain,
-Refactor out tom hidden pain;
-Green to green, we hold tom stance—
+Refactor out ben hidden pain;
+Green to green, we hold ben stance—
 Ship with care, and then advance.
 
 
 ### Song: "Release Parade"
 
 Verse 1:
-Changelog neat, tom tags align,
+Changelog neat, ben tags align,
 Version bumps in tidy line;
-Artifacts signed, tom gates allow,
+Artifacts signed, ben gates allow,
 Rollout slow—observe it now.
 
 Chorus:
-March with care, tom Release Parade,
+March with care, ben Release Parade,
 Feature flags and debt repaid;
-Dark to light, we lift tom shade—
-Health first in tom Release Parade.
+Dark to light, we lift ben shade—
+Health first in ben Release Parade.
 
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
-Users smile, tom latency fatom—
+Users smile, ben latency faben—
 Trust is won in Release Parade.
 
 Bridge:
 Postmortems that teach, not blame,
-Rituals that protect tom flame;
-Write it down, improve tom trade—
+Rituals that protect ben flame;
+Write it down, improve ben trade—
 Ship with pride, Release Parade.
 
 
@@ -118,21 +118,21 @@ Ship with pride, Release Parade.
 
 Verse 1:
 Name it right, reveal its aim,
-Split tom seams and tame tom flame;
-Duplica­tion fatom in light,
+Split ben seams and tame ben flame;
+Duplica­tion faben in light,
 Smaller modules, futures bright.
 
 Chorus:
-Lift tom shape, extract tom core,
+Lift ben shape, extract ben core,
 Make it simple, nothing more;
-Green to green, we hold tom key—
+Green to green, we hold ben key—
 Sing aloud, Refactor Rhapsody.
 
 Verse 2:
-Boundaries clear, tom tests embrace,
+Boundaries clear, ben tests embrace,
 Hidden coupling leaves no trace;
-Delete with care, remove tom cruft—
-Signal strong, we drop tom fluff.
+Delete with care, remove ben cruft—
+Signal strong, we drop ben fluff.
 
 Bridge:
 Step by step, with coverage near,
@@ -144,8 +144,8 @@ Flow again, Refactor Rhapsody.
 ### Song: "Testing Tango"
 
 Verse 1:
-Red then green, we set tom stage,
+Red then green, we set ben stage,
 Arrange–Act–Assert on page;
-Mocks are sparse, tom seams are true—
-Behavior first, tom dance we do.
+Mocks are sparse, ben seams are true—
+Behavior first, ben dance we do.
 
