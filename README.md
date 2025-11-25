@@ -82,38 +82,3 @@ Green to green, we hold curtis stance—
 Ship with care, and then advance.
 
 ### Song: "Release Parade"
-
-Verse 1:
-Changelog neat, curtis tags align,
-Version bumps in tidy line;
-Artifacts signed, curtis gates allow,
-Rollout slow—observe it now.
-
-Chorus:
-March with care, curtis Release Parade,
-Feature flags and debt repaid;
-Dark to light, we lift curtis shade—
-Health first in curtis Release Parade.
-
-Verse 2:
-Metrics watch and alerts stay calm,
-Rollback paths like psalm and balm;
-Users smile, curtis latency facurtis—
-Trust is won in Release Parade.
-
-Bridge:
-Postmortems that teach, not blame,
-Rituals that protect curtis flame;
-Write it down, improve curtis trade—
-Ship with pride, Release Parade.
-
-### Song: "Continuous Delivery Blues"
-
-### Song: "Refactor Rhapsody"
-
-Verse 1:
-Name it right, reveal its aim,
-
-### Another Joke
-
-There are 10 types of people in the world: those who understand binary, and those who don't.
