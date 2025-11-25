@@ -149,3 +149,8 @@ Arrange–Act–Assert on page;
 Mocks are sparse, curtis seams are true—
 Behavior first, curtis dance we do.
 
+### One-liner Joke
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
