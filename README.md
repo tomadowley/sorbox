@@ -113,3 +113,7 @@ Ship with pride, Release Parade.
 
 Verse 1:
 Name it right, reveal its aim,
+
+### Another Joke
+
+There are 10 types of people in the world: those who understand binary, and those who don't.
