@@ -82,3 +82,7 @@ Green to green, we hold curtis stance—
 Ship with care, and then advance.
 
 ### Song: "Release Parade"
+
+### Yet Another Joke
+
+There’s no place like 127.0.0.1.
