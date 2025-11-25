@@ -23,7 +23,6 @@ Small steps forward, clean and light;
 Review, refine, and then we show—
 Hello, code; we’re good to go.
 
-
 ### Song: "Ship It Slow"
 
 Verse 1:
@@ -56,7 +55,6 @@ Tag curtis build and watch it go;
 Celebrate curtis steady pace—
 Ship it slow, with grace.
 
-
 ### Song: "Debugging Waltz"
 
 Verse 1:
@@ -80,86 +78,3 @@ Clean commits, no noisy hacks.
 Bridge:
 Pair and pause, then write it plain,
 Refactor out curtis hidden pain;
-Green to green, we hold curtis stance—
-Ship with care, and then advance.
-
-
-### Song: "Release Parade"
-
-Verse 1:
-Changelog neat, curtis tags align,
-Version bumps in tidy line;
-Artifacts signed, curtis gates allow,
-Rollout slow—observe it now.
-
-Chorus:
-March with care, curtis Release Parade,
-Feature flags and debt repaid;
-Dark to light, we lift curtis shade—
-Health first in curtis Release Parade.
-
-Verse 2:
-Metrics watch and alerts stay calm,
-Rollback paths like psalm and balm;
-Users smile, curtis latency facurtis—
-Trust is won in Release Parade.
-
-Bridge:
-Postmortems that teach, not blame,
-Rituals that protect curtis flame;
-Write it down, improve curtis trade—
-Ship with pride, Release Parade.
-
-
-### Song: "Continuous Delivery Blues"
-
-
-### Song: "Refactor Rhapsody"
-
-Verse 1:
-Name it right, reveal its aim,
-Split curtis seams and tame curtis flame;
-Duplica­tion facurtis in light,
-Smaller modules, futures bright.
-
-Chorus:
-Lift curtis shape, extract curtis core,
-Make it simple, nothing more;
-Green to green, we hold curtis key—
-Sing aloud, Refactor Rhapsody.
-
-Verse 2:
-Boundaries clear, curtis tests embrace,
-Hidden coupling leaves no trace;
-Delete with care, remove curtis cruft—
-Signal strong, we drop curtis fluff.
-
-Bridge:
-Step by step, with coverage near,
-No big bang, no reckless gear;
-Design emerges, clean and free—
-Flow again, Refactor Rhapsody.
-
-
-### Song: "Testing Tango"
-
-Verse 1:
-Red then green, we set curtis stage,
-Arrange–Act–Assert on page;
-Mocks are sparse, curtis seams are true—
-Behavior first, curtis dance we do.
-
-
-### Ten Jokes
-
-- Why do programmers prefer dark mode? Because light attracts bugs.
-- There are 10 types of people in the world: those who understand binary and those who don't.
-- I told my computer I needed a break, and it said "No problem — I'll go to sleep."
-- How many programmers does it take to change a light bulb? None — that's a hardware problem.
-- A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
-- To understand what recursion is, you must first understand recursion.
-- I changed my password to "incorrect" so when I forget it, the computer reminds me: "Your password is incorrect."
-- It works on my machine.
-- The best thing about a Boolean is that even if you're wrong, you're only off by a bit.
-- I'd change the world, but they won’t give me the source code.
-
