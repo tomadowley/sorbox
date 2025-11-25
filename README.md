@@ -3,6 +3,11 @@ hello
 
 hello
 
+### Joke: "A Quick Dev Laugh"
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
 ### Song: "Hello, Code"
 
 Verse 1:
