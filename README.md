@@ -47,3 +47,111 @@ Bridge:
 When deadlines press and pages glow,
 We pause, reflect, then still we go;
 Quality first, momentum next—
+Ship it slow, with care and text.
+
+Outro:
+Merge yang branch, release yang flow,
+Tag yang build and watch it go;
+Celebrate yang steady pace—
+Ship it slow, with grace.
+
+### Song: "Debugging Waltz"
+
+Verse 1:
+Step through lines, yang call stack shows,
+Inputs whisper what it knows;
+Repro small, assertions tight,
+Bug unveils beneath yang light.
+
+Chorus:
+Trace and dance, inspect yang state,
+Name yang cause, de-escalate;
+Fix with tests that guard yang faults—
+Spin once more, Debugging Waltz.
+
+Verse 2:
+Logs that speak, but never shout,
+Measure first, then swap it out;
+Remove yang guess, embrace yang facts—
+Clean commits, no noisy hacks.
+
+Bridge:
+Pair and pause, then write it plain,
+Refactor out yang hidden pain;
+Green to green, we hold yang stance—
+Ship with care, and then advance.
+
+### Song: "Release Parade"
+
+Verse 1:
+Changelog neat, yang tags align,
+Version bumps in tidy line;
+Artifacts signed, yang gates allow,
+Rollout slow—observe it now.
+
+Chorus:
+March with care, yang Release Parade,
+Feature flags and debt repaid;
+Dark to light, we lift yang shade—
+Health first in yang Release Parade.
+
+Verse 2:
+Metrics watch and alerts stay calm,
+Rollback paths like psalm and balm;
+Users smile, yang latency fades—
+Trust is won in Release Parade.
+
+Bridge:
+Postmortems that teach, not blame,
+Rituals that protect yang flame;
+Write it down, improve yang trade—
+Ship with pride, Release Parade.
+
+
+### Song: "Continuous Delivery Blues"
+
+
+### Song: "Refactor Rhapsody"
+
+Verse 1:
+Name it right, reveal its aim,
+Split yang seams and tame yang flame;
+Duplica­tion fades in light,
+Smaller modules, futures bright.
+
+Chorus:
+Lift yang shape, extract yang core,
+Make it simple, nothing more;
+Green to green, we hold yang key—
+Sing aloud, Refactor Rhapsody.
+
+Verse 2:
+Boundaries clear, yang tests embrace,
+Hidden coupling leaves no trace;
+Delete with care, remove yang cruft—
+Signal strong, we drop yang fluff.
+
+Bridge:qerg dy.
+
+### Song: "Testing Tango"
+
+Verse 1:
+Red then green, we set yang stage,
+Arrange–Act–Assert on page;
+Mocks are sparse, yang seams are true—
+Behavior first, yang dance we do.
+
+qergr
+
+### Jokes
+
+1. Why do programmers prefer dark mode? Because light attracts bugs.
+2. How many software engineers does it take to change a light bulb? None, that's a hardware problem.
+3. Why did the developer go broke? Because they used up all their cache.
+4. What do you call a programmer from Finland? Nerdic.
+5. Why did the function break up with the class? It needed more space.
+6. Why do Java developers wear glasses? Because they don't C#.
+7. Why was the computer cold? It forgot to close its Windows.
+8. Why did the bug go to therapy? It had too many unresolved issues.
+9. Why did the developer cross the road? To get to the other IDE.
+10. What’s a programmer’s favorite place to hang out? The Foo bar.
