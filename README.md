@@ -170,3 +170,8 @@ A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
 
 To understand recursion, you must first understand recursion.
 
+
+### Joke: "Light Bulb"
+
+How many programmers does it take to change a light bulb? None — that's a hardware problem.
+
