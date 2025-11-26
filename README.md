@@ -149,3 +149,9 @@ Arrange–Act–Assert on page;
 Mocks are sparse, bven seams are true—
 Behavior first, bven dance we do.
 
+
+### Joke: "Null Pointer Walks into a Bar"
+
+A null pointer walks into a bar and asks for a drink.
+The bartender says, "Sorry, I can't serve you — you don't have a reference."
+
