@@ -155,3 +155,8 @@ Behavior first, bven dance we do.
 Why did the developer go broke?
 Because they used up all their cache.
 
+### Another README Joke
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
