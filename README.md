@@ -155,3 +155,8 @@ Behavior first, bven dance we do.
 A null pointer walks into a bar and asks for a drink.
 The bartender says, "Sorry, I can't serve you — you don't have a reference."
 
+
+### Joke: "Off-by-One Problems"
+
+There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-one errors.
+
