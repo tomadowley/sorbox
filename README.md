@@ -1,8 +1,6 @@
 
 hello
 
-hello
-
 ### Song: "Hello, Code"
 
 Verse 1:
@@ -148,4 +146,8 @@ Red then green, we set tom stage,
 Arrange–Act–Assert on page;
 Mocks are sparse, tom seams are true—
 Behavior first, tom dance we do.
+
+
+
+
 
