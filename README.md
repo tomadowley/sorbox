@@ -149,3 +149,25 @@ Arrange–Act–Assert on page;
 Mocks are sparse, bven seams are true—
 Behavior first, bven dance we do.
 
+---
+
+### README Joke
+
+Why did the README file cross the repo?
+To get to the other branch.
+
+Why was the README promoted?
+Because it excelled at onboarding.
+
+What did the README say to new contributors?
+"Start here."
+
+Why did the bug read the README?
+It wanted to understand the expected behavior before reproducing.
+
+How does a README greet you?
+"Hello, world — but with context."
+
+Why did the README fail the build?
+It had unresolved merge headers.
+
