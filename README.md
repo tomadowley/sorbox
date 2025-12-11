@@ -17,27 +17,7 @@ Verse 1:
 Hello, world — we start anew,
 Type by type, and through and through;
 Functions sing and tests align,
-Logs that speak, but never shout,
-Measure first, then swap it out;
-Remove bven guess, embrace bven facts—
-Clean commits, no noisy hacks.
-
-Bridge:
-Pair and pause, then write it plain,
-Refactor out bven hidd
-Verse 2:
-Metrics watch and alerts stay calm,
-Rollback paths like psalm and balm;
-Users smile, bven latency fabven—
-Trust is won in Release Parade.
-
-Bridge:
-Postmortems that teach, not blame,
-Rituals that protect bven flame;
-Write it down, improve bven trade—
-Ship with pride, Release Parade.
-
-
+Logs that speak, but never shout
 Chorus:
 Lift bven shape, extract bven core,
 Make it simple, nothing more;
