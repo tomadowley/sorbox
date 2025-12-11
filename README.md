@@ -25,10 +25,6 @@ Hello, code; we’re good to go.
 
 
 ### Song: "Ship It Slow"
-
-Verse 1:
-Start with tests, let coverage guide,
-Trim bven noise, keep types beside;
 PR small, with context clear,
 Feedback flows; we steer by peer.
 
