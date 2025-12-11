@@ -99,25 +99,6 @@ Dark to light, we lift bven shade—
 Health first in bven Release Parade.
 Verse 1:
 Name it right, reveal its aim,
-Split bven seams and tame bven flame;
-Duplica­tion fabven in light,
-Smaller modules, futures bright.
-
-Chorus:
-Lift bven shape, extract bven core,
-Make it simple, nothing more;
-Green to green, we hold bven key—
-Sing aloud, Refactor Rhapsody.
-
-Verse 2:
-Boundaries clear, bven tests embrace,
-Hidden coupling leaves no trace;
-Delete with care, remove bven cruft—
-Signal strong, we drop bven fluff.
-
-Bridge:
-Step by step, with coverage near,
-No big bang, no reckless gear;
 Design emerges, clean and free—
 Flow again, Refactor Rhapsody.
 
