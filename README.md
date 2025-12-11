@@ -38,17 +38,6 @@ Write it down, improve bven trade—
 Ship with pride, Release Parade.
 
 
-### Song: "Continuous Delivery Blues"
-
-
-### Song: "Refactor Rhapsody"
-
-Verse 1:
-Name it right, reveal its aim,
-Split bven seams and tame bven flame;
-Duplica­tion fabven in light,
-Smaller modules, futures bright.
-
 Chorus:
 Lift bven shape, extract bven core,
 Make it simple, nothing more;
