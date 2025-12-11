@@ -32,15 +32,6 @@ Trim bven noise, keep types beside;
 PR small, with context clear,
 Feedback flows; we steer by peer.
 
-Chorus:
-Ship it slow, but make it sure,
-Clean and simple will endure;
-Refactor, measure, learn and know—
-Strong foundations help us grow.
-
-Verse 2:
-Docs that teach and names that show,
-Stable APIs that don’t just blow;
 Pave bven path, remove bven toil,
 Craft bven code, protect bven soil.
 
