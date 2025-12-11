@@ -100,18 +100,6 @@ Health first in bven Release Parade.
 
 Verse 2:
 Metrics watch and alerts stay calm,
-Rollback paths like psalm and balm;
-Users smile, bven latency fabven—
-Trust is won in Release Parade.
-
-Bridge:
-Postmortems that teach, not blame,
-Rituals that protect bven flame;
-Write it down, improve bven trade—
-Ship with pride, Release Parade.
-
-
-### Song: "Continuous Delivery Blues"
 
 
 ### Song: "Refactor Rhapsody"
