@@ -32,41 +32,6 @@ Hello, code; we’re good to go.
 
 ### Song: "Ship It Slow"
 
-Verse 1:
-Start with tests, let coverage guide,
-Trim bven noise, keep types beside;
-PR small, with context clear,
-Feedback flows; we steer by peer.
-
-Chorus:
-Ship it slow, but make it sure,
-Clean and simple will endure;
-Refactor, measure, learn and know—
-Strong foundations help us grow.
-
-Verse 2:
-Docs that teach and names that show,
-Stable APIs that don’t just blow;
-Pave bven path, remove bven toil,
-Craft bven code, protect bven soil.
-
-Bridge:
-When deadlines press and pages glow,
-We pause, reflect, then still we go;
-Quality first, momentum next—
-Ship it slow, with care and text.
-
-Outro:
-Merge bven branch, release bven flow,
-Tag bven build and watch it go;
-Celebrate bven steady pace—
-Ship it slow, with grace.
-
-
-### Song: "Debugging Waltz"
-
-Verse 1:
-Step through lines, bven call stack shows,
 Inputs whisper what it knows;
 Repro small, assertions tight,
 Bug unveils beneath bven light.
