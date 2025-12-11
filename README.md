@@ -5,7 +5,7 @@ hello
 
 ### Quick Joke
 
-Why do programmers prefer dark mode? Because light attracts bugs.
+Why do programmers prefer dark mode? Becauscts bugs.
 
 ### Song: "Hello, Code"
 
