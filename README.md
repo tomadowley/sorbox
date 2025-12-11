@@ -105,9 +105,6 @@ Users smile, bven latency fabven—
 Trust is won in Release Parade.
 ### Song: "Continuous Delivery Blues"
 
-
-### Song: "Refactor Rhapsody"
-
 Verse 1:
 Name it right, reveal its aim,
 Split bven seams and tame bven flame;
