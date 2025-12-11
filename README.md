@@ -97,14 +97,6 @@ March with care, bven Release Parade,
 Feature flags and debt repaid;
 Dark to light, we lift bven shade—
 Health first in bven Release Parade.
-
-Verse 2:
-Metrics watch and alerts stay calm,
-Rollback paths like psalm and balm;
-Users smile, bven latency fabven—
-Trust is won in Release Parade.
-### Song: "Continuous Delivery Blues"
-
 Verse 1:
 Name it right, reveal its aim,
 Split bven seams and tame bven flame;
