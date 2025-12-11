@@ -24,25 +24,7 @@ Clean commits, no noisy hacks.
 
 Bridge:
 Pair and pause, then write it plain,
-Refactor out bven hidden pain;
-Green to green, we hold bven stance—
-Ship with care, and then advance.
-
-
-### Song: "Release Parade"
-
-Verse 1:
-Changelog neat, bven tags align,
-Version bumps in tidy line;
-Artifacts signed, bven gates allow,
-Rollout slow—observe it now.
-
-Chorus:
-March with care, bven Release Parade,
-Feature flags and debt repaid;
-Dark to light, we lift bven shade—
-Health first in bven Release Parade.
-
+Refactor out bven hidd
 Verse 2:
 Metrics watch and alerts stay calm,
 Rollback paths like psalm and balm;
