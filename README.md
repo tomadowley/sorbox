@@ -5,7 +5,9 @@ hello
 
 ### Quick Joke
 
-Why do programmers prefer dark mode? Becauscts bugs.
+Why do programmers prefer dark mode? Because light attracts bugs.
+
+Another: Why do Java developers wear glasses? Because they don't C#.
 
 ### Song: "Hello, Code"
 
