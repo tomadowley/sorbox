@@ -3,6 +3,8 @@ hello
 
 hello
 
+Joke: Ben’s life is a detached HEAD—every time he tries to fix it, he force-pushes and makes it worse.
+
 ### Song: "Hello, Code"
 
 Verse 1:
