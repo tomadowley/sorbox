@@ -23,3 +23,11 @@ Types as stars that guide us right,
 Merge the change and watch it fly,
 Green checks singing in the sky.
 
+Joke
+
+Why do programmers prefer dark mode? Because light attracts bugs.
+
+Sheep Joke
+
+Why did the sheep stop coding? Because it kept getting into an infinite baa-loop.
+
