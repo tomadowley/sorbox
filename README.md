@@ -17,18 +17,11 @@ Sheep Joke
 
 Why did the sheep stop coding? Because it kept getting into an infinite baa-loop.
 
-Song
+Git Joke
 
-Dev Song
+Why did the developer go broke? Because they used up all their cache.
 
-Push the code and watch it fly,
-Tests turn green, we breathe a sigh,
-Refactors hum in midnight glow,
-Ship it clean, then off we go.
+Regex Joke
 
-Chorus:
-Sing commit by commit, line by line,
-Keep the diff small, crisp, and fine,
-From TODOs to done, we cross the sea,
-With types as sails and bugs set free.
+I had a problem, so I used regex. Now I have two problems.
 
