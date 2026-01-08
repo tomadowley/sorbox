@@ -32,3 +32,16 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+Merge Melody
+
+Branch by branch we weave the thread,
+Rebase gently, keep it spread,
+Conflicts fade with careful art,
+History clean, a crafted chart.
+
+Chorus:
+Review, approve, and merge the stream,
+CI green, we keep the dream,
+Tag the release, breathe in, be free,
+Ship with care and clarity.
+
