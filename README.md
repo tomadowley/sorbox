@@ -21,3 +21,7 @@ Git Joke
 
 Why did the developer go broke? Because they used up all their cache.
 
+Regex Joke
+
+I had a problem, so I used regex. Now I have two problems.
+
