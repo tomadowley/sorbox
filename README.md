@@ -17,3 +17,7 @@ Sheep Joke
 
 Why did the sheep stop coding? Because it kept getting into an infinite baa-loop.
 
+Git Joke
+
+Why did the developer go broke? Because they used up all their cache.
+
