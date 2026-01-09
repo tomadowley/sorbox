@@ -32,3 +32,7 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+Bonus Joke
+
+Why did the developer go broke? Because they used up all their cache.
+
