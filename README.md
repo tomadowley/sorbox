@@ -32,3 +32,7 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+Another Joke
+
+There are only 10 kinds of people in the world: those who understand binary and those who don't.
+
