@@ -36,3 +36,7 @@ Another Joke
 
 How many programmers does it take to change a light bulb? None; that's a hardware problem.
 
+Yet Another Joke
+
+There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+
