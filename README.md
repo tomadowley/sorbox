@@ -17,6 +17,10 @@ Sheep Joke
 
 Why did the sheep stop coding? Because it kept getting into an infinite baa-loop.
 
+Another Joke
+
+There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+
 Song
 
 Dev Song
