@@ -32,3 +32,10 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+
+Q: Why did the developer keep updating the README?
+
+A: Because when the tests failed, at least the documentation still passed.
+
+Explanation: This plays on “tests passing.” README edits don’t affect the test suite, so a developer can make visible progress by changing docs while the code is still failing—highlighting the difference between documentation updates and actual code quality.
+
