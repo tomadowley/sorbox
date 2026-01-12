@@ -32,3 +32,10 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+
+### Hakui
+
+Keys whisper at dawn
+Tests bloom green like spring fields wide
+Ship small, steady, sure
+
