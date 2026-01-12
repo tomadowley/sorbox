@@ -32,3 +32,22 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+
+### Tiny README Haiku
+
+Silent compiler,
+Tests bloom green in dawn's commit,
+Bugs sleep—just for now.
+
+
+### Tiny README Joke
+
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs.
+
+Q: How many off-by-one errors does it take to change a light bulb?
+A: Two—one to change it and one to index it.
+
+Q: Why did the developer go broke?
+A: Because he used up all his cache.
+
