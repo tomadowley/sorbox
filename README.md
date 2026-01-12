@@ -32,3 +32,8 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Joke: "Regex Remedy"
+
+I had a problem, so I used regex.
+Now I have two problems.
+
