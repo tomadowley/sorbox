@@ -32,3 +32,21 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Quick README Joke
+
+Why did the function go to therapy?
+Because it had too many side effects.
+
+Or, a classic:
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
+### Haiku
+
+Tests red, then green glow
+Small commits ship steady code
+Bugs fade into night
+
+Bonus joke:
+There are 10 kinds of people: those who understand binary and those who don't.
+
