@@ -32,3 +32,8 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### README Joke
+
+Why did the README cross the repo?
+To get to the other side of the docs.
+
