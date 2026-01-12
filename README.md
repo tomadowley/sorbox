@@ -32,3 +32,15 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Haiku: "Silent Merge"
+
+Silent tests pass green  
+Refactor whispers through code  
+Ship it slow, with grace
+
+### Haiku: "Morning Build"
+
+CI dawns in light  
+Commits weave through pipelines  
+Green buds, release blooms
+
