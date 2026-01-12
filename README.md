@@ -32,3 +32,14 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+
+### README Joke
+
+Why did the developer go broke?
+Because they used up all their cache.
+
+### Another README Joke
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
