@@ -32,3 +32,9 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Haiku: "Ship Small"
+
+Quiet keys at dawn,
+Tests whisper truth in the logs,
+Ship small, steady joy.
+
