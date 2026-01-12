@@ -32,3 +32,16 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Bonus: A dev joke
+
+Why do programmers prefer dark mode? Because light attracts bugs.
+
+### Another dev joke
+
+There are 10 types of people in the world: those who understand binary and those who don't.
+
+### One more dev joke
+
+To understand recursion, you must first understand recursion.
+
+
