@@ -32,3 +32,21 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Bonus: A quick dev joke
+
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs.
+
+Q: How many programmers does it take to change a light bulb?
+A: None. That's a hardware problem.
+
+Q: Why do Java developers wear glasses?
+A: Because they don't C#.
+
+Q: Why did the developer go broke?
+A: Because they used up all their cache.
+
+Q: Why do programmers confuse Christmas and Halloween?
+A: Because Oct 31 == Dec 25.
+
+
