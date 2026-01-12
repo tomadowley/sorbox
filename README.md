@@ -32,3 +32,9 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Haiku: "Autumn Deploy"
+
+Leaves fall on codebase,
+Cool winds guide quiet rollouts,
+Harvest of green tests.
+
