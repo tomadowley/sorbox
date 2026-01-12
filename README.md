@@ -32,3 +32,15 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Joke: "The Semicolon"
+
+#### Arrays
+Why did the JavaScript developer quit?
+Because they didn't get arrays.
+
+—or—
+
+#### Dark Mode
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
