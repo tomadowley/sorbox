@@ -32,3 +32,15 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Stand-up While It Compiles
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
+Explanation:
+This is a pun. In the real world, insects (bugs) are attracted to light. In software, “bugs” are defects. So “light attracts bugs” jokingly suggests that using light mode attracts software bugs, hence programmers prefer dark mode.
+
+Another one:
+How many programmers does it take to change a light bulb?
+None. That’s a hardware problem.
+
