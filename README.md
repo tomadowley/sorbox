@@ -32,3 +32,14 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+More Fun
+
+Tongue Twister:
+Swift scripts swiftly shift shapes.
+
+Palindrome:
+Never odd or even.
+
+Riddle:
+I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (An echo.)
+
