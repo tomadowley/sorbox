@@ -32,3 +32,14 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+
+### Joke
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+
+### Joke
+
+Why do Java developers wear glasses?
+Because they don't C#.
+
