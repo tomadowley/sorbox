@@ -32,3 +32,11 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Laugh Function: devJoke()
+
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs.
+
+Q: There are 10 kinds of people in the world — who are they?
+A: Those who understand binary, and those who don’t.
+
