@@ -32,3 +32,39 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Haiku: "README Haiku"
+
+Tests frame every step,
+Tiny changes, steady flow,
+Confidence accrues.
+
+### Haiku: "Testing Garden"
+
+Green lights softly bloom,
+Failing specs reveal the truth,
+Trust gathers in code.
+
+### Haiku: "Red-Green-Refactor"
+
+Red fails mark the path,
+Green confirms the smallest step,
+Refactor breathes calm.
+
+### Haiku: "Assertion Whisper"
+
+Assertions whisper,
+Edge cases find their voices,
+Quality stands firm.
+
+### Haiku: "Fixture Dawn"
+
+Data seeds awake,
+Fixtures set the scene with care,
+Bugs fade in first light.
+
+### Haiku: "Coverage River"
+
+Lines flow under watch,
+Coverage charts where risk sleeps,
+Confidence runs deep.
+
