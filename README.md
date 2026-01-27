@@ -32,3 +32,9 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Whisper of a Haiku
+
+Tests softly speak truth
+Small steps shape the path we walk
+Ship calm, code with care.
+
