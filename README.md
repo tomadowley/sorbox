@@ -32,3 +32,10 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+
+### Joke
+
+Why do programmers prefer dark mode? Because light attracts bugs.
+
+There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+
