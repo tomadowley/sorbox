@@ -32,3 +32,8 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+
+### Roast: "It Works on My Machine"
+
+If your deploy guide is just "npm install && npm start" but your app needs Redis, Postgres, three feature flags, and a blood moon eclipse, it doesn't "just work"—it hostage-negotiates. Write the prerequisites. List the env vars. Automate the setup. Future-you will thank present-you for not being a chaos gremlin.
+
