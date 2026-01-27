@@ -70,12 +70,9 @@ const resultWarn: React.CSSProperties = {
 export const PrimeChecker: React.FC = () => {
   const [input, setInput] = useState<string>('');
   const [checked, setChecked] = useState<boolean>(false);
-  const [isPrimeResult, setIsPrimeResult] = useState<ResultState>(null);onst PrimeChecker: React.FC = () => {
-  const [input, setInput] = useState('');
-  const [checked, setChecked] = useState(false);
-  const [isPrimeResult, setIsPrimeResult] = useState<boolean | null>(null);
+  const [isPrimeResult, setIsPrimeResult] = useState<ResultState>(null);
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>): void => {nge = (e: React.ChangeEvent<HTMLInputElement>) => {
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>): void => {
     setInput(e.target.value.replace(/[^0-9]/g, ''));
     setChecked(false);
     setIsPrimeResult(null);
@@ -83,7 +80,7 @@ export const PrimeChecker: React.FC = () => {
 
   const handleCheck = (): void => {
     const n = parseInt(input, 10);
-    if (!input || isNaN(n) || n <= 0) {
+    if (!input || Number.isNaN(n) || n <= 0) {
       setChecked(true);
       setIsPrimeResult(null);
       return;
@@ -92,10 +89,10 @@ export const PrimeChecker: React.FC = () => {
     setIsPrimeResult(isPrime(n));
   };
 
-  let resultElem = null;
+  let resultElem: React.ReactNode = null;
   if (checked) {
     const n = parseInt(input, 10);
-    if (!input || isNaN(n) || n <= 0) {
+    if (!input || Number.isNaN(n) || n <= 0) {
       resultElem = (
         <div style={resultWarn}>Please enter a positive integer</div>
       );
