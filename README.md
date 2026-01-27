@@ -32,3 +32,8 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### README Joke
+
+Another one:
+It's not a bug, it's an undocumented feature.
+
