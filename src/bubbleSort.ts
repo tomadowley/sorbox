@@ -12,7 +12,7 @@ export function bubbleSort<T>(
   compareFn: (a: T, b: T) => number = (a, b) =>
     a < b ? -1 : a > b ? 1 : 0
 ): T[] {
-  const n = arr.length;
+  const n: number = arr.length;
   let swapped: boolean;
   do {
     swapped = false;
@@ -39,9 +39,9 @@ export function selectionSort<T>(
   compareFn: (a: T, b: T) => number = (a, b) =>
     a < b ? -1 : a > b ? 1 : 0
 ): T[] {
-  const n = arr.length;
+  const n: number = arr.length;
   for (let i = 0; i < n - 1; i++) {
-    let minIdx = i;
+    let minIdx: number = i;
     for (let j = i + 1; j < n; j++) {
       if (compareFn(arr[j], arr[minIdx]) < 0) {
         minIdx = j;
@@ -67,10 +67,10 @@ export function insertionSort<T>(
   compareFn: (a: T, b: T) => number = (a, b) =>
     a < b ? -1 : a > b ? 1 : 0
 ): T[] {
-  const n = arr.length;
+  const n: number = arr.length;
   for (let i = 1; i < n; i++) {
-    let key = arr[i];
-    let j = i - 1;
+    let key: T = arr[i];
+    let j: number = i - 1;
     while (j >= 0 && compareFn(arr[j], key) > 0) {
       arr[j + 1] = arr[j];
       j--;
@@ -108,9 +108,9 @@ export function mergeSort<T>(
     return result.concat(left.slice(i), right.slice(j));
   };
 
-  const mid = Math.floor(arr.length / 2);
-  const left = mergeSort(arr.slice(0, mid), compareFn);
-  const right = mergeSort(arr.slice(mid), compareFn);
+  const mid: number = Math.floor(arr.length / 2);
+  const left: T[] = mergeSort(arr.slice(0, mid), compareFn);
+  const right: T[] = mergeSort(arr.slice(mid), compareFn);
   return merge(left, right);
 }
 
@@ -130,8 +130,8 @@ export function quickSort<T>(
   if (arr.length <= 1) return arr.slice();
 
   const [pivot, ...rest] = arr;
-  const left = rest.filter(item => compareFn(item, pivot) < 0);
-  const right = rest.filter(item => compareFn(item, pivot) >= 0);
+  const left: T[] = rest.filter((item: T) => compareFn(item, pivot) < 0);
+  const right: T[] = rest.filter((item: T) => compareFn(item, pivot) >= 0);
 
   return [...quickSort(left, compareFn), pivot, ...quickSort(right, compareFn)];
 }
@@ -149,13 +149,13 @@ export function heapSort<T>(
   compareFn: (a: T, b: T) => number = (a, b) =>
     a < b ? -1 : a > b ? 1 : 0
 ): T[] {
-  const n = arr.length;
+  const n: number = arr.length;
 
   // Heapify
-  function heapify(size: number, root: number) {
-    let largest = root;
-    const left = 2 * root + 1;
-    const right = 2 * root + 2;
+  function heapify(size: number, root: number): void {
+    let largest: number = root;
+    const left: number = 2 * root + 1;
+    const right: number = 2 * root + 2;
 
     if (left < size && compareFn(arr[left], arr[largest]) > 0) {
       largest = left;

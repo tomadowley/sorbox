@@ -4,10 +4,10 @@
  * @returns A new array sorted in ascending order.
  */
 export function insertionSort<T>(array: T[]): T[] {
-  const result = [...array];
+  const result: T[] = [...array];
   for (let i = 1; i < result.length; i++) {
-    let key = result[i];
-    let j = i - 1;
+    let key: T = result[i];
+    let j: number = i - 1;
     while (j >= 0 && result[j] > key) {
       result[j + 1] = result[j];
       j--;
