@@ -32,3 +32,141 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Song: "Ship It Safe"
+
+Verse 1:
+Specs are clear, the plan is tight,
+Break the work, define the bite;
+Red to green, we make it right,
+Merge with care by end of night.
+
+Chorus:
+Ship it safe, ship it sound,
+Logs are clean and tests are bound;
+Feature flags to guard the way,
+Roll it forward, not delay.
+
+Verse 2:
+Docs in sync, the checks all pass,
+No stray states or hidden mass;
+Monitor, alert, observe—
+Own the change our users deserve.
+
+Outro:
+If we learn along the ride,
+Capture notes and codify;
+Next release will start ahead—
+Craft, deliver, ship it red-to-green instead.
+
+
+### Song: "On-Call Lullaby"
+
+Verse 1:
+Pager hums at 2 A.M.,
+Graphs spike high—here we go again;
+Trace the path from edge to core,
+Find the root and close the door.
+
+Chorus:
+Sleep can wait, users can't,
+Steady hands—no panic rant;
+Rollback clean or forward slow,
+Keep the lights a steady glow.
+
+Verse 2:
+SLOs and SLI,
+Golden signals never lie;
+Pair to fix and write it plain,
+Postmortems make us sane.
+
+Bridge:
+Feature flags and circuit breaks,
+Chaos tests for future quakes;
+Practice drills so when it's real,
+Calm and careful is the deal.
+
+Outro:
+Sunrise finds the dashboard green,
+Lessons logged, the codebase clean;
+Rotate off with quiet pride—
+On-call done, we kept the ride.
+
+
+### Song: "Refactor Rhapsody"
+
+Verse 1:
+Dusty paths and nested calls,
+Side effects in tangled walls;
+Name it clear and make it small,
+Let intention lead it all.
+
+Chorus:
+Lift it out, make it pure,
+Short and sweet, the seams secure;
+Green the tests, then shape the clay—
+Readability leads the way.
+
+Verse 2:
+Duplication, triple rhyme,
+Dry it once and spare the time;
+Coupling loose and modules tight,
+Boundaries drawn to guide the light.
+
+Bridge:
+Measure twice before you cut,
+Keep behavior—change the gut;
+Commit in steps, review with care,
+Each small move leaves code more fair.
+
+Verse 3:
+Interfaces tell the tale,
+Mocks that help, not tip the scale;
+Docs reflect the story’s arc,
+From the dark to clearer mark.
+
+Outro:
+Future selves will thank today,
+When they read and smile, "Okay";
+Refactor slow, refactor true—
+Craft the code to serve the crew.
+
+
+### Song: "Merge Conflicts Blues"
+
+Verse 1:
+Pulled too late from the mainline stream,
+Index sings a crimson theme;
+Head and theirs both claim the spot,
+Choose the truth and drop the rot.
+
+Chorus:
+Got those merge conflicts blues,
+Pick the lines we mean to use;
+Stage the fix with steady hand,
+Write the story code will stand.
+
+Verse 2:
+Markers stare with marks of strife,
+======= drawing double life;
+Ours or theirs or something new,
+Keep intent and cut it true.
+
+Bridge:
+Rebase slow, commit in sets,
+Fold the noise and pay the debts;
+Tests will judge what words can't prove,
+Green or red, we make the move.
+
+Verse 3:
+Pair and talk the change back through,
+Why it lives and what it do;
+Docs and messages align,
+History tells a path refined.
+
+Outro:
+Push the branch, the checks run clean,
+Main is calm and evergreen;
+Next time pull before you start—
+Sync the head and save your heart.
+
+
