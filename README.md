@@ -32,3 +32,8 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+### Developer Joke
+
+Why do programmers prefer dark mode? Because light attracts bugs.
+
+
