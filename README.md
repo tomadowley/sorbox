@@ -32,3 +32,8 @@ Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
 
+New Joke
+
+Why did the database administrator break up with SQL?
+Because they found a better `JOIN`.
+
