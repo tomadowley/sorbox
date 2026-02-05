@@ -13,6 +13,8 @@ Joke
 
 Why do programmers prefer dark mode? Because light attracts bugs.
 
+Why did the developer go broke? Because they used up all their cache.
+
 Sheep Joke
 
 Why did the sheep stop coding? Because it kept getting into an infinite baa-loop.
