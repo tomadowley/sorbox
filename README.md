@@ -44,3 +44,10 @@ Sing commit by commit, line by line,
 Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
+
+Another Song
+
+Tabs or spaces, choose your side,
+Linters watch with patient pride,
+Morning build and evening run,
+One more fix, and then we're done.
