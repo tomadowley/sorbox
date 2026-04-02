@@ -13,13 +13,11 @@ Joke
 
 Why do programmers prefer dark mode? Because light attracts bugs.
 
-<<<<<<< ours
 Another Joke
 
 I told my computer I needed a break. It said: “No problem — I’ll go to sleep.”
-=======
 Why did the function break up with the loop? It needed more space.
->>>>>>> theirs
+Why did the README apply for a job? It had plenty of experience documenting itself.
 
 Sheep Joke
 
