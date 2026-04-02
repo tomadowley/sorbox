@@ -29,6 +29,7 @@ README Joke
 
 Why did the README file feel lonely? It was always getting left on read.
 Why did the README bring a map? It kept getting lost in the docs.
+Why did the README become a comedian? It already knew all the setup lines.
 
 Song
 
