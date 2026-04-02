@@ -30,6 +30,7 @@ README Joke
 Why did the README file feel lonely? It was always getting left on read.
 Why did the README bring a map? It kept getting lost in the docs.
 Why did the README get promoted? It always knew how to brief the team.
+Why did the README ace the interview? It had excellent references.
 
 Song
 
