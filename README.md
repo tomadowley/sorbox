@@ -44,3 +44,8 @@ Sing commit by commit, line by line,
 Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
+jsg
+sd
+f
+sd
+ss
