@@ -13,13 +13,9 @@ Joke
 
 Why do programmers prefer dark mode? Because light attracts bugs.
 
-<<<<<<< ours
 Another Joke
 
 I told my computer I needed a break. It said: “No problem — I’ll go to sleep.”
-=======
-Why did the function break up with the loop? It needed more space.
->>>>>>> theirs
 
 Sheep Joke
 
@@ -45,3 +41,14 @@ Sing commit by commit, line by line,
 Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
+
+Mascot
+
+Rasot the sheep
+
+   __
+  (oo)
+ /-\/
+/ |  
+  ||
+  ||
