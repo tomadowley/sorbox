@@ -26,6 +26,7 @@ README Joke
 
 Why did the README file feel lonely? It was always getting left on read.
 Why did the README bring a map? It kept getting lost in the docs.
+Why did the README tell jokes? To improve the documentation's comic relief.
 
 10 More Jokes
 
