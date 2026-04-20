@@ -2,8 +2,8 @@ import React from 'react';
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders prime checker label', () => {
+test('renders platformer game heading', () => {
   render(<App />);
-  const label = screen.getByText(/check if a number is prime:/i);
-  expect(label).toBeInTheDocument();
+  const heading = screen.getByText(/mini platformer/i);
+  expect(heading).toBeInTheDocument();
 });
