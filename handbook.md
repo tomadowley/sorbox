@@ -77,8 +77,6 @@ version: 1
 - main is protected
 - feature branches from main
 - rebase before merge
-- PRs must reference a ticket
-- Merge via squash
 <!-- Ch3 filler 001 -->
 <!-- Ch3 filler 002 -->
 <!-- Ch3 filler 003 -->
@@ -253,6 +251,7 @@ version: 1
 # Chapter 8: FAQ
 - Q: Who owns releases? A: Dev Infra
 - Q: What’s the SLA? A: 99.9%
+- Q: Do we support LTS? A: 12 months
 <!-- Ch8 filler 001 -->
 <!-- Ch8 filler 002 -->
 <!-- Ch8 filler 003 -->
