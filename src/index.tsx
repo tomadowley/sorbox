@@ -4,9 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
-);
+const container = document.getElementById('root');
+
+if (!container) {
+  throw new Error('Root container missing in index.html');
+}
+
+const root = ReactDOM.createRoot(container as HTMLElement);
 root.render(
   <React.StrictMode>
     <App />
