@@ -54,4 +54,8 @@ Sing commit by commit, line by line,
 Keep the diff small, crisp, and fine,
 From TODOs to done, we cross the sea,
 With types as sails and bugs set free.
+
+Another README Joke
+
+Why did the README refuse to load? It kept getting buffered — turns out it needed to clear its cache and commit to being readable.
 hi
