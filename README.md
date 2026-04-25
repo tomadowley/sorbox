@@ -58,4 +58,9 @@ With types as sails and bugs set free.
 Another README Joke
 
 Why did the README refuse to load? It kept getting buffered — turns out it needed to clear its cache and commit to being readable.
+
+Yet Another README Joke
+
+Why did the README go to therapy? It had too many unresolved issues and couldn't process its feelings.
+
 hi
