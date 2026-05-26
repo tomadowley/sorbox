@@ -39,10 +39,10 @@ MODE = "dev"
 # [SEC A END]
 
 # [SEC B START] Greetings
-GREETING = "Howdy from FEATURE"
-SIGNOFF = "Thanks,"
-def greet(name):
-    # feature chooses different punctuation & placement
+GREETING: str = "Howdy from FEATURE"
+SIGNOFF: str = "Thanks,"
+def greet(name: str) -> str:
+    # feature chooses different punctuation &amp; placement
     return f"{SIGNOFF} {name}. {GREETING}"
 # SEC B filler 001
 # SEC B filler 002

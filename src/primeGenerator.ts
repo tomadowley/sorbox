@@ -6,7 +6,7 @@
 export function generatePrimes(count: number): number[] {
   if (count < 1) return [];
   const primes: number[] = [];
-  let num = 2;
+  let num: number = 2;
   while (primes.length < count) {
     if (isPrime(num)) {
       primes.push(num);
@@ -23,7 +23,7 @@ export function generatePrimes(count: number): number[] {
  */
 function isPrime(n: number): boolean {
   if (n < 2) return false;
-  for (let i = 2, sqrt = Math.sqrt(n); i <= sqrt; i++) {
+  for (let i = 2, sqrt: number = Math.sqrt(n); i <= sqrt; i++) {
     if (n % i === 0) return false;
   }
   return true;
