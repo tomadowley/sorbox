@@ -1,61 +1,52 @@
+# Neon Labyrinth
 
-hello
+Neon Labyrinth is an original browser-based retro first-person shooter built with React and an HTML canvas raycaster. It uses familiar early-3D arcade inspirations, but all game code, map layout, entities, and presentation are original to this project; it is not a Doom clone, Doom copy, or reuse of Doom assets.
 
-hello
+## Setup
 
-Haiku
+Install dependencies:
 
-Silent code flows light
-Types and tests guard each edge
-Bugs fade into night
+```sh
+npm install
+```
 
-Joke
+Run the development server:
 
-Why do programmers prefer dark mode? Because light attracts bugs.
+```sh
+npm start
+```
 
-Another Joke
+Open the local URL printed by Create React App, then click the canvas or press Tab to focus it before playing.
 
-I told my computer I needed a break. It said: “No problem — I’ll go to sleep.”
-Why did the function break up with the loop? It needed more space.
+## Controls
 
-Sheep Joke
+- `W` / `S` or `↑` / `↓`: move forward and backward
+- `A` / `D`: strafe left and right
+- `Q` / `E` or `←` / `→`: turn
+- `Space` or mouse click: fire
+- `F` or `Enter`: interact with doors
+- `R`: restart after victory or defeat
 
-Why did the sheep stop coding? Because it kept getting into an infinite baa-loop.
+## Features
 
-README Joke
+- Canvas raycasting renderer with textured-feeling neon wall, floor, ceiling, sprite, weapon, and HUD drawing.
+- Grid-map collision for walls, doors, pickups, enemies, and the exit portal.
+- Enemy sentry drones that patrol, chase, damage the player, and can be defeated.
+- Pickups for health, ammunition, armor, and the Access Shard key.
+- Locked door and portal flow requiring the key before victory.
+- HUD with health, armor, ammo, key, enemy count, and contextual feedback.
+- Intro, active play, victory, death, and restart states.
 
-Why did the README file feel lonely? It was always getting left on read.
-Why did the README bring a map? It kept getting lost in the docs.
+## Test and build
 
-10 More Jokes
+Run the automated tests:
 
-1. Why do Java developers wear glasses? Because they can't C#.
-2. A SQL query walks into a bar, sees two tables, and asks: "Can I join you?"
-3. Why was the JavaScript developer sad? Because he didn't Node how to Express himself.
-4. How many programmers does it take to change a light bulb? None, that's a hardware problem.
-5. Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25.
-6. What's a programmer's favorite hangout place? Foo Bar.
-7. Why did the developer go broke? Because he used up all his cache.
-8. What do you call a developer who doesn't comment their code? A sociopath.
-9. Why did the git commit break up with the branch? There were too many merge conflicts.
-10. What's a bug's least favorite day? Patch Tuesday.
+```sh
+npm test -- --watchAll=false
+```
 
-Song
+Create a production build:
 
-Dev Song
-
-Push the code and watch it fly,
-Tests turn green, we breathe a sigh,
-Refactors hum in midnight glow,
-Ship it clean, then off we go.
-
-Chorus:
-Sing commit by commit, line by line,
-Keep the diff small, crisp, and fine,
-From TODOs to done, we cross the sea,
-With types as sails and bugs set free.
-
-Another README Joke
-
-Why did the README refuse to load? It kept getting buffered — turns out it needed to clear its cache and commit to being readable.
-hi
+```sh
+npm run build
+```
