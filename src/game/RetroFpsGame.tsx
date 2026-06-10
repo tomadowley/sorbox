@@ -21,6 +21,11 @@ const WEAPON_COOLDOWN = 0.35;
 const WEAPON_DAMAGE = 30;
 const MUZZLE_FLASH_DUR = 0.12;
 const HUD_H = 80;
+const IMPACT_EXPLOSION_DURATION = 0.35;
+const DEATH_EXPLOSION_DURATION = 0.8;
+const DOOR_EXPLOSION_DURATION = 0.55;
+const DEATH_BLAST_RADIUS = 1.7;
+const DEATH_BLAST_DAMAGE = 25;
 
 // Map
 // Legend: # wall  . floor  D door  L locked-door  E exit-portal
@@ -86,6 +91,16 @@ interface Enemy {
   hitFlash: number;
 }
 
+interface Explosion {
+  id: number;
+  x: number;
+  y: number;
+  age: number;
+  duration: number;
+  radius: number;
+  kind: 'impact' | 'death' | 'door' | 'player';
+}
+
 interface Player {
   x: number;
   y: number;
@@ -103,6 +118,7 @@ interface GameState {
   doors: Door[];
   pickups: Pickup[];
   enemies: Enemy[];
+  explosions: Explosion[];
   wallMap: number[][];   // 0=floor 1=wall 2=door 3=locked 4=exit
   weaponCooldown: number;
   muzzleFlash: number;
@@ -111,6 +127,7 @@ interface GameState {
   feedbackMsg: string;
   feedbackTimer: number;
   lastTime: number;
+  nextExplosionId: number;
 }
 
 // Initialisation
@@ -150,6 +167,7 @@ function buildInitialState(): GameState {
     doors,
     pickups,
     enemies,
+    explosions: [],
     wallMap,
     weaponCooldown: 0,
     muzzleFlash: 0,
@@ -158,6 +176,7 @@ function buildInitialState(): GameState {
     feedbackMsg: '',
     feedbackTimer: 0,
     lastTime: 0,
+    nextExplosionId: 0,
   };
 }
 
@@ -191,6 +210,25 @@ function movePlayer(gs: GameState, dx: number, dy: number): void {
 
 function dist2(ax: number, ay: number, bx: number, by: number): number {
   return (ax - bx) ** 2 + (ay - by) ** 2;
+}
+
+function spawnExplosion(
+  gs: GameState,
+  x: number,
+  y: number,
+  kind: Explosion['kind'],
+  radius: number,
+  duration: number
+): void {
+  gs.explosions.push({
+    id: gs.nextExplosionId++,
+    x,
+    y,
+    kind,
+    radius,
+    duration,
+    age: 0,
+  });
 }
 
 function hasLOS(gs: GameState, ax: number, ay: number, bx: number, by: number): boolean {
@@ -384,6 +422,48 @@ function render(ctx: CanvasRenderingContext2D, gs: GameState): void {
         }
       }
     }
+  }
+
+  for (const explosion of gs.explosions) {
+    const dx = explosion.x - x;
+    const dy = explosion.y - y;
+    const spriteAngle = Math.atan2(dy, dx) - angle;
+    const normalised = Math.atan2(Math.sin(spriteAngle), Math.cos(spriteAngle));
+    if (Math.abs(normalised) > HALF_FOV + 0.25) continue;
+
+    const explosionDist = Math.sqrt(dx * dx + dy * dy);
+    if (explosionDist < 0.2) continue;
+
+    const screenX = (0.5 + normalised / FOV) * W;
+    const progress = Math.min(1, explosion.age / explosion.duration);
+    const fade = 1 - progress;
+    const blastScale = explosion.radius * (0.5 + progress * 1.8);
+    const spriteScreenH = Math.min((viewH * blastScale / explosionDist) | 0, viewH * 1.4);
+    const spriteScreenW = spriteScreenH;
+    const drawStartY = ((viewH / 2) - spriteScreenH / 2) | 0;
+    const drawStartX = (screenX - spriteScreenW / 2) | 0;
+    const coreColor = explosion.kind === 'door' ? '0,255,220' : explosion.kind === 'impact' ? '255,230,90' : '255,92,0';
+    const rimColor = explosion.kind === 'player' ? '255,20,20' : '255,180,40';
+
+    for (let sx = 0; sx < spriteScreenW; sx += 2) {
+      const screenCol = drawStartX + sx;
+      if (screenCol < 0 || screenCol >= W) continue;
+      if ((zBuffer[screenCol] ?? 0) < explosionDist) continue;
+
+      const nx = sx / spriteScreenW - 0.5;
+      const ring = Math.abs(Math.hypot(nx, 0) - progress * 0.42);
+      const columnHeight = Math.max(2, spriteScreenH * Math.max(0, 1 - Math.abs(nx) * 2));
+      const jitter = Math.sin((sx + explosion.id * 19) * 0.31) * spriteScreenH * 0.08;
+      const yMid = drawStartY + spriteScreenH / 2 + jitter;
+      const alpha = Math.max(0, fade * (ring < 0.08 ? 0.9 : 0.45));
+      ctx.fillStyle = `rgba(${ring < 0.08 ? rimColor : coreColor},${alpha})`;
+      ctx.fillRect(screenCol, yMid - columnHeight / 2, 2, columnHeight);
+    }
+
+    ctx.fillStyle = `rgba(255,255,255,${fade * 0.45})`;
+    ctx.beginPath();
+    ctx.arc(screenX, viewH / 2, Math.max(3, spriteScreenH * 0.08), 0, Math.PI * 2);
+    ctx.fill();
   }
 
   // Weapon
@@ -625,6 +705,10 @@ function update(gs: GameState, dt: number, keys: Set<string>): void {
   gs.noAmmoFlash     = Math.max(0, gs.noAmmoFlash - dt);
   gs.noKeyFlash      = Math.max(0, gs.noKeyFlash - dt);
   gs.feedbackTimer   = Math.max(0, gs.feedbackTimer - dt);
+  for (const explosion of gs.explosions) {
+    explosion.age += dt;
+  }
+  gs.explosions = gs.explosions.filter(explosion => explosion.age < explosion.duration);
 
   // pickups
   for (const pu of gs.pickups) {
@@ -688,6 +772,7 @@ function update(gs: GameState, dt: number, keys: Set<string>): void {
     }
 
     if (p.health <= 0) {
+      spawnExplosion(gs, p.x, p.y, 'player', 1.4, DEATH_EXPLOSION_DURATION);
       gs.phase = 'dead';
       return;
     }
@@ -726,10 +811,28 @@ function handleShoot(gs: GameState): void {
   if (bestEnemy) {
     bestEnemy.health -= WEAPON_DAMAGE;
     bestEnemy.hitFlash = 0.15;
+    spawnExplosion(gs, bestEnemy.x, bestEnemy.y, 'impact', 0.55, IMPACT_EXPLOSION_DURATION);
     if (bestEnemy.health <= 0) {
       bestEnemy.health = 0;
       bestEnemy.state = 'dead';
       gs.player.score += 100;
+      spawnExplosion(gs, bestEnemy.x, bestEnemy.y, 'death', 1.2, DEATH_EXPLOSION_DURATION);
+      setFeedback(gs, 'SENTRY CORE DETONATED');
+
+      for (const nearby of gs.enemies) {
+        if (nearby.state === 'dead' || nearby.id === bestEnemy.id) continue;
+        const distanceSq = dist2(bestEnemy.x, bestEnemy.y, nearby.x, nearby.y);
+        if (distanceSq <= DEATH_BLAST_RADIUS ** 2 && hasLOS(gs, bestEnemy.x, bestEnemy.y, nearby.x, nearby.y)) {
+          nearby.health -= DEATH_BLAST_DAMAGE;
+          nearby.hitFlash = 0.2;
+          if (nearby.health <= 0) {
+            nearby.health = 0;
+            nearby.state = 'dead';
+            gs.player.score += 100;
+            spawnExplosion(gs, nearby.x, nearby.y, 'death', 1.0, DEATH_EXPLOSION_DURATION);
+          }
+        }
+      }
     }
   }
 }
@@ -790,12 +893,14 @@ function handleInteract(gs: GameState): void {
         door.locked = false;
         door.open = true;
         gs.wallMap[door.row][door.col] = 2;
+        spawnExplosion(gs, door.col + 0.5, door.row + 0.5, 'door', 0.9, DOOR_EXPLOSION_DURATION);
         setFeedback(gs, 'LOCKED DOOR OPENED!');
       } else {
         gs.noKeyFlash = 1.0;
       }
     } else if (!door.open) {
       door.open = true;
+      spawnExplosion(gs, door.col + 0.5, door.row + 0.5, 'door', 0.65, DOOR_EXPLOSION_DURATION);
       setFeedback(gs, 'DOOR OPENED');
     }
   }
